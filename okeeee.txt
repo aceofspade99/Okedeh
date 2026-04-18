@@ -13,21 +13,17 @@
         content="https://blogger.googleusercontent.com/img/a/AVvXsEhL-r_t9t8o9k89460sfhQn0bYLuGvG1W_nH1Fz9R8l_uk_NqeEBj2ON0BWnmTKGfFzhNk5YTED5d2cXIKDZwCboKfivhBEHkEM4FJLhkZ4g30O1-sMClAWP1zLTO9MX00CBZBIeyO9REEuqOe8cbpkkfHjar1N409y3ZeD7aeuWA2fbwedwUq0DXlVbz8" />
     <meta property="og:image:secure_url"
         content="https://blogger.googleusercontent.com/img/a/AVvXsEhL-r_t9t8o9k89460sfhQn0bYLuGvG1W_nH1Fz9R8l_uk_NqeEBj2ON0BWnmTKGfFzhNk5YTED5d2cXIKDZwCboKfivhBEHkEM4FJLhkZ4g30O1-sMClAWP1zLTO9MX00CBZBIeyO9REEuqOe8cbpkkfHjar1N409y3ZeD7aeuWA2fbwedwUq0DXlVbz8" />
-    <meta property="og:url" content="https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/" />
-    <meta property="og:canonical"
-        content="https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/" />
-    <meta property="og:author" content="https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/" />
-    <link rel="canonical" href="https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/" />
+    <meta property="og:url" content="https://kamarastone.ge/kamara/design/" />
+    <meta property="og:canonical" content="https://kamarastone.ge/kamara/design/" />
+    <meta property="og:author" content="https://kamarastone.ge/kamara/design/" />
+    <link rel="canonical" href="https://kamarastone.ge/kamara/design/" />
     <link rel="amphtml" href="https://ayamgoreng-dsv.pages.dev/" />
-    <link rel="alternate" hreflang="x-default"
-        href="https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/" />
+    <link rel="alternate" hreflang="x-default" href="https://kamarastone.ge/kamara/design/" />
     <link rel="alternate" hreflang="id-id" href="https://ayamgoreng-dsv.pages.dev/" />
-    <link rel="alternate" href="https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/" />
+    <link rel="alternate" href="https://kamarastone.ge/kamara/design/" />
     <link rel="alternate" hreflang="id" href="https://ayamgoreng-dsv.pages.dev/" />
-    <link rel="alternate" hreflang="en"
-        href="https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/" />
-    <link rel="alternate" hreflang="x-default"
-        href="https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/" />
+    <link rel="alternate" hreflang="en" href="https://kamarastone.ge/kamara/design/" />
+    <link rel="alternate" hreflang="x-default" href="https://kamarastone.ge/kamara/design/" />
     <link rel="icon" type="image/x-icon"
         href="https://blogger.googleusercontent.com/img/a/AVvXsEg5rSo1p9ItfzdEmZuXTKCh3e7mcwaqsVNd2dpgfMUlGt7rd5FWii5wW5b2VOYGbvl1AtVY-tEFKc_0wm0-aFtcrOsr7rJBP6yoT2AgXmV7lIoRSCnQnhv0H-sysNmlw5Kqvked82aq4dKVCfy0RYKd3r54lTl2uHHdMJDeWT3iQTDkWHkakF8k_ibu6HA" />
     <link rel="shortcut icon" type="image/x-icon"
@@ -64,9 +60,8 @@
         href="https://www.footlocker.id/static/version1767024442/frontend/Footlocker/default/id_ID/WeltPixel_DesignElements/fonts/lined-icons.woff2" />
     <link rel="preload" as="font" crossorigin="anonymous"
         href="https://www.footlocker.id/static/version1767024442/frontend/Footlocker/default/id_ID/WeltPixel_DesignElements/fonts/font-icons.woff2" />
-    <link rel="canonical" href="https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/" />
-    <link rel="alternate" hreflang="x-default"
-        href="https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/" />
+    <link rel="canonical" href="https://kamarastone.ge/kamara/design/" />
+    <link rel="alternate" hreflang="x-default" href="https://kamarastone.ge/kamara/design/" />
     <link rel="icon" type="image/x-icon"
         href="https://blogger.googleusercontent.com/img/a/AVvXsEg5rSo1p9ItfzdEmZuXTKCh3e7mcwaqsVNd2dpgfMUlGt7rd5FWii5wW5b2VOYGbvl1AtVY-tEFKc_0wm0-aFtcrOsr7rJBP6yoT2AgXmV7lIoRSCnQnhv0H-sysNmlw5Kqvked82aq4dKVCfy0RYKd3r54lTl2uHHdMJDeWT3iQTDkWHkakF8k_ibu6HA" />
     <link rel="shortcut icon" type="image/x-icon"
@@ -1071,7 +1066,7 @@
     </style>
     <!-- MEGAMENU CUSTOM CSS -->
 
-    <link rel="preconnect" href="https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/" />
+    <link rel="preconnect" href="https://kamarastone.ge/kamara/design/" />
     <link rel="preconnect" href="https://fonts.googleapis.com/" />
     <link rel="preconnect" href="https://ajax.googleapis.com/" />
     <link rel="preconnect" href="https://fast.a.klaviyo.com/" />
@@ -1364,7 +1359,7 @@ Color Disclaimer:
 
 Actual colors may vary. This is due to the fact that every computer monitor has a different capability to display colors, we cannot guarantee that the color you see accurately portrays the true color of the product.
 " />
-    <meta property="og:url" content="https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/" />
+    <meta property="og:url" content="https://kamarastone.ge/kamara/design/" />
     <meta property="product:price:amount" content="9999.00" />
     <meta property="product:price:currency" content="IDR" />
     <meta property="product:availability" content="instock" />
@@ -2233,9 +2228,8 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                 class="col-md-offset-0 col-md-2 col-xs-7 col-lg-2 col-sm-offset-0 col-sm-7 h-logo responsive-main-header">
                                 <span class="action nav-toggle"><span>Toggle Nav</span></span>
 
-                                <a class="logo"
-                                    href="https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/"
-                                    title="" aria-label="store logo">
+                                <a class="logo" href="https://kamarastone.ge/kamara/design/" title=""
+                                    aria-label="store logo">
                                     <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgLaJ7Hdhr6mS_-1j23erjVddl1UOuZ9qaB-0U_9TC4fKN5kIuRImEBuO8lio5wTdrUJ0qeURd3gSxPowTeUZzdWIIx9DAYr2pfuPxvdjI11WQMYlpT7S0Uh_BKP55KXVru17m7uqMBPQ2dFlnI1iy5LsTblWZosDh_Wg3DD4TPP1HzPgc4PtIAjPs-LEc"
                                         title="" alt="QUIZ4D logo" width="170" />
                                 </a>
@@ -2356,26 +2350,25 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                 aria-activedescendant="ui-id-8">
                                                 <li id="vesitem-7381768541902449662241"
                                                     class="nav-item level0 nav-1 submenu-left subhover dropdown level-top category-item ui-menu-item">
-                                                    <a href="https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/"
-                                                        title="QUIZ4D" target="_self"
-                                                        class="nav-anchor ui-menu-item-wrapper" id="ui-id-2"
-                                                        tabindex="-1" role="menuitem"><span>QUIZ4D</span></a>
+                                                    <a href="https://kamarastone.ge/kamara/design/" title="QUIZ4D"
+                                                        target="_self" class="nav-anchor ui-menu-item-wrapper"
+                                                        id="ui-id-2" tabindex="-1"
+                                                        role="menuitem"><span>QUIZ4D</span></a>
                                                 </li>
                                                 <li id="vesitem-112617685419021512837329"
                                                     class="nav-item level0 nav-2 submenu-alignleft subhover dropdown level-top category-item ui-menu-item">
-                                                    <a href="https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/"
-                                                        title="BANDAR TOGEL" target="_self"
-                                                        class="nav-anchor ui-menu-item-wrapper" id="ui-id-3"
-                                                        tabindex="-1" role="menuitem"><span>BANDAR TOGEL</span></a>
+                                                    <a href="https://kamarastone.ge/kamara/design/" title="BANDAR TOGEL"
+                                                        target="_self" class="nav-anchor ui-menu-item-wrapper"
+                                                        id="ui-id-3" tabindex="-1" role="menuitem"><span>BANDAR
+                                                            TOGEL</span></a>
                                                 </li>
                                                 <li id="vesitem-9671768541902261764118"
                                                     class="nav-item level0 nav-3 submenu-left subhover dropdown level-top category-item parent ui-menu-item">
-                                                    <a href="https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/"
-                                                        title="TOGEL ONLINE" target="_self"
-                                                        class="nav-anchor ui-menu-item-wrapper" id="ui-id-4"
-                                                        tabindex="-1" role="menuitem"><span>TOGEL ONLINE</span><span
-                                                            class="opener"></span><span class="drill-opener"
-                                                            style="display: none"></span></a>
+                                                    <a href="https://kamarastone.ge/kamara/design/" title="TOGEL ONLINE"
+                                                        target="_self" class="nav-anchor ui-menu-item-wrapper"
+                                                        id="ui-id-4" tabindex="-1" role="menuitem"><span>TOGEL
+                                                            ONLINE</span><span class="opener"></span><span
+                                                            class="drill-opener" style="display: none"></span></a>
                                                     <div class="submenu dropdown-menu ui-menu-item-wrapper"
                                                         style="width: 100%" id="ui-id-5" tabindex="-1" role="menuitem">
                                                         <div class="drilldown-back">
@@ -2392,7 +2385,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                                 class="mega-col mega-col-6 mega-col-level-1 col-xs-12">
                                                                                 <div id="vesitem-92817685419022118842600"
                                                                                     class="nav-item level1 nav-3-1 submenu-alignleft subhover dropdown-submenu category-item parent">
-                                                                                    <a href="https://www.footlocker.idhttps://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/"
+                                                                                    <a href="https://www.footlocker.idhttps://kamarastone.ge/kamara/design/"
                                                                                         title="Sepatu" target="_self"
                                                                                         class="nav-anchor"><span>Sepatu</span><span
                                                                                             class="opener"></span><span
@@ -2422,7 +2415,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                                                                     class="menu-side">
                                                                                                                     <div id="vesitem-10861768541902563911989"
                                                                                                                         class="nav-item level2 nav-3-1-1 submenu-alignleft subhover dropdown-submenu category-item">
-                                                                                                                        <a href="https://www.footlocker.idhttps://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/"
+                                                                                                                        <a href="https://www.footlocker.idhttps://kamarastone.ge/kamara/design/"
                                                                                                                             title="Semua Koleksi Pria"
                                                                                                                             target="_self"
                                                                                                                             class="nav-anchor"><span>Semua
@@ -2446,7 +2439,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                                                                     </div>
                                                                                                                     <div id="vesitem-93817685419021771163538"
                                                                                                                         class="nav-item level2 nav-3-1-6 submenu-alignleft subhover dropdown-submenu category-item">
-                                                                                                                        <a href="https://www.footlocker.idhttps://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/"
+                                                                                                                        <a href="https://www.footlocker.idhttps://kamarastone.ge/kamara/design/"
                                                                                                                             title="Kasual"
                                                                                                                             target="_self"
                                                                                                                             class="nav-anchor"><span>Kasual</span></a>
@@ -2486,7 +2479,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                                                             class="item-content2 hidden-lg hidden-md">
                                                                                                             <div id="vesitem-108617685419025639119892"
                                                                                                                 class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                                                                                <a href="https://www.footlocker.idhttps://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/"
+                                                                                                                <a href="https://www.footlocker.idhttps://kamarastone.ge/kamara/design/"
                                                                                                                     title="Semua Koleksi Pria"
                                                                                                                     target="_self"
                                                                                                                     class="nav-anchor"><span>Semua
@@ -2510,7 +2503,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                                                             </div>
                                                                                                             <div id="vesitem-938176854190217711635382"
                                                                                                                 class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                                                                                <a href="https://www.footlocker.idhttps://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/"
+                                                                                                                <a href="https://www.footlocker.idhttps://kamarastone.ge/kamara/design/"
                                                                                                                     title="Kasual"
                                                                                                                     target="_self"
                                                                                                                     class="nav-anchor"><span>Kasual</span></a>
@@ -2961,7 +2954,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                         <div class="item-content2 hidden-lg hidden-md">
                                                                             <div id="vesitem-928176854190221188426002"
                                                                                 class="nav-item level1 submenu-alignleft subhover dropdown-submenu parent">
-                                                                                <a href="https://www.footlocker.idhttps://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/"
+                                                                                <a href="https://www.footlocker.idhttps://kamarastone.ge/kamara/design/"
                                                                                     title="Sepatu" target="_self"
                                                                                     class="nav-anchor"><span>Sepatu</span><span
                                                                                         class="opener"></span><span
@@ -2988,7 +2981,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                                                             class="mega-col mega-col-10 mega-col-level-2 col-xs-12">
                                                                                                             <div id="vesitem-10861768541902563911989"
                                                                                                                 class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                                                                                <a href="https://www.footlocker.idhttps://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/"
+                                                                                                                <a href="https://www.footlocker.idhttps://kamarastone.ge/kamara/design/"
                                                                                                                     title="Semua Koleksi Pria"
                                                                                                                     target="_self"
                                                                                                                     class="nav-anchor"><span>Semua
@@ -3012,7 +3005,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                                                             </div>
                                                                                                             <div id="vesitem-93817685419021771163538"
                                                                                                                 class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                                                                                <a href="https://www.footlocker.idhttps://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/"
+                                                                                                                <a href="https://www.footlocker.idhttps://kamarastone.ge/kamara/design/"
                                                                                                                     title="Kasual"
                                                                                                                     target="_self"
                                                                                                                     class="nav-anchor"><span>Kasual</span></a>
@@ -3051,7 +3044,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                                                         class="item-content2 hidden-lg hidden-md">
                                                                                                         <div id="vesitem-108617685419025639119892"
                                                                                                             class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                                                                            <a href="https://www.footlocker.idhttps://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/"
+                                                                                                            <a href="https://www.footlocker.idhttps://kamarastone.ge/kamara/design/"
                                                                                                                 title="Semua Koleksi Pria"
                                                                                                                 target="_self"
                                                                                                                 class="nav-anchor"><span>Semua
@@ -3075,7 +3068,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                                                         </div>
                                                                                                         <div id="vesitem-938176854190217711635382"
                                                                                                             class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                                                                            <a href="https://www.footlocker.idhttps://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/"
+                                                                                                            <a href="https://www.footlocker.idhttps://kamarastone.ge/kamara/design/"
                                                                                                                 title="Kasual"
                                                                                                                 target="_self"
                                                                                                                 class="nav-anchor"><span>Kasual</span></a>
@@ -3517,7 +3510,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                 </li>
                                                 <li id="vesitem-10051768541902782048993"
                                                     class="nav-item level0 nav-4 submenu-left subhover dropdown level-top category-item parent ui-menu-item">
-                                                    <a href="https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/"
+                                                    <a href="https://kamarastone.ge/kamara/design/"
                                                         title="BANDAR TOGEL ONLINE" target="_self"
                                                         class="nav-anchor ui-menu-item-wrapper" id="ui-id-6"
                                                         tabindex="-1" role="menuitem"><span>BANDAR TOGEL
@@ -3539,7 +3532,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                                 class="mega-col mega-col-6 mega-col-level-1 col-xs-12">
                                                                                 <div id="vesitem-9681768541902530011317"
                                                                                     class="nav-item level1 nav-4-1 submenu-alignleft subhover dropdown-submenu category-item parent">
-                                                                                    <a href="https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/"
+                                                                                    <a href="https://kamarastone.ge/kamara/design/"
                                                                                         title="Sepatu" target="_self"
                                                                                         class="nav-anchor"><span>Sepatu</span><span
                                                                                             class="opener"></span><span
@@ -3569,7 +3562,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                                                                     class="menu-side">
                                                                                                                     <div id="vesitem-109017685419021206252820"
                                                                                                                         class="nav-item level2 nav-4-1-1 submenu-alignleft subhover dropdown-submenu category-item">
-                                                                                                                        <a href="https://www.footlocker.idhttps://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/"
+                                                                                                                        <a href="https://www.footlocker.idhttps://kamarastone.ge/kamara/design/"
                                                                                                                             title="Semua Koleksi Wanita"
                                                                                                                             target="_self"
                                                                                                                             class="nav-anchor"><span>Semua
@@ -3585,7 +3578,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                                                                     </div>
                                                                                                                     <div id="vesitem-97417685419021869632553"
                                                                                                                         class="nav-item level2 nav-4-1-5 submenu-alignleft subhover dropdown-submenu category-item">
-                                                                                                                        <a href="https://www.footlocker.idhttps://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/"
+                                                                                                                        <a href="https://www.footlocker.idhttps://kamarastone.ge/kamara/design/"
                                                                                                                             title="Kasual"
                                                                                                                             target="_self"
                                                                                                                             class="nav-anchor"><span>Kasual</span></a>
@@ -3633,7 +3626,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                                                             class="item-content2 hidden-lg hidden-md">
                                                                                                             <div id="vesitem-1090176854190212062528202"
                                                                                                                 class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                                                                                <a href="https://www.footlocker.idhttps://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/"
+                                                                                                                <a href="https://www.footlocker.idhttps://kamarastone.ge/kamara/design/"
                                                                                                                     title="Semua Koleksi Wanita"
                                                                                                                     target="_self"
                                                                                                                     class="nav-anchor"><span>Semua
@@ -3649,7 +3642,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                                                             </div>
                                                                                                             <div id="vesitem-974176854190218696325532"
                                                                                                                 class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                                                                                <a href="https://www.footlocker.idhttps://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/"
+                                                                                                                <a href="https://www.footlocker.idhttps://kamarastone.ge/kamara/design/"
                                                                                                                     title="Kasual"
                                                                                                                     target="_self"
                                                                                                                     class="nav-anchor"><span>Kasual</span></a>
@@ -4076,7 +4069,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                         <div class="item-content2 hidden-lg hidden-md">
                                                                             <div id="vesitem-96817685419025300113172"
                                                                                 class="nav-item level1 submenu-alignleft subhover dropdown-submenu parent">
-                                                                                <a href="https://www.footlocker.idhttps://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/"
+                                                                                <a href="https://www.footlocker.idhttps://kamarastone.ge/kamara/design/"
                                                                                     title="Sepatu" target="_self"
                                                                                     class="nav-anchor"><span>Sepatu</span><span
                                                                                         class="opener"></span><span
@@ -4103,7 +4096,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                                                             class="mega-col mega-col-9 mega-col-level-2 col-xs-12">
                                                                                                             <div id="vesitem-109017685419021206252820"
                                                                                                                 class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                                                                                <a href="https://www.footlocker.idhttps://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/"
+                                                                                                                <a href="https://www.footlocker.idhttps://kamarastone.ge/kamara/design/"
                                                                                                                     title="Semua Koleksi Wanita"
                                                                                                                     target="_self"
                                                                                                                     class="nav-anchor"><span>Semua
@@ -4119,7 +4112,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                                                             </div>
                                                                                                             <div id="vesitem-97417685419021869632553"
                                                                                                                 class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                                                                                <a href="https://www.footlocker.idhttps://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/"
+                                                                                                                <a href="https://www.footlocker.idhttps://kamarastone.ge/kamara/design/"
                                                                                                                     title="Kasual"
                                                                                                                     target="_self"
                                                                                                                     class="nav-anchor"><span>Kasual</span></a>
@@ -4166,7 +4159,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                                                         class="item-content2 hidden-lg hidden-md">
                                                                                                         <div id="vesitem-1090176854190212062528202"
                                                                                                             class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                                                                            <a href="https://www.footlocker.idhttps://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/"
+                                                                                                            <a href="https://www.footlocker.idhttps://kamarastone.ge/kamara/design/"
                                                                                                                 title="Semua Koleksi Wanita"
                                                                                                                 target="_self"
                                                                                                                 class="nav-anchor"><span>Semua
@@ -4182,7 +4175,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                                                                         </div>
                                                                                                         <div id="vesitem-974176854190218696325532"
                                                                                                             class="nav-item level2 submenu-alignleft subhover dropdown-submenu">
-                                                                                                            <a href="https://www.footlocker.idhttps://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/"
+                                                                                                            <a href="https://www.footlocker.idhttps://kamarastone.ge/kamara/design/"
                                                                                                                 title="Kasual"
                                                                                                                 target="_self"
                                                                                                                 class="nav-anchor"><span>Kasual</span></a>
@@ -4600,12 +4593,11 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                 </li>
                                                 <li id="vesitem-102217685419021770810440"
                                                     class="nav-item level0 nav-5 submenu-left subhover dropdown level-top category-item parent ui-menu-item">
-                                                    <a href="https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/"
-                                                        title="SITUS SLOT" target="_self"
-                                                        class="nav-anchor ui-menu-item-wrapper" id="ui-id-8"
-                                                        tabindex="-1" role="menuitem"><span>SITUS SLOT</span><span
-                                                            class="opener"></span><span class="drill-opener"
-                                                            style="display: none"></span></a>
+                                                    <a href="https://kamarastone.ge/kamara/design/" title="SITUS SLOT"
+                                                        target="_self" class="nav-anchor ui-menu-item-wrapper"
+                                                        id="ui-id-8" tabindex="-1" role="menuitem"><span>SITUS
+                                                            SLOT</span><span class="opener"></span><span
+                                                            class="drill-opener" style="display: none"></span></a>
                                                     <div class="submenu dropdown-menu ui-menu-item-wrapper"
                                                         style="width: 100%; top: 44px" id="ui-id-9" tabindex="-1"
                                                         role="menuitem">
@@ -6172,8 +6164,8 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                     data-animation-in="fadeIn" data-color="#303030"
                                                     data-hover-color="#303030" data-bgcolor="transparent"
                                                     data-hover-bgcolor="transparent">
-                                                    <a href="https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/"
-                                                        title="BANDAR TOTO" target="_self" data-hover-color="#303030"
+                                                    <a href="https://kamarastone.ge/kamara/design/" title="BANDAR TOTO"
+                                                        target="_self" data-hover-color="#303030"
                                                         data-hover-bgcolor="transparent" data-color="#303030"
                                                         data-bgcolor="transparent" style="
                                 color: #303030;
@@ -6665,8 +6657,8 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                                 <li id="vesitem-7241768541902288615773"
                                                     class="nav-item level0 nav-7 submenu-alignleft subhover dropdown level-top sale category-item ui-menu-item"
                                                     data-color="#cf2929 ">
-                                                    <a href="https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/"
-                                                        title="TOTO SLOT" target="_self" data-color="#cf2929 "
+                                                    <a href="https://kamarastone.ge/kamara/design/" title="TOTO SLOT"
+                                                        target="_self" data-color="#cf2929 "
                                                         style="color: #cf2929; color: #cf2929 !important"
                                                         class="nav-anchor ui-menu-item-wrapper" id="ui-id-12"
                                                         tabindex="-1" role="menuitem"><span>TOTO SLOT</span></a>
@@ -7170,8 +7162,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
         <div class="breadcrumbs">
             <ul class="items">
                 <li class="item home">
-                    <a href="https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/"
-                        title="Go to Home Page">
+                    <a href="https://kamarastone.ge/kamara/design/" title="Go to Home Page">
                         Home
                     </a>
                 </li>
@@ -7372,7 +7363,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                         </div>
                         <div class="product-info-main">
                             <div class="product attibute brand">
-                                <a href="https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/">
+                                <a href="https://kamarastone.ge/kamara/design/">
                                     <h2 class="value pdp-brand-title" itemprop='"brand"'>
                                         QUIZ4D
                                     </h2>
@@ -9826,36 +9817,29 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                         <div class="collapsible">
                                             <span class="title">Tentang QUIZ4D</span>
                                             <ul>
-                                                <li><a
-                                                        href="https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/">BANDAR
+                                                <li><a href="https://kamarastone.ge/kamara/design/">BANDAR
                                                         TOGEL ONLINE</a></li>
-                                                <li><a
-                                                        href="https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/">Toto
+                                                <li><a href="https://kamarastone.ge/kamara/design/">Toto
                                                         Togel</a></li>
                                                 <li>
-                                                    <a
-                                                        href="https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/">Togel
+                                                    <a href="https://kamarastone.ge/kamara/design/">Togel
                                                         Slot</a>
                                                 </li>
-                                                <li><a
-                                                        href="https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/">Bandar
+                                                <li><a href="https://kamarastone.ge/kamara/design/">Bandar
                                                         Toto</a></li>
                                             </ul>
                                         </div>
                                         <div class="collapsible">
                                             <span class="title">Layanan Pelanggan QUIZ4D<br /></span>
                                             <ul>
-                                                <li><a
-                                                        href="https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/">FAQ</a>
+                                                <li><a href="https://kamarastone.ge/kamara/design/">FAQ</a>
                                                 </li>
                                                 <!--<li><a href="/size-guide-adidas-footwear">Panduan Ukuran</a></li>-->
                                                 <li>
-                                                    <a
-                                                        href="https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/">QUIZ4D
+                                                    <a href="https://kamarastone.ge/kamara/design/">QUIZ4D
                                                         Bonus</a>
                                                 </li>
-                                                <li><a
-                                                        href="https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/">QUIZ4D
+                                                <li><a href="https://kamarastone.ge/kamara/design/">QUIZ4D
                                                         Live Chat</a></li>
                                                 <li><a href="/sitemap.xml">Sitemap</a></li>
                                             </ul>
@@ -9863,30 +9847,23 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                         <div class="collapsible">
                                             <span class="title">Link Populer<br /></span>
                                             <ul>
-                                                <li><a
-                                                        href="https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/">QUIZ4D</a>
+                                                <li><a href="https://kamarastone.ge/kamara/design/">QUIZ4D</a>
                                                 </li>
-                                                <li><a
-                                                        href="https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/">SITUS
+                                                <li><a href="https://kamarastone.ge/kamara/design/">SITUS
                                                         SLOT</a></li>
                                                 <li>
-                                                    <a
-                                                        href="https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/">BANDAR
+                                                    <a href="https://kamarastone.ge/kamara/design/">BANDAR
                                                         TOGEL ONLINE</a>
                                                 </li>
                                                 <li>
-                                                    <a
-                                                        href="https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/">BANDAR
+                                                    <a href="https://kamarastone.ge/kamara/design/">BANDAR
                                                         TOTO</a>
                                                 </li>
-                                                <li><a
-                                                        href="https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/">TOTO
+                                                <li><a href="https://kamarastone.ge/kamara/design/">TOTO
                                                         TOGEL</a></li>
-                                                <li><a
-                                                        href="https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/">TOGEL
+                                                <li><a href="https://kamarastone.ge/kamara/design/">TOGEL
                                                         ONLINE</a></li>
-                                                <li><a
-                                                        href="https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/">TOTO
+                                                <li><a href="https://kamarastone.ge/kamara/design/">TOTO
                                                         SLOT</a></li>
                                             </ul>
                                         </div>
@@ -10619,7 +10596,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
           {
             "@type": "ListItem",
             "item": {
-              "@id": "https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/",
+              "@id": "https://kamarastone.ge/kamara/design/",
               "name": "QUIZ4D # Situs Slot Tergacor & Situs Togel Online Terpercaya 2026"
             },
             "position": 1
@@ -10637,7 +10614,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
         "offers": {
           "@type": "http:\/\/schema.org\/Offer",
           "price": 9999,
-          "url": "https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/",
+          "url": "https://kamarastone.ge/kamara/design/",
           "priceCurrency": "IDR",
           "availability": "http:\/\/schema.org\/InStock"
         }
@@ -10661,7 +10638,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
 "@context": "https://schema.org/",
 "@type": "Product",
 "name": "QUIZ4D # Situs Slot Tergacor & Situs Togel Online Terpercaya 2026",
-"url": "https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/",
+"url": "https://kamarastone.ge/kamara/design/",
 "sku": "BANDAR-TOGEL",
 "image": [
   "https://blogger.googleusercontent.com/img/a/AVvXsEg5rSo1p9ItfzdEmZuXTKCh3e7mcwaqsVNd2dpgfMUlGt7rd5FWii5wW5b2VOYGbvl1AtVY-tEFKc_0wm0-aFtcrOsr7rJBP6yoT2AgXmV7lIoRSCnQnhv0H-sysNmlw5Kqvked82aq4dKVCfy0RYKd3r54lTl2uHHdMJDeWT3iQTDkWHkakF8k_ibu6HA"
@@ -10693,7 +10670,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
 "offers": {
   "@type": "Offer",
   "priceCurrency": "IDR",
-  "url": "https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/",
+  "url": "https://kamarastone.ge/kamara/design/",
   "availability": "https://schema.org/InStock",
   "price": "9999.00"
 }
@@ -10703,7 +10680,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
         <script type="application/ld+json" id="bv-jsonld-bvloader-summary">
 {
 "@context": "https://schema.org/",
-"@id": "https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/",
+"@id": "https://kamarastone.ge/kamara/design/",
 "aggregateRating": {
   "@type": "AggregateRating",
   "itemReviewed": {
@@ -10726,7 +10703,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
     "@type": "ListItem",
     "position": 1,
     "item": {
-      "@id": "https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/",
+      "@id": "https://kamarastone.ge/kamara/design/",
       "name": "QUIZ4D"
     }
   },
@@ -10734,7 +10711,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
     "@type": "ListItem",
     "position": 2,
     "item": {
-      "@id": "https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/",
+      "@id": "https://kamarastone.ge/kamara/design/",
       "name": "SITUS SLOT"
     }
   },
@@ -10742,7 +10719,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
     "@type": "ListItem",
     "position": 3,
     "item": {
-      "@id": "https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/",
+      "@id": "https://kamarastone.ge/kamara/design/",
       "name": "TOGEL ONLINE"
     }
   },
@@ -10750,7 +10727,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
     "@type": "ListItem",
     "position": 4,
     "item": {
-      "@id": "https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/",
+      "@id": "https://kamarastone.ge/kamara/design/",
       "name": "TOTO TOGEL"
     }
   }
@@ -10762,10 +10739,10 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "@id": "https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/",
+  "@id": "https://kamarastone.ge/kamara/design/",
   "name": "QUIZ4D",
   "alternateName": "ALEXIS TOTO",
-  "url": "https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/",
+  "url": "https://kamarastone.ge/kamara/design/",
   "review": [
     {
       "@type": "Review",
@@ -12165,7 +12142,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                 .each(function (index, el) {
                                     if (
                                         $(this).attr("href") ==
-                                        "https://www.oliviertravers.com/plex-complex-libraries-ultimate-media-server/"
+                                        "https://kamarastone.ge/kamara/design/"
                                     ) {
                                         $(this).parent().addClass("active");
                                         $(this).parents(".nav-item.parent").addClass("active");
