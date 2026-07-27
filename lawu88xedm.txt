@@ -207,7 +207,7 @@
     <title>LAWU88SLOT : Opsi Login Bandar Slot Online Dan Link Alternatif Gacor Terkini</title>
     <meta name="description"
         content="LAWU88SLOT menghadirkan opsi login bandar slot online dan link alternatif paling gacor dengan sistem enkripsi terkini serta tercepat untuk membantu para pemain dalam mengakses situs resmi." />
-    <link rel="canonical" href="https://eshermarge.com/best-slot-payouts/" />
+    <link rel="canonical" href="https://oasissurgcentre.co.ke/" />
     <meta name="google-site-verification" content="RKoMZvMRPkZYextJhrL6lJ3JUaoWpPUl-bvbas0GSKA" />
     <meta name="google-site-verification" content="b1ISY01tljYTsHfeS1CZl3Wnc6V7chg4Ol6jUdRq0RQ" />
     <link rel="amphtml" href="https://lawu88slotxesher.pages.dev/" />
@@ -222,7 +222,7 @@
         content="LAWU88SLOT menghadirkan opsi login bandar slot online dan link alternatif paling gacor dengan sistem enkripsi terkini serta tercepat untuk membantu para pemain dalam mengakses situs resmi." />
     <meta property="og:image"
         content="https://blogger.googleusercontent.com/img/a/AVvXsEg7KEWFtFF66TAK7cqteTazsSm_aLXX769ykwCfxI4zgnQ4039ymLrEeRxre1EDQPANKQwBM6IYM0A-0t_gK0nuTzphzRNL9ubXqZ5OHnTkv5L9gvBYsB8S69InA78ApkSaj0irpeDNhhM7TkrLhHSa503OnjeCwcwn0c6VQ0Qibe071QySQ4lllsCyc8g" />
-    <meta property="og:url" content="https://eshermarge.com/best-slot-payouts/">
+    <meta property="og:url" content="https://oasissurgcentre.co.ke/">
     <meta name="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="LAWU88SLOT: Opsi Login Bandar Slot Online Dan Link Alternatif Gacor Terkini" />
@@ -235,7 +235,7 @@
                 "@context": "https://schema.org",
                 "@type": "WebSite",
                 "name": "LAWU88SLOT",
-                "url": "https://eshermarge.com/best-slot-payouts/"
+                "url": "https://oasissurgcentre.co.ke/"
             }
         </script>
     <script id=":R5b6fnefumkq:" type="application/ld+json">
@@ -247,7 +247,7 @@
                                     "@type": "ListItem",
                                     "position": 1,
                                     "item": {
-                                        "@id": "https://eshermarge.com/best-slot-payouts/",
+                                        "@id": "https://oasissurgcentre.co.ke/",
                                         "name": "LAWU88SLOT"
                                     }
                                 },
@@ -255,7 +255,7 @@
                                     "@type": "ListItem",
                                     "position": 2,
                                     "item": {
-                                        "@id": "https://eshermarge.com/best-slot-payouts/",
+                                        "@id": "https://oasissurgcentre.co.ke/",
                                         "name": "LAWU88SLOT LOGIN"
                                     }
                                 },
@@ -263,7 +263,7 @@
                                     "@type": "ListItem",
                                     "position": 3,
                                     "item": {
-                                        "@id": "https://eshermarge.com/best-slot-payouts/",
+                                        "@id": "https://oasissurgcentre.co.ke/",
                                         "name": "LAWU88SLOT SLOT"
                                     }
                                     
@@ -272,7 +272,7 @@
                                     "@type": "ListItem",
                                     "position": 4,
                                     "item": {
-                                        "@id": "https://eshermarge.com/best-slot-payouts/",
+                                        "@id": "https://oasissurgcentre.co.ke/",
                                         "name": "LAWU88SLOT GACOR"
                                     }
                                     
@@ -281,7 +281,7 @@
                                     "@type": "ListItem",
                                     "position": 5,
                                     "item": {
-                                        "@id": "https://eshermarge.com/best-slot-payouts/",
+                                        "@id": "https://oasissurgcentre.co.ke/",
                                         "name": "LAWU88SLOT ALTERNATIF"
                                     }
                                     
@@ -290,7 +290,7 @@
                                     "@type": "ListItem",
                                     "position": 6,
                                     "item": {
-                                        "@id": "https://eshermarge.com/best-slot-payouts/",
+                                        "@id": "https://oasissurgcentre.co.ke/",
                                         "name": "LAWU88SLOT LINK ALTERNATIF"
                                     }
                                     
@@ -317,7 +317,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "url": "https://eshermarge.com/best-slot-payouts/",
+    "url": "https://oasissurgcentre.co.ke/",
     "priceCurrency": "USD",
     "price": "5000",
     "availability": "https://schema.org/InStock"
@@ -484,7 +484,7 @@
             0,
             {
                 children:
-                    '\nwindow.__transactionID__ = "ZLFYlanDSeGRKd5ufCou4g==";\nwindow.__anchorPageViewID__ = window.__anchorPageViewID__ || "MzRkMDcwMjktMzdhNC00Nw==";\nwindow.__pageViewID__ = "MzRkMDcwMjktMzdhNC00Nw==";\nwindow.__hasSession__ = true;\nwindow.__FETCH_DATA__ = {"application":{"name":"@wayfair/sf-ui-core-funnel","version":"c6bf4749a46287cc8cfa778fd03ce24b338b9324"},"storeURL":"https://eshermarge.com/best-slot-payouts/","transactionID":"ZLFYlanDSeGRKd5ufCou4g==","pageName":"product-details","isBot":false,"featureToggles":{"enableAuthTokenRefresh":true,"enableDebugLogs":true,"enableErrorLogs":true,"enableFatalLogs":true,"enableInfoLogs":false,"enableWarnLogs":true},"sharedHeaders":{"wf-pageview-id":"MzRkMDcwMjktMzdhNC00Nw==","wf-locale":"en-US","wf-store-id":"49","wf-anchorpageview-id":"MzRkMDcwMjktMzdhNC00Nw==","true-client-ip":"158.140.166.66","wf-b2b-experience":"false","wf-b2b-aisle":"null","wf-page-context":"{\\"pageType\\":\\"Product-Detail\\",\\"pageTypeId\\":5,\\"pageKey\\":\\"Product-Detail\\"}"}};',
+                    '\nwindow.__transactionID__ = "ZLFYlanDSeGRKd5ufCou4g==";\nwindow.__anchorPageViewID__ = window.__anchorPageViewID__ || "MzRkMDcwMjktMzdhNC00Nw==";\nwindow.__pageViewID__ = "MzRkMDcwMjktMzdhNC00Nw==";\nwindow.__hasSession__ = true;\nwindow.__FETCH_DATA__ = {"application":{"name":"@wayfair/sf-ui-core-funnel","version":"c6bf4749a46287cc8cfa778fd03ce24b338b9324"},"storeURL":"https://oasissurgcentre.co.ke/","transactionID":"ZLFYlanDSeGRKd5ufCou4g==","pageName":"product-details","isBot":false,"featureToggles":{"enableAuthTokenRefresh":true,"enableDebugLogs":true,"enableErrorLogs":true,"enableFatalLogs":true,"enableInfoLogs":false,"enableWarnLogs":true},"sharedHeaders":{"wf-pageview-id":"MzRkMDcwMjktMzdhNC00Nw==","wf-locale":"en-US","wf-store-id":"49","wf-anchorpageview-id":"MzRkMDcwMjktMzdhNC00Nw==","true-client-ip":"158.140.166.66","wf-b2b-experience":"false","wf-b2b-aisle":"null","wf-page-context":"{\\"pageType\\":\\"Product-Detail\\",\\"pageTypeId\\":5,\\"pageKey\\":\\"Product-Detail\\"}"}};',
                 id: "fetch-patch-data",
             },
         ]);
@@ -571,7 +571,7 @@
                                             style=" --_6o3atzr: var(--_1pwc14f26); --_6o3atzw: 0; --_6o3atz2l: var(--_1pwc14f26); --_6o3atz2q: 0; --_6o3atzer: 150px; --_6o3atzey: 145px;">
                                             <div data-cy-id="StoreLogo" data-enzyme-id="StoreLogo" class="_2srr0x0"
                                                 style="max-width: inherit; min-height: 45px">
-                                                <a title="Wayfair" href="https://eshermarge.com/best-slot-payouts/"
+                                                <a title="Wayfair" href="https://oasissurgcentre.co.ke/"
                                                     data-enzyme-id="StoreLogoLink" class="_2srr0x1">
                                                     <img src="https://blogger.googleusercontent.com/img/a/AVvXsEh88vt2v5APkS1S8ZQ4JikGmsGwECM_kMhBWXnDjmTsq6BtVXAYA07-n1j53t7c7SPZ-2sn53TjFE0YMzrH57wwwd4AUdE20n43_E8V4YLdQBZPv1N8NvrkRcbiPQT3hJQ3f6KLL4rRs_OhIEotOrzUDaxywUpU-BietG2YlsvaCeGKOSPI6JCHRM8pJxw"
                                                         alt="LAWU88SLOT" height="100%" width="100%" /></a>
@@ -640,7 +640,7 @@
                                             style=" --_6o3atzr: var(--_1pwc14f26); --_6o3atzw: 0; --_6o3atz2l: var(--_1pwc14f26); --_6o3atz2q: 0; --_6o3atzer: 150px; --_6o3atzey: 145px;">
                                             <div data-cy-id="StoreLogo" data-enzyme-id="StoreLogo" class="_2srr0x0"
                                                 style="max-width: inherit; min-height: 45px">
-                                                <a title="Wayfair" href="https://eshermarge.com/best-slot-payouts/"
+                                                <a title="Wayfair" href="https://oasissurgcentre.co.ke/"
                                                     data-enzyme-id="StoreLogoLink" class="_2srr0x1">
                                                     <img src="https://blogger.googleusercontent.com/img/a/AVvXsEh88vt2v5APkS1S8ZQ4JikGmsGwECM_kMhBWXnDjmTsq6BtVXAYA07-n1j53t7c7SPZ-2sn53TjFE0YMzrH57wwwd4AUdE20n43_E8V4YLdQBZPv1N8NvrkRcbiPQT3hJQ3f6KLL4rRs_OhIEotOrzUDaxywUpU-BietG2YlsvaCeGKOSPI6JCHRM8pJxw"
                                                         alt="LAWU88SLOT" height="100%" width="100%" /></a>
@@ -1008,10 +1008,10 @@
                         <nav itemScope="" itemType="https://www.schema.org/SiteNavigationElement">
                             <meta itemprop="name" content="Department Navigation" /><span aria-hidden="true"
                                 class="mtsvz50" data-hb-id="VisuallyHidden">
-                                <a href="https://eshermarge.com/best-slot-payouts/" tabindex="-1">Slot Online</a>
-                                <a href="hhttps://eshermarge.com/best-slot-payouts/" tabindex="-1">Bandar Slot Online
+                                <a href="https://oasissurgcentre.co.ke/" tabindex="-1">Slot Online</a>
+                                <a href="hhttps://oasissurgcentre.co.ke/" tabindex="-1">Bandar Slot Online
                                 </a>
-                                <a href="https://eshermarge.com/best-slot-payouts/" tabindex="-1">Slot Gacor</a>
+                                <a href="https://oasissurgcentre.co.ke/" tabindex="-1">Slot Gacor</a>
                                 <a href="https://www.wayfair.com/furniture/sb0/sofas-c413892.html"
                                     tabindex="-1">Sofas</a>
                                 <a href="https://www.wayfair.com/furniture/sb0/sectionals-c413893.html"
@@ -1026,11 +1026,11 @@
                                     tabindex="-1">Accent Chairs</a>
                                 <a href="https://www.wayfair.com/furniture/sb0/living-room-sets-c46145.html"
                                     tabindex="-1">Living Room Sets</a>
-                                <a href="https://eshermarge.com/best-slot-payouts/" tabindex="-1">Reclining</a>
-                                <a href="https://eshermarge.com/best-slot-payouts/" tabindex="-1">Link
+                                <a href="https://oasissurgcentre.co.ke/" tabindex="-1">Reclining</a>
+                                <a href="https://oasissurgcentre.co.ke/" tabindex="-1">Link
                                     Slot
                                 </a>
-                                <a href="https://eshermarge.com/best-slot-payouts/" tabindex="-1">Slot Gacor</a>
+                                <a href="https://oasissurgcentre.co.ke/" tabindex="-1">Slot Gacor</a>
                                 <a href="https://www.wayfair.com/furniture/sb0/desks-c1780384.html"
                                     tabindex="-1">Desks</a>
                                 <a href="https://www.wayfair.com/furniture/sb0/bookcases-c1780385.html"
@@ -1041,8 +1041,8 @@
                                     tabindex="-1">Filing Cabinets</a>
                                 <a href="https://www.wayfair.com/furniture/sb0/home-office-furniture-sets-c251662.html"
                                     tabindex="-1">Office Sets</a>
-                                <a href="https://eshermarge.com/best-slot-payouts/" tabindex="-1">Login Slot</a>
-                                <a href="https://eshermarge.com/best-slot-payouts/" tabindex="-1">Link
+                                <a href="https://oasissurgcentre.co.ke/" tabindex="-1">Login Slot</a>
+                                <a href="https://oasissurgcentre.co.ke/" tabindex="-1">Link
                                     Slot</a>
                                 <a href="https://www.wayfair.com/furniture/sb0/beds-c46122.html" tabindex="-1">Beds</a>
                                 <a href="https://www.wayfair.com/furniture/sb0/dressers-chests-c46091.html"
@@ -1055,8 +1055,8 @@
                                     tabindex="-1">Mattresses &amp; Foundations</a>
                                 <a href="https://www.wayfair.com/furniture/sb0/bedroom-sets-c46123.html"
                                     tabindex="-1">Bedroom Sets</a>
-                                <a href="https://eshermarge.com/best-slot-payouts/" tabindex="-1">Slot Online</a>
-                                <a href="https://eshermarge.com/best-slot-payouts/" tabindex="-1">Bandar
+                                <a href="https://oasissurgcentre.co.ke/" tabindex="-1">Slot Online</a>
+                                <a href="https://oasissurgcentre.co.ke/" tabindex="-1">Bandar
                                     Slot</a>
                                 <a href="https://www.wayfair.com/furniture/sb0/console-tables-c414605.html"
                                     tabindex="-1">Console Tables</a>
@@ -1068,13 +1068,13 @@
                                     tabindex="-1">Shoe Racks &amp; Cubbies</a>
                                 <a href="https://www.wayfair.com/furniture/sb0/hall-trees-c415937.html"
                                     tabindex="-1">Hall Trees</a>
-                                <a href="https://eshermarge.com/best-slot-payouts/" tabindex="-1">Entry &amp;
+                                <a href="https://oasissurgcentre.co.ke/" tabindex="-1">Entry &amp;
                                     Slot Online</a>
-                                <a href="https://eshermarge.com/best-slot-payouts/" tabindex="-1">Kitchen &amp;
+                                <a href="https://oasissurgcentre.co.ke/" tabindex="-1">Kitchen &amp;
                                     Dining</a>
                                 <a href="https://www.wayfair.com/furniture/cat/dining-tables-seating-c1873843.html"
                                     tabindex="-1">Dining Tables &amp; Seating</a>
-                                <a href="https://eshermarge.com/best-slot-payouts/" tabindex="-1">Sideboards
+                                <a href="https://oasissurgcentre.co.ke/" tabindex="-1">Sideboards
                                     &amp; Buffets</a>
                                 <a href="https://www.wayfair.com/furniture/sb0/kitchen-islands-carts-c415182.html"
                                     tabindex="-1">Kitchen Islands &amp; Carts</a>
@@ -1086,9 +1086,9 @@
                                     tabindex="-1">Bar</a>
                                 <a href="https://www.wayfair.com/furniture/sb0/kitchen-dining-room-sets-c46025.html"
                                     tabindex="-1">Kitchen &amp; Dining Room Sets</a>
-                                <a href="https://eshermarge.com/best-slot-payouts/" tabindex="-1">Kitchen &amp;
+                                <a href="https://oasissurgcentre.co.ke/" tabindex="-1">Kitchen &amp;
                                     Slot Online</a>
-                                <a href="https://eshermarge.com/best-slot-payouts/" tabindex="-1">Pengeluran
+                                <a href="https://oasissurgcentre.co.ke/" tabindex="-1">Pengeluran
                                     LAWU88SLOT Slot</a>
                                 <a href="https://www.wayfair.com/furniture/sb0/gaming-chairs-c410369.html"
                                     tabindex="-1">Gaming Chairs</a>
@@ -1098,25 +1098,25 @@
                                     tabindex="-1">Games &amp; Game Tables</a>
                                 <a href="https://www.wayfair.com/furniture/sb0/bean-bag-chairs-c415622.html"
                                     tabindex="-1">Bean Bag Chairs</a>
-                                <a href="https://eshermarge.com/best-slot-payouts/" tabindex="-1">Slot</a>
-                                <a href="https://eshermarge.com/best-slot-payouts/" tabindex="-1">Pet</a>
-                                <a href="https://eshermarge.com/best-slot-payouts/ds/wayfair-verified:-furniture-se79201.html?fromNEM=true&amp;unifiedeventid=467463"
+                                <a href="https://oasissurgcentre.co.ke/" tabindex="-1">Slot</a>
+                                <a href="https://oasissurgcentre.co.ke/" tabindex="-1">Pet</a>
+                                <a href="https://oasissurgcentre.co.ke/ds/wayfair-verified:-furniture-se79201.html?fromNEM=true&amp;unifiedeventid=467463"
                                     tabindex="-1">Wayfair Verified™ </a>
                                 <a href="https://www.wayfair.com/brand/bnd/kelly-clarkson-home-b53111.html"
                                     tabindex="-1">Kelly Clarkson Home</a>
-                                <a href="https://eshermarge.com/best-slot-payouts/ds/top-rated-furniture-se71000.html"
+                                <a href="https://oasissurgcentre.co.ke/ds/top-rated-furniture-se71000.html"
                                     tabindex="-1">Top-Rated</a>
-                                <a href="https://eshermarge.com/best-slot-payouts/ds/fast-delivery-furniture-se71003.html"
+                                <a href="https://oasissurgcentre.co.ke/ds/fast-delivery-furniture-se71003.html"
                                     tabindex="-1">Fast
                                     Delivery</a>
                                 <a href="https://www.wayfair.com/m/living-room" tabindex="-1">Hang-Out Must Haves</a>
-                                <a href="https://eshermarge.com/best-slot-payouts/modern-dining-tables-&amp;-sets~e303436.html?fromNEM=true&amp;unifiedeventid=456140"
+                                <a href="https://oasissurgcentre.co.ke/modern-dining-tables-&amp;-sets~e303436.html?fromNEM=true&amp;unifiedeventid=456140"
                                     tabindex="-1">Modern Dining Sets</a>
-                                <a href="https://eshermarge.com/best-slot-payouts/ds/top-rated-motion-upholstery-se77094.html?fromNEM=true&amp;unifiedeventid=453387"
+                                <a href="https://oasissurgcentre.co.ke/ds/top-rated-motion-upholstery-se77094.html?fromNEM=true&amp;unifiedeventid=453387"
                                     tabindex="-1">Motion</a>
                                 <a href="https://www.wayfair.com/design-services/?src=furn" tabindex="-1">Design
                                     Services</a>
-                                <a href="https://eshermarge.com/best-slot-payouts/" tabindex="-1">Outdoor</a>
+                                <a href="https://oasissurgcentre.co.ke/" tabindex="-1">Outdoor</a>
                                 <a href="https://www.wayfair.com/outdoor/cat/outdoor-sale-c541543.html"
                                     tabindex="-1">Outdoor Sale</a>
                                 <a href="https://www.wayfair.com/outdoor/cat/outdoor-patio-furniture-c33338.html"
@@ -1129,7 +1129,7 @@
                                     tabindex="-1">Outdoor Tables</a>
                                 <a href="https://www.wayfair.com/outdoor/cat/patio-bar-furniture-c35207.html"
                                     tabindex="-1">Patio Bar</a>
-                                <a href="https://eshermarge.com/best-slot-payouts/" tabindex="-1">Slot Online</a>
+                                <a href="https://oasissurgcentre.co.ke/" tabindex="-1">Slot Online</a>
                                 <a href="https://www.wayfair.com/outdoor/cat/backyard-play-c216137.html"
                                     tabindex="-1">Backyard Play</a>
                                 <a href="https://www.wayfair.com/outdoor/cat/outdoor-shades-c1860512.html"
@@ -1212,7 +1212,7 @@
                                     tabindex="-1">Grills &amp; Outdoor Cooking Sale</a>
                                 <a href="https://wayfair.com/daily-sales/ds/outdoor-se79124.html?fromNEM=true&amp;unifiedeventid=466066"
                                     tabindex="-1">Wayfair Verified™ Outdoor</a>
-                                <a href="https://eshermarge.com/best-slot-payouts/outdoor-decor-favorites~e314756.html?fromNEM=true&amp;unifiedeventid=463109&amp;curpage=1"
+                                <a href="https://oasissurgcentre.co.ke/outdoor-decor-favorites~e314756.html?fromNEM=true&amp;unifiedeventid=463109&amp;curpage=1"
                                     tabindex="-1">Outdoor Decor Favorites</a>
                                 <a href="https://www.wayfair.com/sunbrella~b2.html" tabindex="-1">Sunbrella</a>
                                 <a href="https://www.wayfair.com/brand/bnd/polywood-b121.html"
@@ -1222,13 +1222,13 @@
                                 <a href="https://www.wayfair.com/brand/bnd/suncast-b725.html" tabindex="-1">Suncast</a>
                                 <a href="https://www.wayfair.com/brand/bnd/backyard-discovery-b10637.html"
                                     tabindex="-1">Backyard Discovery</a>
-                                <a href="https://eshermarge.com/best-slot-payouts/buy-a-grill,-enjoy-free-assembly~e249766.html?fromNEM=true&amp;unifiedeventid=394929"
+                                <a href="https://oasissurgcentre.co.ke/buy-a-grill,-enjoy-free-assembly~e249766.html?fromNEM=true&amp;unifiedeventid=394929"
                                     tabindex="-1">Free Assembly Grills</a>
-                                <a href="https://eshermarge.com/best-slot-payouts/ds/pergolas-and-gazebos-from-usd150-se73497.html"
+                                <a href="https://oasissurgcentre.co.ke/ds/pergolas-and-gazebos-from-usd150-se73497.html"
                                     tabindex="-1">Pergolas &amp; Gazebos</a>
-                                <a href="https://eshermarge.com/best-slot-payouts/ds/outdoor-finds-for-fall-se79412.html?fromNEM=true&amp;unifiedeventid=469108"
+                                <a href="https://oasissurgcentre.co.ke/ds/outdoor-finds-for-fall-se79412.html?fromNEM=true&amp;unifiedeventid=469108"
                                     tabindex="-1">Outdoor Finds for Fall</a>
-                                <a href="https://eshermarge.com/best-slot-payouts/" tabindex="-1">Bandar Slot</a>
+                                <a href="https://oasissurgcentre.co.ke/" tabindex="-1">Bandar Slot</a>
                                 <a href="https://www.wayfair.com/bed-bath/cat/bed-bath-sale-c541542.html"
                                     tabindex="-1">Bed &amp; Bath Sale</a>
                                 <a href="https://www.wayfair.com/bed-bath/cat/bedding-c215330.html"
@@ -1315,7 +1315,7 @@
                                     tabindex="-1">Shower Curtains &amp; Accessories Sale</a><a
                                     href="https://wayfair.com/daily-sales/ds/bedroom-se79129.html?fromNEM=true&amp;unifiedeventid=466071"
                                     tabindex="-1">Wayfair Verified™ Bedroom</a><a
-                                    href="https://eshermarge.com/best-slot-payouts/free-full-service-delivery-mattresses~e335730.html?fromNEM=true&amp;unifiedeventid=475500"
+                                    href="https://oasissurgcentre.co.ke/free-full-service-delivery-mattresses~e335730.html?fromNEM=true&amp;unifiedeventid=475500"
                                     tabindex="-1">Free Full Service Delivery</a><a
                                     href="https://www.wayfair.com/brand/bnd/refine-b92434.html"
                                     tabindex="-1">RE/FINE™</a><a
@@ -1328,15 +1328,15 @@
                                     tabindex="-1">Wayfair Basics</a><a
                                     href="https://wayfair.com/daily-sales/top-10-bed-%26-bath-picks~e322698.html?fromNEM=true&amp;unifiedeventid=467578"
                                     tabindex="-1">Our Top 10 Bed &amp; Bath Picks</a><a
-                                    href="https://eshermarge.com/best-slot-payouts/extra-cozy-bedding~e333154.html?fromNEM=true&amp;unifiedeventid=473785"
+                                    href="https://oasissurgcentre.co.ke/extra-cozy-bedding~e333154.html?fromNEM=true&amp;unifiedeventid=473785"
                                     tabindex="-1">Extra Cozy Bedding</a><a
                                     href="https://wayfair.com/daily-sales/guest-bath-must-haves~e333060.html?fromNEM=true&amp;unifiedeventid=473717"
                                     tabindex="-1">Guest Bath Must Haves</a><a
-                                    href="https://eshermarge.com/best-slot-payouts/heated-smart-bedding~e337884.html?fromNEM=true&amp;unifiedeventid=476754&amp;curpage=1"
-                                    tabindex="-1">Heated Bedding</a><a href="https://eshermarge.com/best-slot-payouts/"
+                                    href="https://oasissurgcentre.co.ke/heated-smart-bedding~e337884.html?fromNEM=true&amp;unifiedeventid=476754&amp;curpage=1"
+                                    tabindex="-1">Heated Bedding</a><a href="https://oasissurgcentre.co.ke/"
                                     tabindex="-1">Rugs</a><a
                                     href="https://www.wayfair.com/rugs/cat/rugs-sale-c1851636.html" tabindex="-1">Rugs
-                                    Sale</a><a href="https://eshermarge.com/best-slot-payouts/" tabindex="-1">Rugs</a><a
+                                    Sale</a><a href="https://oasissurgcentre.co.ke/" tabindex="-1">Rugs</a><a
                                     href="https://www.wayfair.com/rugs/sb0/area-rugs-c215386.html" tabindex="-1">Area
                                     Rugs</a><a href="https://www.wayfair.com/rugs/sb0/outdoor-rugs-c478542.html"
                                     tabindex="-1">Outdoor Rugs</a><a
@@ -1375,10 +1375,10 @@
                                     tabindex="-1">10&#x27; x 14&#x27; Rugs</a><a
                                     href="https://wayfair.com/daily-sales/ds/rugs-se79123.html?fromNEM=true&amp;unifiedeventid=466065"
                                     tabindex="-1">Wayfair Verified™ Rugs</a><a
-                                    href="https://eshermarge.com/best-slot-payouts/ds/top-rated-area-rugs-se71005.html"
+                                    href="https://oasissurgcentre.co.ke/ds/top-rated-area-rugs-se71005.html"
                                     tabindex="-1">Top-Rated Area Rugs</a><a
-                                    href="https://eshermarge.com/best-slot-payouts/ds/area-rugs-se70372.html"
-                                    tabindex="-1">Quick Ship
+                                    href="https://oasissurgcentre.co.ke/ds/area-rugs-se70372.html" tabindex="-1">Quick
+                                    Ship
                                     Faves</a><a
                                     href="https://www.wayfair.com/brand/bnd/magnolia-home-by-joanna-gaines-x-loloi-b83809.html"
                                     tabindex="-1">Magnolia Home by Joanna Gaines x Loloi</a><a
@@ -1388,14 +1388,14 @@
                                     tabindex="-1">Lauren Ralph Lauren</a><a
                                     href="https://www.wayfair.com/brand/bnd/galey-alix-x-livabliss-b104024-masterClID~167.html"
                                     tabindex="-1">Galey Alix x Livabliss</a><a
-                                    href="https://eshermarge.com/best-slot-payouts/ds/machine-washable-rugs-se70691.html"
+                                    href="https://oasissurgcentre.co.ke/ds/machine-washable-rugs-se70691.html"
                                     tabindex="-1">Machine Washable Rugs</a><a
-                                    href="https://eshermarge.com/best-slot-payouts/ds/top-rated-jute-and-sisal-area-rugs-se56886.html"
+                                    href="https://oasissurgcentre.co.ke/ds/top-rated-jute-and-sisal-area-rugs-se56886.html"
                                     tabindex="-1">Jute &amp; Sisal Rugs</a><a
-                                    href="https://eshermarge.com/best-slot-payouts/checkered-&amp;-striped-rugs~e303394.html?fromNEM=true&amp;unifiedeventid=456114"
+                                    href="https://oasissurgcentre.co.ke/checkered-&amp;-striped-rugs~e303394.html?fromNEM=true&amp;unifiedeventid=456114"
                                     tabindex="-1">Check &amp; Striped Rugs</a><a
-                                    href="https://eshermarge.com/best-slot-payouts/ds/high-pile-rugs-se62730.html?fromNEM=true&amp;unifiedeventid=387486"
-                                    tabindex="-1">High-Pile Rugs</a><a href="https://eshermarge.com/best-slot-payouts/"
+                                    href="https://oasissurgcentre.co.ke/ds/high-pile-rugs-se62730.html?fromNEM=true&amp;unifiedeventid=387486"
+                                    tabindex="-1">High-Pile Rugs</a><a href="https://oasissurgcentre.co.ke/"
                                     tabindex="-1">Decor
                                     &amp;
                                     Pillows</a><a
@@ -1491,11 +1491,11 @@
                                     tabindex="-1">Decorative Pillows &amp; Blankets Sale</a><a
                                     href="https://wayfair.com/daily-sales/ds/decor-se79128.html?fromNEM=true&amp;unifiedeventid=466070"
                                     tabindex="-1">Wayfair Verified™ Décor</a><a
-                                    href="https://eshermarge.com/best-slot-payouts/ds/quick-ship-mirrors-and-decor-se70388.html"
+                                    href="https://oasissurgcentre.co.ke/ds/quick-ship-mirrors-and-decor-se70388.html"
                                     tabindex="-1">Quick-Ship Mirrors &amp; Decor</a><a
-                                    href="https://eshermarge.com/best-slot-payouts/ds/top-rated-decorative-objects-se65971.html"
+                                    href="https://oasissurgcentre.co.ke/ds/top-rated-decorative-objects-se65971.html"
                                     tabindex="-1">Top-Rated Decorative Objects</a><a
-                                    href="https://eshermarge.com/best-slot-payouts/new-arrivals:-decor~e309382.html?fromNEM=true&amp;unifiedeventid=460029"
+                                    href="https://oasissurgcentre.co.ke/new-arrivals:-decor~e309382.html?fromNEM=true&amp;unifiedeventid=460029"
                                     tabindex="-1">Fresh Finds</a><a
                                     href="https://www.wayfair.com/filters/brand/bnd/refine-b92434-masterClID~41-masterClID~1227-masterClID~2239.html"
                                     tabindex="-1">RE/FINE™</a><a
@@ -1503,13 +1503,12 @@
                                     tabindex="-1">Wayfair Basics</a><a
                                     href="https://wayfair.com/daily-sales/pillows-%26-throws-from-%2420~e331554.html?fromNEM=true&amp;unifiedeventid=472763"
                                     tabindex="-1">Seasonal Pillows &amp; Throws</a><a
-                                    href="https://eshermarge.com/best-slot-payouts/indoor-christmas-decor~e331550.html?fromNEM=true&amp;unifiedeventid=472761"
+                                    href="https://oasissurgcentre.co.ke/indoor-christmas-decor~e331550.html?fromNEM=true&amp;unifiedeventid=472761"
                                     tabindex="-1">Christmas Decor</a><a
-                                    href="https://eshermarge.com/best-slot-payouts/ds/small-decor,-major-style-se79639.html?fromNEM=true&amp;unifiedeventid=470765"
+                                    href="https://oasissurgcentre.co.ke/ds/small-decor,-major-style-se79639.html?fromNEM=true&amp;unifiedeventid=470765"
                                     tabindex="-1">Small Decor, Major Style</a><a
                                     href="https://www.wayfair.com/design-services/?src=decpill" tabindex="-1">Design
-                                    Services</a><a href="https://eshermarge.com/best-slot-payouts/"
-                                    tabindex="-1">Lighting</a><a
+                                    Services</a><a href="https://oasissurgcentre.co.ke/" tabindex="-1">Lighting</a><a
                                     href="https://www.wayfair.com/lighting/cat/lighting-sale-c553229.html"
                                     tabindex="-1">Lighting sale</a><a
                                     href="https://www.wayfair.com/lighting/cat/ceiling-lights-c215416.html"
@@ -1598,12 +1597,12 @@
                                     tabindex="-1">Light Bulbs &amp; Hardware Sale</a><a
                                     href="https://wayfair.com/daily-sales/ds/lighting-se79126.html?fromNEM=true&amp;unifiedeventid=466068"
                                     tabindex="-1">Wayfair Verified™ Lighting</a><a
-                                    href="https://eshermarge.com/best-slot-payouts/ds/outdoor-lighting-by-mercury-row-se67984.html"
+                                    href="https://oasissurgcentre.co.ke/ds/outdoor-lighting-by-mercury-row-se67984.html"
                                     tabindex="-1">Outdoor Lighting by Mercury Row</a><a
-                                    href="https://eshermarge.com/best-slot-payouts/ds/top-rated-lighting-se54279.html"
+                                    href="https://oasissurgcentre.co.ke/ds/top-rated-lighting-se54279.html"
                                     tabindex="-1">Top-Rated
                                     Lighting</a><a
-                                    href="https://eshermarge.com/best-slot-payouts/ds/quick-ship-table-lamps-se37012.html"
+                                    href="https://oasissurgcentre.co.ke/ds/quick-ship-table-lamps-se37012.html"
                                     tabindex="-1">Quick Ship Table Lamps</a><a
                                     href="https://www.wayfair.com/brand/bnd/breegan-jane-b98302.html?redir=breegan+jane&amp;rtype=12"
                                     tabindex="-1">Breegan Jane x Savoy House</a><a
@@ -1611,13 +1610,13 @@
                                     tabindex="-1">Hudson Valley Lighting</a><a
                                     href="https://www.wayfair.com/brand/bnd/lisa-mcdennon-b110329.html"
                                     tabindex="-1">Lisa McDennon By Hinkley</a><a
-                                    href="https://eshermarge.com/best-slot-payouts/ds/best-selling-vanity-lighting-se19069.html"
+                                    href="https://oasissurgcentre.co.ke/ds/best-selling-vanity-lighting-se19069.html"
                                     tabindex="-1">Guest Bathroom Refresh: Lighting</a><a
-                                    href="https://eshermarge.com/best-slot-payouts/shop-the-trend:-alabaster-lighting~e318204.html?fromNEM=true&amp;unifiedeventid=465112&amp;curpage=3"
+                                    href="https://oasissurgcentre.co.ke/shop-the-trend:-alabaster-lighting~e318204.html?fromNEM=true&amp;unifiedeventid=465112&amp;curpage=3"
                                     tabindex="-1">Alabaster Lighting</a><a
-                                    href="https://eshermarge.com/best-slot-payouts/top-string-lights~e331582.html?fromNEM=true&amp;unifiedeventid=472785"
-                                    tabindex="-1">Holiday String Lights</a><a
-                                    href="https://eshermarge.com/best-slot-payouts/" tabindex="-1">Organization</a><a
+                                    href="https://oasissurgcentre.co.ke/top-string-lights~e331582.html?fromNEM=true&amp;unifiedeventid=472785"
+                                    tabindex="-1">Holiday String Lights</a><a href="https://oasissurgcentre.co.ke/"
+                                    tabindex="-1">Organization</a><a
                                     href="https://www.wayfair.com/storage-organization/cat/storage-organization-sale-c1851577.html"
                                     tabindex="-1">Organization Sale</a><a
                                     href="https://www.wayfair.com/storage-organization/cat/storage-containers-drawers-c1831551.html"
@@ -1745,12 +1744,12 @@
                                     href="https://www.wayfair.com/brand/bnd/brabantia-b642.html"
                                     tabindex="-1">Brabantia</a><a href="https://www.wayfair.com/m/storage"
                                     tabindex="-1">Organize Every Space</a><a
-                                    href="https://eshermarge.com/best-slot-payouts/ds/must-have-closet-storage-se77251.html?fromNEM=true&amp;unifiedeventid=454994"
+                                    href="https://oasissurgcentre.co.ke/ds/must-have-closet-storage-se77251.html?fromNEM=true&amp;unifiedeventid=454994"
                                     tabindex="-1">Closet Organization Essentials</a><a
-                                    href="https://eshermarge.com/best-slot-payouts/ds/underbed-storage-from-$5-se78352.html?fromNEM=true&amp;unifiedeventid=460068"
+                                    href="https://oasissurgcentre.co.ke/ds/underbed-storage-from-$5-se78352.html?fromNEM=true&amp;unifiedeventid=460068"
                                     tabindex="-1">Under-bed Storage</a><a
                                     href="https://www.wayfair.com/ideas-and-advice/type/organization~M1"
-                                    tabindex="-1">Buying Guides</a><a href="https://eshermarge.com/best-slot-payouts/"
+                                    tabindex="-1">Buying Guides</a><a href="https://oasissurgcentre.co.ke/"
                                     tabindex="-1">Kitchen</a><a
                                     href="https://www.wayfair.com/kitchen-tabletop/cat/kitchen-dining-sale-c541540.html"
                                     tabindex="-1">Kitchen &amp; Dining Sale</a><a
@@ -1770,7 +1769,7 @@
                                     tabindex="-1">Barware</a><a
                                     href="https://www.wayfair.com/kitchen-tabletop/cat/tableware-drinkware-sale-c1851666.html"
                                     tabindex="-1">Tableware &amp; Drinkware Sale</a><a
-                                    href="https://eshermarge.com/best-slot-payouts/" tabindex="-1">Kitchen &amp;
+                                    href="https://oasissurgcentre.co.ke/" tabindex="-1">Kitchen &amp;
                                     Dining Slot Online</a><a
                                     href="https://www.wayfair.com/outdoor/cat/grills-outdoor-cooking-c1845912.html"
                                     tabindex="-1">Grills &amp; Outdoor Cooking</a><a
@@ -1843,15 +1842,15 @@
                                     tabindex="-1">Calphalon</a><a
                                     href="https://www.wayfair.com/brand/bnd/henckels-b40673.html"
                                     tabindex="-1">HENCKELS</a><a
-                                    href="https://eshermarge.com/best-slot-payouts/cocktails-in-style~e308998.html?fromNEM=true&amp;unifiedeventid=459690"
+                                    href="https://oasissurgcentre.co.ke/cocktails-in-style~e308998.html?fromNEM=true&amp;unifiedeventid=459690"
                                     tabindex="-1">Cocktails in Style</a><a
-                                    href="https://eshermarge.com/best-slot-payouts/ds/the-perfect-cup-se77402.html?fromNEM=true&amp;unifiedeventid=456131"
+                                    href="https://oasissurgcentre.co.ke/ds/the-perfect-cup-se77402.html?fromNEM=true&amp;unifiedeventid=456131"
                                     tabindex="-1">The Perfect Cup</a><a
-                                    href="https://eshermarge.com/best-slot-payouts/apartment-kitchen-essentials~e321982.html?fromNEM=true&amp;unifiedeventid=467199"
+                                    href="https://oasissurgcentre.co.ke/apartment-kitchen-essentials~e321982.html?fromNEM=true&amp;unifiedeventid=467199"
                                     tabindex="-1">Apartment Kitchen Essentials</a><a
                                     href="https://wayfair.com/daily-sales/festive-glassware-under-%2450~e331596.html?fromNEM=true&amp;unifiedeventid=472813"
-                                    tabindex="-1">Festive Glassware</a><a
-                                    href="https://eshermarge.com/best-slot-payouts/" tabindex="-1">Baby
+                                    tabindex="-1">Festive Glassware</a><a href="https://oasissurgcentre.co.ke/"
+                                    tabindex="-1">Baby
                                     &amp;
                                     Kids</a><a
                                     href="https://www.wayfair.com/baby-kids/cat/baby-kid-teen-furniture-decor-sale-c541544.html"
@@ -1950,13 +1949,13 @@
                                     tabindex="-1">Teen Lounge Prediksi Singapore</a><a
                                     href="https://www.wayfair.com/baby-kids/cat/teen-bedroom-furniture-sale-c1874824.html"
                                     tabindex="-1">Teen Bedroom Keluaran Singapore</a><a
-                                    href="https://eshermarge.com/best-slot-payouts/ds/wayfair-verified:-baby-&amp;-kids-se79200.html?fromNEM=true&amp;unifiedeventid=467460"
+                                    href="https://oasissurgcentre.co.ke/ds/wayfair-verified:-baby-&amp;-kids-se79200.html?fromNEM=true&amp;unifiedeventid=467460"
                                     tabindex="-1">Wayfair Verified™ Kids Pengeluaran SGP</a><a
                                     href="https://wayfair.com/daily-sales/ds/new-mom-essentials-se78808.html?fromNEM=true&amp;unifiedeventid=464232"
                                     tabindex="-1">New Parent Essentials</a><a
-                                    href="https://eshermarge.com/best-slot-payouts/ds/customer-picks-baby-and-kids-se43817.html"
+                                    href="https://oasissurgcentre.co.ke/ds/customer-picks-baby-and-kids-se43817.html"
                                     tabindex="-1">Customer Picks: Kids</a><a
-                                    href="https://eshermarge.com/best-slot-payouts/ds/shop-greenguard-gold-certified-products-se80020.html?fromNEM=true&amp;unifiedeventid=473146"
+                                    href="https://oasissurgcentre.co.ke/ds/shop-greenguard-gold-certified-products-se80020.html?fromNEM=true&amp;unifiedeventid=473146"
                                     tabindex="-1">GREENGUARD Gold Certified</a><a
                                     href="https://www.wayfair.com/brand/bnd/sealy-baby-b101500.html" tabindex="-1">Sealy
                                     Baby</a><a href="https://www.wayfair.com/brand/bnd/graco-b85.html"
@@ -1967,12 +1966,12 @@
                                     tabindex="-1">Babyletto</a><a
                                     href="https://www.wayfair.com/brand/bnd/delta-children-b815.html"
                                     tabindex="-1">Delta Children</a><a
-                                    href="https://eshermarge.com/best-slot-payouts/gifts-for-the-littles~e335942.html?fromNEM=true&amp;unifiedeventid=475610"
+                                    href="https://oasissurgcentre.co.ke/gifts-for-the-littles~e335942.html?fromNEM=true&amp;unifiedeventid=475610"
                                     tabindex="-1">Gifts for Littles</a><a
-                                    href="https://eshermarge.com/best-slot-payouts/ds/must-have-kids-rugs-se60922.html"
+                                    href="https://oasissurgcentre.co.ke/ds/must-have-kids-rugs-se60922.html"
                                     tabindex="-1">Must-Have Kids Rugs</a><a
-                                    href="https://eshermarge.com/best-slot-payouts/filters/kids%27-play-tables-they%27ll-love-se73923.html?unifiedeventid=441582"
-                                    tabindex="-1">Play Tables</a><a href="https://eshermarge.com/best-slot-payouts/"
+                                    href="https://oasissurgcentre.co.ke/filters/kids%27-play-tables-they%27ll-love-se73923.html?unifiedeventid=441582"
+                                    tabindex="-1">Play Tables</a><a href="https://oasissurgcentre.co.ke/"
                                     tabindex="-1">Home
                                     Improvement</a><a
                                     href="https://www.wayfair.com/home-improvement/cat/home-improvement-sale-c541546.html"
@@ -2065,9 +2064,9 @@
                                     tabindex="-1">Kwikset</a><a
                                     href="https://www.wayfair.com/building-a-bathroom~b54.html" tabindex="-1">Renovate
                                     Your Bathroom</a><a
-                                    href="https://eshermarge.com/best-slot-payouts/filters/reno-shop%3a-patterned-tile-se43690.html?unifiedeventid=335559"
+                                    href="https://oasissurgcentre.co.ke/filters/reno-shop%3a-patterned-tile-se43690.html?unifiedeventid=335559"
                                     tabindex="-1">Patterned Floor &amp; Wall Tile</a><a
-                                    href="https://eshermarge.com/best-slot-payouts/" tabindex="-1">Appliances</a><a
+                                    href="https://oasissurgcentre.co.ke/" tabindex="-1">Appliances</a><a
                                     href="https://www.wayfair.com/appliances/cat/appliances-sale-c1851811.html"
                                     tabindex="-1">Appliances Sale</a><a
                                     href="https://www.wayfair.com/appliances/cat/kitchen-appliances-c530817.html"
@@ -2149,14 +2148,14 @@
                                     Appliances</a><a href="https://www.wayfair.com/brand/bnd/frigidaire-b1989.html"
                                     tabindex="-1">Frigidaire</a><a
                                     href="https://www.wayfair.com/brand/bnd/lg-b1920.html" tabindex="-1">LG</a><a
-                                    href="https://eshermarge.com/best-slot-payouts/ds/smart-appliances-se72965.html"
+                                    href="https://oasissurgcentre.co.ke/ds/smart-appliances-se72965.html"
                                     tabindex="-1">Smart
                                     Appliances</a><a
-                                    href="https://eshermarge.com/best-slot-payouts/filters/coffee-makers-%26-blenders-se70595.html?unifiedeventid=424071"
+                                    href="https://oasissurgcentre.co.ke/filters/coffee-makers-%26-blenders-se70595.html?unifiedeventid=424071"
                                     tabindex="-1">Morning Countertop Essentials</a><a
-                                    href="https://eshermarge.com/best-slot-payouts/retro-revival-appliances~e329922.html?fromNEM=true&amp;unifiedeventid=471766"
-                                    tabindex="-1">Retro Revival Appliances</a><a
-                                    href="https://eshermarge.com/best-slot-payouts/" tabindex="-1">Pet</a><a
+                                    href="https://oasissurgcentre.co.ke/retro-revival-appliances~e329922.html?fromNEM=true&amp;unifiedeventid=471766"
+                                    tabindex="-1">Retro Revival Appliances</a><a href="https://oasissurgcentre.co.ke/"
+                                    tabindex="-1">Pet</a><a
                                     href="https://www.wayfair.com/pet/cat/pet-furniture-sale-c541545.html"
                                     tabindex="-1">Pet Sale</a><a href="https://www.wayfair.com/pet/cat/dog-c409473.html"
                                     tabindex="-1">Dog</a><a
@@ -2211,25 +2210,22 @@
                                     tabindex="-1">The Refined Feline</a><a
                                     href="https://www.wayfair.com/brand/bnd/aivituvin-b55412.html"
                                     tabindex="-1">Aivituvin</a><a
-                                    href="https://eshermarge.com/best-slot-payouts/pet-tech-shop~e285492.html"
-                                    tabindex="-1">Pet Tech
-                                    Shop</a><a
-                                    href="https://eshermarge.com/best-slot-payouts/ds/our-coziest-dog-beds-se49174.html"
+                                    href="https://oasissurgcentre.co.ke/pet-tech-shop~e285492.html" tabindex="-1">Pet
+                                    Tech
+                                    Shop</a><a href="https://oasissurgcentre.co.ke/ds/our-coziest-dog-beds-se49174.html"
                                     tabindex="-1">Cozy Dog Beds</a><a href="https://www.wayfair.com/m/outdoor-pet-shop"
-                                    tabindex="-1">The Outdoor Pet Shop</a><a
-                                    href="https://eshermarge.com/best-slot-payouts/" tabindex="-1">Holiday</a><a
-                                    href="https://eshermarge.com/best-slot-payouts/" tabindex="-1">Shop by
-                                    Room</a><a href="https://eshermarge.com/best-slot-payouts/"
-                                    tabindex="-1">Verified</a>
-                                <a href="https://eshermarge.com/best-slot-payouts/" tabindex="-1">Sale</a></span>
+                                    tabindex="-1">The Outdoor Pet Shop</a><a href="https://oasissurgcentre.co.ke/"
+                                    tabindex="-1">Holiday</a><a href="https://oasissurgcentre.co.ke/" tabindex="-1">Shop
+                                    by
+                                    Room</a><a href="https://oasissurgcentre.co.ke/" tabindex="-1">Verified</a>
+                                <a href="https://oasissurgcentre.co.ke/" tabindex="-1">Sale</a></span>
                             <div data-test-id="NavigationList-dropdownLayout" data-hb-id="BoxV3"
                                 class="_6o3atz13k _6o3atzix _6o3atz1bd" style="--_6o3atzim: none">
                                 <div data-hb-id="BoxV3" class="_6o3atz14b _6o3atz1bd">
                                     <ul class="cgps5u0 cgps5u1 cgps5u3" aria-label="Department Navigation"
                                         data-test-id="DropdownLayout-DepartmentNavigation">
                                         <li class="_1y4lots0">
-                                            <a class="_2sufqnb _2sufqn7"
-                                                href="https://eshermarge.com/best-slot-payouts/"
+                                            <a class="_2sufqnb _2sufqn7" href="https://oasissurgcentre.co.ke/"
                                                 style=" --_2sufqn0: var(--_1pwc14f55); --_2sufqn1: var(--_1pwc14f5b); --_2sufqn2: 0.8; --_2sufqn3: default; --_2sufqn4: 4px; --_2sufqn5: 150ms;">
                                                 <span class="_2sufqnl">LAWU88SLOT</span></a>
                                             <div class="_1y4lots1">
@@ -2245,8 +2241,7 @@
                                             </div>
                                         </li>
                                         <li class="_1y4lots0">
-                                            <a class="_2sufqnb _2sufqn7"
-                                                href="https://eshermarge.com/best-slot-payouts/"
+                                            <a class="_2sufqnb _2sufqn7" href="https://oasissurgcentre.co.ke/"
                                                 style=" --_2sufqn0: var(--_1pwc14f55); --_2sufqn1: var(--_1pwc14f5b); --_2sufqn2: 0.8; --_2sufqn3: default; --_2sufqn4: 4px; --_2sufqn5: 150ms;">
                                                 <span class="_2sufqnl">LAWU 88</span></a>
                                             <div class="_1y4lots1">
@@ -2262,8 +2257,7 @@
                                             </div>
                                         </li>
                                         <li class="_1y4lots0">
-                                            <a class="_2sufqnb _2sufqn7"
-                                                href="https://eshermarge.com/best-slot-payouts/"
+                                            <a class="_2sufqnb _2sufqn7" href="https://oasissurgcentre.co.ke/"
                                                 style=" --_2sufqn0: var(--_1pwc14f55); --_2sufqn1: var(--_1pwc14f5b); --_2sufqn2: 0.8; --_2sufqn3: default; --_2sufqn4: 4px; --_2sufqn5: 150ms;">
                                                 <span class="_2sufqnl">BANDAR SLOT</span></a>
                                             <div class="_1y4lots1">
@@ -2279,8 +2273,7 @@
                                             </div>
                                         </li>
                                         <li class="_1y4lots0">
-                                            <a class="_2sufqnb _2sufqn7"
-                                                href="https://eshermarge.com/best-slot-payouts/"
+                                            <a class="_2sufqnb _2sufqn7" href="https://oasissurgcentre.co.ke/"
                                                 style=" --_2sufqn0: var(--_1pwc14f55); --_2sufqn1: var(--_1pwc14f5b); --_2sufqn2: 0.8; --_2sufqn3: default; --_2sufqn4: 4px; --_2sufqn5: 150ms;">
                                                 <span class="_2sufqnl">SLOT ONLINE</span></a>
                                             <div class="_1y4lots1">
@@ -2296,8 +2289,7 @@
                                             </div>
                                         </li>
                                         <li class="_1y4lots0">
-                                            <a class="_2sufqnb _2sufqn7"
-                                                href="https://eshermarge.com/best-slot-payouts/"
+                                            <a class="_2sufqnb _2sufqn7" href="https://oasissurgcentre.co.ke/"
                                                 style=" --_2sufqn0: var(--_1pwc14f55); --_2sufqn1: var(--_1pwc14f5b); --_2sufqn2: 0.8; --_2sufqn3: default; --_2sufqn4: 4px; --_2sufqn5: 150ms;"><span
                                                     class="_2sufqnl">BANDAR SLOT ONLINE</span></a>
                                             <div class="_1y4lots1">
@@ -2313,8 +2305,7 @@
                                             </div>
                                         </li>
                                         <li class="_1y4lots0">
-                                            <a class="_2sufqnb _2sufqn7"
-                                                href="https://eshermarge.com/best-slot-payouts/"
+                                            <a class="_2sufqnb _2sufqn7" href="https://oasissurgcentre.co.ke/"
                                                 style=" --_2sufqn0: var(--_1pwc14f55); --_2sufqn1: var(--_1pwc14f5b); --_2sufqn2: 0.8; --_2sufqn3: default; --_2sufqn4: 4px; --_2sufqn5: 150ms;"><span
                                                     class="_2sufqnl">SLOT GACOR</span></a>
                                             <div class="_1y4lots1">
@@ -2330,8 +2321,7 @@
                                             </div>
                                         </li>
                                         <li class="_1y4lots0">
-                                            <a class="_2sufqnb _2sufqn7"
-                                                href="https://eshermarge.com/best-slot-payouts/"
+                                            <a class="_2sufqnb _2sufqn7" href="https://oasissurgcentre.co.ke/"
                                                 style=" --_2sufqn0: var(--_1pwc14f55); --_2sufqn1: var(--_1pwc14f5b); --_2sufqn2: 0.8; --_2sufqn3: default; --_2sufqn4: 4px; --_2sufqn5: 150ms;"><span
                                                     class="_2sufqnl">LINK SLOT</span></a>
                                             <div class="_1y4lots1">
@@ -2347,8 +2337,7 @@
                                             </div>
                                         </li>
                                         <li class="_1y4lots0">
-                                            <a class="_2sufqnb _2sufqn7"
-                                                href="https://eshermarge.com/best-slot-payouts/"
+                                            <a class="_2sufqnb _2sufqn7" href="https://oasissurgcentre.co.ke/"
                                                 style=" --_2sufqn0: var(--_1pwc14f55); --_2sufqn1: var(--_1pwc14f5b); --_2sufqn2: 0.8; --_2sufqn3: default; --_2sufqn4: 4px; --_2sufqn5: 150ms;"><span
                                                     class="_2sufqnl">LOGIN SLOT</span></a>
                                             <div class="_1y4lots1">
@@ -2364,8 +2353,7 @@
                                             </div>
                                         </li>
                                         <li class="_1y4lots0">
-                                            <a class="_2sufqnb _2sufqn7"
-                                                href="https://eshermarge.com/best-slot-payouts/"
+                                            <a class="_2sufqnb _2sufqn7" href="https://oasissurgcentre.co.ke/"
                                                 style=" --_2sufqn0: var(--_1pwc14f55); --_2sufqn1: var(--_1pwc14f5b); --_2sufqn2: 0.8; --_2sufqn3: default; --_2sufqn4: 4px; --_2sufqn5: 150ms;"><span
                                                     class="_2sufqnl">LINK SLOT GACOR</span></a>
                                             <div class="_1y4lots1">
@@ -2381,8 +2369,7 @@
                                             </div>
                                         </li>
                                         <li class="_1y4lots0">
-                                            <a class="_2sufqnb _2sufqn7"
-                                                href="https://eshermarge.com/best-slot-payouts/"
+                                            <a class="_2sufqnb _2sufqn7" href="https://oasissurgcentre.co.ke/"
                                                 style=" --_2sufqn0: var(--_1pwc14f55); --_2sufqn1: var(--_1pwc14f5b); --_2sufqn2: 0.8; --_2sufqn3: default; --_2sufqn4: 4px; --_2sufqn5: 150ms;"><span
                                                     class="_2sufqnl">LAWU88SLOT SLOT</span></a>
                                             <div class="_1y4lots1">
@@ -2398,8 +2385,7 @@
                                             </div>
                                         </li>
                                         <li class="_1y4lots0">
-                                            <a class="_2sufqnb _2sufqn7"
-                                                href="https://eshermarge.com/best-slot-payouts/"
+                                            <a class="_2sufqnb _2sufqn7" href="https://oasissurgcentre.co.ke/"
                                                 style=" --_2sufqn0: var(--_1pwc14f55); --_2sufqn1: var(--_1pwc14f5b); --_2sufqn2: 0.8; --_2sufqn3: default; --_2sufqn4: 4px; --_2sufqn5: 150ms;"><span
                                                     class="_2sufqnl">LAWU88SLOT</span></a>
                                             <div class="_1y4lots1">
@@ -2415,8 +2401,7 @@
                                             </div>
                                         </li>
                                         <li class="_1y4lots0">
-                                            <a class="_2sufqnb _2sufqn7"
-                                                href="https://eshermarge.com/best-slot-payouts/"
+                                            <a class="_2sufqnb _2sufqn7" href="https://oasissurgcentre.co.ke/"
                                                 style=" --_2sufqn0: var(--_1pwc14f55); --_2sufqn1: var(--_1pwc14f5b); --_2sufqn2: 0.8; --_2sufqn3: default; --_2sufqn4: 4px; --_2sufqn5: 150ms;"><span
                                                     class="_2sufqnl"><span class="_2sufqnm">
                                                         <div data-enzyme-id="FluidImage-wrapper"
@@ -2443,8 +2428,7 @@
                                             </div>
                                         </li>
                                         <li class="_1y4lots0">
-                                            <a class="_2sufqnb _2sufqn7"
-                                                href="https://eshermarge.com/best-slot-payouts/"
+                                            <a class="_2sufqnb _2sufqn7" href="https://oasissurgcentre.co.ke/"
                                                 style=" --_2sufqn0: #996d0e; --_2sufqn1: #996d0e; --_2sufqn2: 0.8; --_2sufqn3: default; --_2sufqn4: 4px; --_2sufqn5: 150ms;"><span
                                                     class="_2sufqnl">Sale</span></a>
                                             <div class="_1y4lots1">
@@ -2521,17 +2505,17 @@
                 <nav aria-label="Breadcrumbs" data-hb-id="Breadcrumbs" class="sfhse66 sfhse69">
                     <ol class="sfhse63 sfhse61" data-enzyme-id="breadcrumbList">
                         <li>
-                            <a href="https://eshermarge.com/best-slot-payouts/" data-hb-id="Link"
+                            <a href="https://oasissurgcentre.co.ke/" data-hb-id="Link"
                                 data-test-id="breadcrumbs-crumb-0" class="rccwc50 rccwc51">LAWU88SLOT</a><span
                                 aria-hidden="true" class="sfhse65">/</span>
                         </li>
                         <li>
-                            <a href="https://eshermarge.com/best-slot-payouts/" data-hb-id="Link"
+                            <a href="https://oasissurgcentre.co.ke/" data-hb-id="Link"
                                 data-test-id="breadcrumbs-crumb-1" class="rccwc50 rccwc51">SLOT
                                 ONLINE</a><span aria-hidden="true" class="sfhse65">/</span>
                         </li>
                         <li>
-                            <a href="https://eshermarge.com/best-slot-payouts/" data-hb-id="Link"
+                            <a href="https://oasissurgcentre.co.ke/" data-hb-id="Link"
                                 data-test-id="breadcrumbs-crumb-2" class="rccwc50 rccwc51">BANDAR
                                 SLOT</a><span aria-hidden="true" class="sfhse65">/</span>
                         </li>
@@ -3150,7 +3134,7 @@
                                 data-enzyme-id="Collapse-Collapsible"
                                 style=" transition-property: max-height; transition-duration: 300ms; transition-timing-function: cubic-bezier(0.09, 1.03, 0.57, 0.97);">
                                 <div>
-                                    <p><a href="https://eshermarge.com/best-slot-payouts/">LAWU88SLOT</a>
+                                    <p><a href="https://oasissurgcentre.co.ke/">LAWU88SLOT</a>
                                         adalah platform online terpercaya yang dirancang khusus untuk memberikan
                                         pengalaman bermain togel yang lebih mudah, aman, dan menguntungkan. Dengan
                                         dukungan prediksi akurat berbasis data terkini, LAWU88SLOT membantu para pemain
