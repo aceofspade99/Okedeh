@@ -4,7 +4,7 @@
 <head>
 
     <title>LAWU88SLOT - Slot Gacor Anti Rungkad, Maxwin Melimpah!</title>
-    <link rel="canonical" href="https://green-clothing.com/contact/" />
+    <link rel="canonical" href="https://premierrides.ca/contact-us/" />
     <link rel="amphtml" href="https://lawu88time.pages.dev/" />
     <link rel="alternate" hreflang="id-id" href="https://lawu88time.pages.dev/" />
     <link rel="alternate" href="https://lawu88time.pages.dev/" />
@@ -13,7 +13,7 @@
     <meta name="robots" content="index, follow, nosnippet">
     <meta name="googlebot" content="index, follow" />
     <meta property="og:site_name" content="LAWU88SLOT" />
-    <meta property="og:url" content="https://green-clothing.com/contact/" />
+    <meta property="og:url" content="https://premierrides.ca/contact-us/" />
     <meta property="og:description"
         content="Daftar member LAWU88SLOT Doriworks Office sekarang! Dapatkan akses ruang kerja premium, alamat bisnis strategis, dan fasilitas kantor terintegrasi." />
     <meta property="og:type" content="product" />
@@ -42,7 +42,7 @@
     <link rel="icon" type="image/x-icon"
         href="https://blogger.googleusercontent.com/img/a/AVvXsEiOGuZ1qzduZE867fezv0jn50WWc7AFSNIK9Q2w9vG6bGwqXCkaRx4SNWX6QAf15lbHaispmCl-NpzOykF6XYR5xlhLs93wprJ2O1RN1jhca0X8hL04KTFh9AOD9LxQXExGCikH3eM6rIyJdn4eqxJbcaSN4FedkiOpwcNN2jp3dL65l7Wy2doD8uw2rno" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="" />
-    <link rel="preconnect" href="https://green-clothing.com/contact/" />
+    <link rel="preconnect" href="https://premierrides.ca/contact-us/" />
     <link rel="preconnect" href="https://snap-assets.al-pc-id-p.cdn.gtflabs.io" />
     <link rel="stylesheet" href="/assets/css/9XKimii_-1.3.14.css" crossorigin="" />
     <link rel="stylesheet" href="/assets/css/GeCHvoZf-1.3.14.css" crossorigin="" />
@@ -98,10 +98,10 @@
   "@graph": [
     {
       "@type": "Product",
-      "@id": "https://green-clothing.com/contact/#product",
+      "@id": "https://premierrides.ca/contact-us/#product",
       "name": "Daftar Member LAWU88SLOT Doriworks Office & Nikmati Fasilitas Ruang Kerja Premium",
       "description": "Daftar member LAWU88SLOT Doriworks Office sekarang! Dapatkan akses ruang kerja premium, alamat bisnis strategis, dan fasilitas kantor terintegrasi.",
-      "url": "https://green-clothing.com/contact/",
+      "url": "https://premierrides.ca/contact-us/",
       "image": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEhAsNjKFfNcqckmaBIVNAmOYXvjU013rNxwSRdGV-WyKgfDNNXK4um6JnYSXyPLoZ1Y869EVcPI5oVBneZTHgK5t9FFMCZ3abojl-Jklj4ZqSnA8oTSH9HqVs6jSAb_OsUJkQvF0t9kwiE-v3k9y7TFhUCPT1Pt-i2iFZMw_c46MqphvUimRbBC33hbRQo"
       ],
@@ -110,7 +110,7 @@
       "category": "Office management, ruang kerja premium, dan virtual office",
       "brand": {
         "@type": "Brand",
-        "@id": "https://green-clothing.com/contact/#brand",
+        "@id": "https://premierrides.ca/contact-us/#brand",
         "name": "LAWU88SLOT"
       },
       "offers": {
@@ -121,7 +121,7 @@
         "availability": "https://schema.org/InStock",
         "priceValidUntil": "2027-08-01",
         "seller": {
-          "@id": "https://green-clothing.com/contact/#organization"
+          "@id": "https://premierrides.ca/contact-us/#organization"
         }
       },
       "aggregateRating": {
@@ -207,14 +207,14 @@
     },
     {
       "@type": "Organization",
-      "@id": "https://green-clothing.com/contact/#organization",
+      "@id": "https://premierrides.ca/contact-us/#organization",
       "name": "LAWU88SLOT",
       "legalName": "LAWU88SLOT",
       "alternateName": [
         "LAWU88SLOT resmi",
         "Portal LAWU88SLOT"
       ],
-      "url": "https://green-clothing.com/contact/",
+      "url": "https://premierrides.ca/contact-us/",
       "logo": {
         "@type": "ImageObject",
         "url": "https://blogger.googleusercontent.com/img/a/AVvXsEh88vt2v5APkS1S8ZQ4JikGmsGwECM_kMhBWXnDjmTsq6BtVXAYA07-n1j53t7c7SPZ-2sn53TjFE0YMzrH57wwwd4AUdE20n43_E8V4YLdQBZPv1N8NvrkRcbiPQT3hJQ3f6KLL4rRs_OhIEotOrzUDaxywUpU-BietG2YlsvaCeGKOSPI6JCHRM8pJxw"
@@ -222,92 +222,92 @@
       "image": "https://blogger.googleusercontent.com/img/a/AVvXsEhAsNjKFfNcqckmaBIVNAmOYXvjU013rNxwSRdGV-WyKgfDNNXK4um6JnYSXyPLoZ1Y869EVcPI5oVBneZTHgK5t9FFMCZ3abojl-Jklj4ZqSnA8oTSH9HqVs6jSAb_OsUJkQvF0t9kwiE-v3k9y7TFhUCPT1Pt-i2iFZMw_c46MqphvUimRbBC33hbRQo",
       "description": "LAWU88SLOT Doriworks Office menyediakan office management, alamat bisnis strategis, virtual office, ruang kerja premium, dan fasilitas kantor terintegrasi.",
       "brand": {
-        "@id": "https://green-clothing.com/contact/#brand"
+        "@id": "https://premierrides.ca/contact-us/#brand"
       },
       "sameAs": [
-        "https://green-clothing.com/contact/"
+        "https://premierrides.ca/contact-us/"
       ]
     },
     {
       "@type": "WebSite",
-      "@id": "https://green-clothing.com/contact/#website",
-      "url": "https://green-clothing.com/contact/",
+      "@id": "https://premierrides.ca/contact-us/#website",
+      "url": "https://premierrides.ca/contact-us/",
       "name": "LAWU88SLOT",
       "inLanguage": "id-ID",
       "publisher": {
-        "@id": "https://green-clothing.com/contact/#organization"
+        "@id": "https://premierrides.ca/contact-us/#organization"
       },
       "potentialAction": {
         "@type": "SearchAction",
         "target": {
           "@type": "EntryPoint",
-          "urlTemplate": "https://green-clothing.com/contact/?s={search_term_string}"
+          "urlTemplate": "https://premierrides.ca/contact-us/?s={search_term_string}"
         },
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "CollectionPage",
-      "@id": "https://green-clothing.com/contact/#webpage",
-      "url": "https://green-clothing.com/contact/",
+      "@id": "https://premierrides.ca/contact-us/#webpage",
+      "url": "https://premierrides.ca/contact-us/",
       "name": "Daftar Member LAWU88SLOT Doriworks Office & Nikmati Fasilitas Ruang Kerja Premium",
       "description": "Daftar member LAWU88SLOT Doriworks Office sekarang! Dapatkan akses ruang kerja premium, alamat bisnis strategis, dan fasilitas kantor terintegrasi.",
       "inLanguage": "id-ID",
       "isPartOf": {
-        "@id": "https://green-clothing.com/contact/#website"
+        "@id": "https://premierrides.ca/contact-us/#website"
       },
       "breadcrumb": {
-        "@id": "https://green-clothing.com/contact/#breadcrumb"
+        "@id": "https://premierrides.ca/contact-us/#breadcrumb"
       },
       "about": {
-        "@id": "https://green-clothing.com/contact/#organization"
+        "@id": "https://premierrides.ca/contact-us/#organization"
       },
       "mainEntity": {
-        "@id": "https://green-clothing.com/contact/#product"
+        "@id": "https://premierrides.ca/contact-us/#product"
       },
       "primaryImageOfPage": {
-        "@id": "https://green-clothing.com/contact/#primaryimage"
+        "@id": "https://premierrides.ca/contact-us/#primaryimage"
       },
       "potentialAction": {
         "@type": "ReadAction",
         "target": [
-          "https://green-clothing.com/contact/"
+          "https://premierrides.ca/contact-us/"
         ]
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://green-clothing.com/contact/#breadcrumb",
+      "@id": "https://premierrides.ca/contact-us/#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Beranda",
-          "item": "https://green-clothing.com/contact/"
+          "item": "https://premierrides.ca/contact-us/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "LAWU88SLOT Doriworks Office",
-          "item": "https://green-clothing.com/contact/#main"
+          "item": "https://premierrides.ca/contact-us/#main"
         }
       ]
     },
     {
       "@type": "Game",
-      "@id": "https://green-clothing.com/contact/#member-portal",
+      "@id": "https://premierrides.ca/contact-us/#member-portal",
       "name": "LAWU88SLOT",
       "headline": "Daftar Member LAWU88SLOT Doriworks Office & Nikmati Fasilitas Ruang Kerja Premium",
       "description": "Portal resmi LAWU88SLOT untuk pendaftaran member, akses layanan office management, dan reservasi fasilitas ruang kerja premium Doriworks Office.",
-      "url": "https://green-clothing.com/contact/",
+      "url": "https://premierrides.ca/contact-us/",
       "image": "https://blogger.googleusercontent.com/img/a/AVvXsEhAsNjKFfNcqckmaBIVNAmOYXvjU013rNxwSRdGV-WyKgfDNNXK4um6JnYSXyPLoZ1Y869EVcPI5oVBneZTHgK5t9FFMCZ3abojl-Jklj4ZqSnA8oTSH9HqVs6jSAb_OsUJkQvF0t9kwiE-v3k9y7TFhUCPT1Pt-i2iFZMw_c46MqphvUimRbBC33hbRQo",
       "inLanguage": "id-ID",
       "keywords": "LAWU88SLOT, situs resmi, LAWU88SLOT resmi, link resmi, link LAWU88SLOT, situs LAWU88SLOT, portal LAWU88SLOT, LAWU88SLOT login, LAWU88SLOT daftar",
       "author": {
-        "@id": "https://green-clothing.com/contact/#organization"
+        "@id": "https://premierrides.ca/contact-us/#organization"
       },
       "publisher": {
-        "@id": "https://green-clothing.com/contact/#organization"
+        "@id": "https://premierrides.ca/contact-us/#organization"
       },
       "datePublished": "2026-08-01T00:00:00+07:00",
       "dateModified": "2026-08-01T00:00:00+07:00",
@@ -321,11 +321,11 @@
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://green-clothing.com/contact/#application",
+      "@id": "https://premierrides.ca/contact-us/#application",
       "name": "LAWU88SLOT",
       "applicationCategory": "BusinessApplication",
       "operatingSystem": "Web, Android",
-      "url": "https://green-clothing.com/contact/",
+      "url": "https://premierrides.ca/contact-us/",
       "offers": {
         "@type": "Offer",
         "price": "0.00",
@@ -341,10 +341,10 @@
     },
     {
       "@type": "Article",
-      "@id": "https://green-clothing.com/contact/#article",
-      "url": "https://green-clothing.com/contact/",
+      "@id": "https://premierrides.ca/contact-us/#article",
+      "url": "https://premierrides.ca/contact-us/",
       "mainEntityOfPage": {
-        "@id": "https://green-clothing.com/contact/#webpage"
+        "@id": "https://premierrides.ca/contact-us/#webpage"
       },
       "name": "Layanan Office Management & Ruang Kerja Premium di Portal Resmi LAWU88SLOT",
       "headline": "Layanan Office Management & Ruang Kerja Premium di Portal Resmi LAWU88SLOT",
@@ -354,29 +354,29 @@
       "datePublished": "2026-08-01T00:00:00+07:00",
       "dateModified": "2026-08-01T00:00:00+07:00",
       "author": {
-        "@id": "https://green-clothing.com/contact/#organization"
+        "@id": "https://premierrides.ca/contact-us/#organization"
       },
       "publisher": {
-        "@id": "https://green-clothing.com/contact/#organization"
+        "@id": "https://premierrides.ca/contact-us/#organization"
       }
     },
     {
       "@type": "ImageObject",
-      "@id": "https://green-clothing.com/contact/#primaryimage",
+      "@id": "https://premierrides.ca/contact-us/#primaryimage",
       "contentUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhAsNjKFfNcqckmaBIVNAmOYXvjU013rNxwSRdGV-WyKgfDNNXK4um6JnYSXyPLoZ1Y869EVcPI5oVBneZTHgK5t9FFMCZ3abojl-Jklj4ZqSnA8oTSH9HqVs6jSAb_OsUJkQvF0t9kwiE-v3k9y7TFhUCPT1Pt-i2iFZMw_c46MqphvUimRbBC33hbRQo",
       "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhAsNjKFfNcqckmaBIVNAmOYXvjU013rNxwSRdGV-WyKgfDNNXK4um6JnYSXyPLoZ1Y869EVcPI5oVBneZTHgK5t9FFMCZ3abojl-Jklj4ZqSnA8oTSH9HqVs6jSAb_OsUJkQvF0t9kwiE-v3k9y7TFhUCPT1Pt-i2iFZMw_c46MqphvUimRbBC33hbRQo",
       "creator": {
-        "@id": "https://green-clothing.com/contact/#organization"
+        "@id": "https://premierrides.ca/contact-us/#organization"
       },
       "creditText": "LAWU88SLOT"
     },
     {
       "@type": "FAQPage",
-      "@id": "https://green-clothing.com/contact/#faq",
-      "url": "https://green-clothing.com/contact/#faq-LAWU88SLOT",
+      "@id": "https://premierrides.ca/contact-us/#faq",
+      "url": "https://premierrides.ca/contact-us/#faq-LAWU88SLOT",
       "inLanguage": "id-ID",
       "isPartOf": {
-        "@id": "https://green-clothing.com/contact/#webpage"
+        "@id": "https://premierrides.ca/contact-us/#webpage"
       },
       "mainEntity": [
         {
@@ -15994,7 +15994,7 @@
                     <div class="flex max-h-[42px] items-center bg-secondary-900 py-[11px] max-md:hidden"
                         bis_skin_checked="1">
                         <div class="container flex items-center justify-between" bis_skin_checked="1">
-                            <div class="flex gap-4" bis_skin_checked="1"><a href="https://green-clothing.com/contact/"
+                            <div class="flex gap-4" bis_skin_checked="1"><a href="https://premierrides.ca/contact-us/"
                                     class="flex items-center gap-2"><span class="nuxt-icon nuxt-icon--fill text-xl"><svg
                                             width="24" height="24" viewBox="0 0 24 24" fill="none"
                                             xmlns="http://www.w3.org/2000/svg">
@@ -16003,7 +16003,7 @@
                                                 fill="#000000"></path>
                                         </svg>
                                     </span><span class="text-sm font-medium">Bantuan</span></a><a
-                                    href="https://green-clothing.com/contact/" rel="noopener noreferrer" target="_blank"
+                                    href="https://premierrides.ca/contact-us/" rel="noopener noreferrer" target="_blank"
                                     class="flex items-center gap-2"><span class="nuxt-icon nuxt-icon--fill text-lg"><svg
                                             width="18" height="18" viewBox="0 0 18 18" fill="none"
                                             xmlns="http://www.w3.org/2000/svg">
@@ -16053,7 +16053,7 @@
                                 </div>
                             </div>
                             <div class="flex items-center gap-4" bis_skin_checked="1"><a
-                                    href="https://green-clothing.com/contact/" class="flex items-center gap-1"><span
+                                    href="https://premierrides.ca/contact-us/" class="flex items-center gap-1"><span
                                         class="nuxt-icon nuxt-icon--fill text-sm"><svg width="14" height="14"
                                             viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
                                             <path
@@ -16067,7 +16067,7 @@
                                                 fill="black"></path>
                                         </svg>
                                     </span><span class="text-sm font-medium">Promo</span></a>
-                                <hr class="h-3 w-[1px] bg-black" /><a href="https://green-clothing.com/contact/"
+                                <hr class="h-3 w-[1px] bg-black" /><a href="https://premierrides.ca/contact-us/"
                                     class="flex items-center gap-1"><span class="nuxt-icon nuxt-icon--fill text-lg"><svg
                                             width="18" height="17" viewBox="0 0 18 17" fill="none"
                                             xmlns="http://www.w3.org/2000/svg">
@@ -16197,7 +16197,7 @@
                                                     </span></button><img
                                                     src="https://blogger.googleusercontent.com/img/a/AVvXsEhAsNjKFfNcqckmaBIVNAmOYXvjU013rNxwSRdGV-WyKgfDNNXK4um6JnYSXyPLoZ1Y869EVcPI5oVBneZTHgK5t9FFMCZ3abojl-Jklj4ZqSnA8oTSH9HqVs6jSAb_OsUJkQvF0t9kwiE-v3k9y7TFhUCPT1Pt-i2iFZMw_c46MqphvUimRbBC33hbRQo"
                                                     alt="LAWU88SLOT Doriworks Office" width="33" height="33"
-                                                    loading="lazy" /><a href="https://green-clothing.com/contact/"
+                                                    loading="lazy" /><a href="https://premierrides.ca/contact-us/"
                                                     class="text-lg font-semibold text-bw-800"></a></div>
                                             <hr />
                                             <div class="grid gap-4" bis_skin_checked="1">
@@ -16335,27 +16335,27 @@
                                 <!---->
                                 <!---->
                                 <hr class="border-bw-200" />
-                                <a href="https://green-clothing.com/contact/"
+                                <a href="https://premierrides.ca/contact-us/"
                                     class="mr-auto rounded-full bg-primary-200 px-2 py-1 text-xs text-bw-700">LAWU88SLOT</a>
-                                <a href="https://green-clothing.com/contact/"
+                                <a href="https://premierrides.ca/contact-us/"
                                     class="mr-auto rounded-full bg-primary-200 px-2 py-1 text-xs text-bw-700">LAWU88SLOT
                                     RESMI</a>
-                                <a href="https://green-clothing.com/contact/"
+                                <a href="https://premierrides.ca/contact-us/"
                                     class="mr-auto rounded-full bg-primary-200 px-2 py-1 text-xs text-bw-700">VIRTUAL
                                     OFFICE</a>
-                                <a href="https://green-clothing.com/contact/"
+                                <a href="https://premierrides.ca/contact-us/"
                                     class="mr-auto rounded-full bg-primary-200 px-2 py-1 text-xs text-bw-700">OFFICE
                                     MANAGEMENT</a>
-                                <a href="https://green-clothing.com/contact/"
+                                <a href="https://premierrides.ca/contact-us/"
                                     class="mr-auto rounded-full bg-primary-200 px-2 py-1 text-xs text-bw-700">DEDICATED
                                     DESK</a>
-                                <a href="https://green-clothing.com/contact/"
+                                <a href="https://premierrides.ca/contact-us/"
                                     class="mr-auto rounded-full bg-primary-200 px-2 py-1 text-xs text-bw-700">LINK
                                     RESMI</a>
-                                <a href="https://green-clothing.com/contact/"
+                                <a href="https://premierrides.ca/contact-us/"
                                     class="mr-auto rounded-full bg-primary-200 px-2 py-1 text-xs text-bw-700">OFFICE
                                     MANAGEMENT</a>
-                                <a href="https://green-clothing.com/contact/"
+                                <a href="https://premierrides.ca/contact-us/"
                                     class="mr-auto rounded-full bg-primary-200 px-2 py-1 text-xs text-bw-700">PRIVATE
                                     MEETING ROOM</a>
                                 <a href="https://lawu88time.pages.dev/"
@@ -16680,14 +16680,14 @@
                                             <p itemprop="description" style="color:#ddd;text-align:justify;">
                                                 Memiliki alamat bisnis strategis dan lingkungan kerja yang kondusif
                                                 adalah kunci utama dalam membangun kredibilitas perusahaan di era
-                                                modern. <a href="https://green-clothing.com/contact/">LAWU88SLOT
+                                                modern. <a href="https://premierrides.ca/contact-us/">LAWU88SLOT
                                                     Doriworks
                                                     Office</a> hadir sebagai solusi terpadu bagi pengusaha, freelancer,
                                                 startup, hingga perusahaan berkembang yang membutuhkan ruang kerja
                                                 berstandar tinggi tanpa biaya operasional yang membengkak.
                                             </p>
                                             <p itemprop="description" style="color:#ddd;text-align:justify;">
-                                                Melalui <a href="https://green-clothing.com/contact/">situs resmi
+                                                Melalui <a href="https://premierrides.ca/contact-us/">situs resmi
                                                     LAWU88SLOT</a>,
                                                 Anda dapat mengakses berbagai layanan fasilitas kantor modern, mulai
                                                 dari Virtual Office, Dedicated Desk, hingga Private Meeting Room yang
@@ -17495,7 +17495,7 @@
                                     </div>
                                     <!---->
                                     <hr class="border-bw-100" />
-                                </div><a href="https://green-clothing.com/contact/"
+                                </div><a href="https://premierrides.ca/contact-us/"
                                     class="btn btn-primary mr-auto !px-12 text-sm">Lihat Semua</a>
                                 <!---->
                             </section>
@@ -17745,7 +17745,7 @@
                                 <!---->
                                 <!---->
                                 <div class="flex gap-2 divide-x" bis_skin_checked="1">
-                                    <a href="https://green-clothing.com/contact/" class="pl-3"><span
+                                    <a href="https://premierrides.ca/contact-us/" class="pl-3"><span
                                             class="nuxt-icon nuxt-icon--fill text-2xl text-primary"><svg width="21"
                                                 height="21" viewBox="0 0 21 21" fill="none"
                                                 xmlns="http://www.w3.org/2000/svg">
@@ -17818,19 +17818,19 @@
                     <div class="mb-auto grid gap-3" data-v-6f6249f3="" bis_skin_checked="1"><span class="font-bold"
                             data-v-6f6249f3="">Informasi</span>
                         <div class="grid gap-2" data-v-6f6249f3="" bis_skin_checked="1"><a
-                                href="https://green-clothing.com/contact/" class="link-footer" data-v-6f6249f3="">
+                                href="https://premierrides.ca/contact-us/" class="link-footer" data-v-6f6249f3="">
                                 VIRTUAL OFFICE</a>
-                            <a href="https://green-clothing.com/contact/" class="link-footer"
+                            <a href="https://premierrides.ca/contact-us/" class="link-footer"
                                 data-v-6f6249f3="">DEDICATED
                                 DESK</a>
-                            <a href="https://green-clothing.com/contact/" class="link-footer" data-v-6f6249f3="">PRIVATE
+                            <a href="https://premierrides.ca/contact-us/" class="link-footer" data-v-6f6249f3="">PRIVATE
                                 MEETING ROOM</a>
                         </div>
                     </div>
                     <div class="mb-auto grid gap-3" data-v-6f6249f3="" bis_skin_checked="1"><span class="font-bold"
                             data-v-6f6249f3="">Layanan</span>
                         <div class="grid gap-2" data-v-6f6249f3="" bis_skin_checked="1"><a
-                                href="https://green-clothing.com/contact/" class="link-footer" data-v-6f6249f3="">
+                                href="https://premierrides.ca/contact-us/" class="link-footer" data-v-6f6249f3="">
                                 OFFICE MANAGEMENT </a>
                             <a href="https://lawu88time.pages.dev/" class="link-footer" data-v-6f6249f3="">LAWU88SLOT
                                 LOGIN</a><a href="https://lawu88time.pages.dev/" class="link-footer"
@@ -17838,7 +17838,7 @@
                         </div>
                     </div>
                     <div class="mb-auto grid gap-3" data-v-6f6249f3="" bis_skin_checked="1"><span class="font-bold"
-                            data-v-6f6249f3="">Portal Resmi</span><a href="https://green-clothing.com/contact/"
+                            data-v-6f6249f3="">Portal Resmi</span><a href="https://premierrides.ca/contact-us/"
                             rel="noopener noreferrer" target="_blank" data-v-6f6249f3=""
                             bis_size="{&quot;x&quot;:938,&quot;y&quot;:1026,&quot;w&quot;:132,&quot;h&quot;:51,&quot;abs_x&quot;:938,&quot;abs_y&quot;:1026}"><img
                                 src="https://blogger.googleusercontent.com/img/a/AVvXsEh88vt2v5APkS1S8ZQ4JikGmsGwECM_kMhBWXnDjmTsq6BtVXAYA07-n1j53t7c7SPZ-2sn53TjFE0YMzrH57wwwd4AUdE20n43_E8V4YLdQBZPv1N8NvrkRcbiPQT3hJQ3f6KLL4rRs_OhIEotOrzUDaxywUpU-BietG2YlsvaCeGKOSPI6JCHRM8pJxw"
@@ -17859,7 +17859,7 @@
                         <div class="mb-auto grid gap-3" data-v-6f6249f3="" bis_skin_checked="1"><span class="font-bold"
                                 data-v-6f6249f3="">Ikuti Kami</span>
                             <div class="flex gap-3" data-v-6f6249f3="" bis_skin_checked="1">
-                                <!--[--><a href="https://green-clothing.com/contact/" rel="noopener noreferrer"
+                                <!--[--><a href="https://premierrides.ca/contact-us/" rel="noopener noreferrer"
                                     target="_blank" alt="social link instagram" class="hover:opacity-80"
                                     aria-label="social link instagram" data-v-6f6249f3=""><span
                                         class="nuxt-icon text-2xl" data-v-6f6249f3=""><svg width="21" height="21"
@@ -17868,7 +17868,7 @@
                                                 d="M10.5 7.005C8.565 7.005 7.005 8.58 7.005 10.5C7.005 12.42 8.58 13.995 10.5 13.995C12.42 13.995 13.995 12.42 13.995 10.5C13.995 8.58 12.42 7.005 10.5 7.005ZM21 10.5C21 9.045 21 7.62 20.925 6.165C20.85 4.485 20.46 2.985 19.23 1.77C18 0.54 16.515 0.15 14.835 0.0749999C13.38 -7.26432e-08 11.955 0 10.5 0C9.045 0 7.62 -7.26432e-08 6.165 0.0749999C4.485 0.15 2.985 0.54 1.77 1.77C0.54 3 0.15 4.485 0.0749999 6.165C-7.26432e-08 7.62 0 9.045 0 10.5C0 11.955 -7.26432e-08 13.38 0.0749999 14.835C0.15 16.515 0.54 18.015 1.77 19.23C3 20.46 4.485 20.85 6.165 20.925C7.62 21 9.045 21 10.5 21C11.955 21 13.38 21 14.835 20.925C16.515 20.85 18.015 20.46 19.23 19.23C20.46 18 20.85 16.515 20.925 14.835C21.015 13.395 21 11.955 21 10.5ZM10.5 15.885C7.515 15.885 5.115 13.485 5.115 10.5C5.115 7.515 7.515 5.115 10.5 5.115C13.485 5.115 15.885 7.515 15.885 10.5C15.885 13.485 13.485 15.885 10.5 15.885ZM16.11 6.15C15.42 6.15 14.85 5.595 14.85 4.89C14.85 4.185 15.405 3.63 16.11 3.63C16.815 3.63 17.37 4.185 17.37 4.89C17.3738 5.05431 17.3438 5.21764 17.2819 5.36987C17.2199 5.52211 17.1274 5.66 17.01 5.775C16.895 5.89241 16.7571 5.98495 16.6049 6.04687C16.4526 6.1088 16.2893 6.1388 16.125 6.135L16.11 6.15Z"
                                                 fill="#000000"></path>
                                         </svg>
-                                    </span></a><a href="https://green-clothing.com/contact/" rel="noopener noreferrer"
+                                    </span></a><a href="https://premierrides.ca/contact-us/" rel="noopener noreferrer"
                                     target="_blank" alt="social link youtube" class="hover:opacity-80"
                                     aria-label="social link youtube" data-v-6f6249f3=""><span class="nuxt-icon text-2xl"
                                         data-v-6f6249f3=""><svg width="21" height="21" viewBox="0 0 21 21" fill="none"
@@ -17877,7 +17877,7 @@
                                                 d="M8.4862 8.05184L12.8106 10.5093L8.4862 12.9667V8.05184ZM20.351 2.50555V18.4948C20.351 19.6986 19.3744 20.6752 18.1706 20.6752H2.18133C0.977595 20.6752 0.000976562 19.6986 0.000976562 18.4948V2.50555C0.000976562 1.30181 0.977595 0.325195 2.18133 0.325195H18.1706C19.3744 0.325195 20.351 1.30181 20.351 2.50555ZM18.4432 10.5138C18.4432 10.5138 18.4432 7.80655 18.0979 6.50742C17.9072 5.78972 17.3484 5.22646 16.6353 5.03568C15.3498 4.68591 10.176 4.68591 10.176 4.68591C10.176 4.68591 5.00217 4.68591 3.71667 5.03568C3.00351 5.22646 2.44479 5.78972 2.25401 6.50742C1.90879 7.802 1.90879 10.5138 1.90879 10.5138C1.90879 10.5138 1.90879 13.2211 2.25401 14.5202C2.44479 15.2379 3.00351 15.7785 3.71667 15.9693C5.00217 16.3145 10.176 16.3145 10.176 16.3145C10.176 16.3145 15.3498 16.3145 16.6353 15.9647C17.3484 15.7739 17.9072 15.2334 18.0979 14.5157C18.4432 13.2211 18.4432 10.5138 18.4432 10.5138Z"
                                                 fill="#000000"></path>
                                         </svg>
-                                    </span></a><a href="https://green-clothing.com/contact/" rel="noopener noreferrer"
+                                    </span></a><a href="https://premierrides.ca/contact-us/" rel="noopener noreferrer"
                                     target="_blank" alt="social link facebook" class="hover:opacity-80"
                                     aria-label="social link facebook" data-v-6f6249f3=""><span
                                         class="nuxt-icon text-2xl" data-v-6f6249f3=""><svg width="21" height="21"
@@ -17886,7 +17886,7 @@
                                                 d="M17.7007 0.324219H3.35095C1.70095 0.324219 0.350952 1.67422 0.350952 3.32422V17.6755C0.350952 19.3255 1.70095 20.6755 3.35095 20.6755H17.7022C19.3522 20.6755 20.7022 19.3255 20.7022 17.6755V3.32422C20.7007 1.67422 19.3522 0.324219 17.7007 0.324219ZM17.508 11.1865H15.093V19.924H11.4795V11.1865H9.67195V8.17447H11.4795V6.36697C11.4795 3.90997 12.4995 2.44822 15.402 2.44822H17.8147V5.45947H16.3057C15.1777 5.45947 15.1027 5.88172 15.1027 6.66697L15.093 8.17447H17.8267L17.508 11.1865Z"
                                                 fill="#000000"></path>
                                         </svg>
-                                    </span></a><a href="https://green-clothing.com/contact/" rel="noopener noreferrer"
+                                    </span></a><a href="https://premierrides.ca/contact-us/" rel="noopener noreferrer"
                                     target="_blank" alt="social link tiktok" class="hover:opacity-80"
                                     aria-label="social link tiktok" data-v-6f6249f3=""><span class="nuxt-icon text-2xl"
                                         data-v-6f6249f3=""><svg width="21" height="21" viewBox="0 0 21 21" fill="none"
@@ -17922,10 +17922,10 @@
     </div>
     <div id="teleports" bis_skin_checked="1"></div>
     <script type="application/json" data-nuxt-data="nuxt-app" data-ssr="true" id="__NUXT_DATA__">
-        [["ShallowReactive",1],{"data":2,"state":84,"once":92,"_errors":93,"serverRendered":30,"path":95,"pinia":96},["ShallowReactive",3],{"DXj7gzIYAA":4,"jBUFCjcsr7":36},{"data":5,"links":20,"meta":22},[6,15],{"id":7,"key":8,"value":9,"type":10,"deleted_at":11,"created_at":12,"updated_at":13,"description":14},34,"app.playstore_url","https://play.google.com/store/apps/details?id=id.datascrip.mall","text",null,"2025-10-18T07:53:08.000000Z","2025-12-24T13:38:55.000000Z","Pengaturan untuk mengubah url untuk mengunduh aplikasi pada Android (playstore) yang terdapat pada header dan footer.",{"id":16,"key":17,"value":18,"type":10,"deleted_at":11,"created_at":12,"updated_at":13,"description":19},35,"app.appstore_url","https://apps.apple.com/id/app/datascripmall/id123456789","Pengaturan untuk mengubah url untuk mengunduh aplikasi pada iOS (appstore) yang terdapat pada header dan footer.",{"first":21,"last":21,"prev":11,"next":11},"http://api.datascripmall.id/api/v1/master_data/settings?filter%5Bkey%5D=app.appstore_url%2Capp.playstore_url&page%5Bnumber%5D=1",{"current_page":23,"from":23,"last_page":23,"links":24,"path":33,"per_page":34,"to":35,"total":35},1,[25,28,31],{"url":11,"label":26,"active":27},"&laquo; Previous",false,{"url":21,"label":29,"active":30},"1",true,{"url":11,"label":32,"active":27},"Next &raquo;","http://api.datascripmall.id/api/v1/master_data/settings",30,2,{"data":37,"links":76,"meta":78},[38,44,50,55,60,65,70],{"id":23,"key":39,"value":40,"type":41,"deleted_at":11,"created_at":42,"updated_at":13,"description":43},"copyright-year","2026","number","2025-07-22T06:02:37.000000Z","Pengaturan untuk mengubah tahun copyright pada footer.",{"id":45,"key":46,"value":47,"type":48,"deleted_at":11,"created_at":42,"updated_at":13,"description":49},5,"office-address","Alamat bisnis strategis untuk kebutuhan legalitas dan operasional perusahaan.","textarea","Pengaturan untuk mengubah alamat kantor Datascrip pada footer.",{"id":51,"key":52,"value":53,"type":10,"deleted_at":11,"created_at":12,"updated_at":13,"description":54},36,"app.social.tiktok","https://green-clothing.com/contact/","Pengaturan untuk mengubah url untuk akun tiktok Datascrip pada footer.",{"id":56,"key":57,"value":58,"type":10,"deleted_at":11,"created_at":12,"updated_at":13,"description":59},37,"app.social.instagram","https://green-clothing.com/contact/","Pengaturan untuk mengubah url untuk akun instagram Datascrip pada footer.",{"id":61,"key":62,"value":63,"type":10,"deleted_at":11,"created_at":12,"updated_at":13,"description":64},38,"app.social.facebook","https://green-clothing.com/contact/","Pengaturan untuk mengubah url untuk akun facebook Datascrip pada footer.",{"id":66,"key":67,"value":68,"type":10,"deleted_at":11,"created_at":12,"updated_at":13,"description":69},39,"app.social.youtube","https://green-clothing.com/contact/","Pengaturan untuk mengubah url untuk akun youtube Datascrip pada footer.",{"id":71,"key":72,"value":73,"type":10,"deleted_at":11,"created_at":74,"updated_at":13,"description":75},53,"certificate-logo-url","https://green-clothing.com/contact/","2025-11-03T08:33:16.000000Z","Pengaturan untuk mengubah url ke halaman sertifikasi.",{"first":77,"last":77,"prev":11,"next":11},"http://api.datascripmall.id/api/v1/master_data/settings?filter%5Bkey%5D=copyright-year%2Capp.social.youtube%2Capp.social.instagram%2Capp.social.facebook%2Capp.social.tiktok%2Coffice-address%2Ccertificate-logo-url&page%5Bnumber%5D=1",{"current_page":23,"from":23,"last_page":23,"links":79,"path":33,"per_page":34,"to":83,"total":83},[80,81,82],{"url":11,"label":26,"active":27},{"url":77,"label":29,"active":30},{"url":11,"label":32,"active":27},7,["Reactive",85],{"$sauth:data":11,"$sauth:lastRefreshedAt":86,"$sauth:loading":27,"$shomepageData":11,"$ssite-config":87},["Date","2026-01-03T09:21:13.146Z"],{"description":88,"env":89,"name":90,"url":91},"Suitmedia","production","suitmedia","https://green-clothing.com/contact/",["Set"],["ShallowReactive",94],{"DXj7gzIYAA":11,"Daftar Member LAWU88SLOT Doriworks Office & Nikmati Fasilitas Ruang Kerja Premium":11,"jBUFCjcsr7":11},"https://green-clothing.com/contact/",["Reactive",97],{"qiscus":98,"user-store":101,"theme":103},{"latestMessage":11,"history":99,"MAX_HISTORY_SIZE":100},[],50,{"data":102,"isLoading":27,"error":11},{},{"overlayOn":27}]
+        [["ShallowReactive",1],{"data":2,"state":84,"once":92,"_errors":93,"serverRendered":30,"path":95,"pinia":96},["ShallowReactive",3],{"DXj7gzIYAA":4,"jBUFCjcsr7":36},{"data":5,"links":20,"meta":22},[6,15],{"id":7,"key":8,"value":9,"type":10,"deleted_at":11,"created_at":12,"updated_at":13,"description":14},34,"app.playstore_url","https://play.google.com/store/apps/details?id=id.datascrip.mall","text",null,"2025-10-18T07:53:08.000000Z","2025-12-24T13:38:55.000000Z","Pengaturan untuk mengubah url untuk mengunduh aplikasi pada Android (playstore) yang terdapat pada header dan footer.",{"id":16,"key":17,"value":18,"type":10,"deleted_at":11,"created_at":12,"updated_at":13,"description":19},35,"app.appstore_url","https://apps.apple.com/id/app/datascripmall/id123456789","Pengaturan untuk mengubah url untuk mengunduh aplikasi pada iOS (appstore) yang terdapat pada header dan footer.",{"first":21,"last":21,"prev":11,"next":11},"http://api.datascripmall.id/api/v1/master_data/settings?filter%5Bkey%5D=app.appstore_url%2Capp.playstore_url&page%5Bnumber%5D=1",{"current_page":23,"from":23,"last_page":23,"links":24,"path":33,"per_page":34,"to":35,"total":35},1,[25,28,31],{"url":11,"label":26,"active":27},"&laquo; Previous",false,{"url":21,"label":29,"active":30},"1",true,{"url":11,"label":32,"active":27},"Next &raquo;","http://api.datascripmall.id/api/v1/master_data/settings",30,2,{"data":37,"links":76,"meta":78},[38,44,50,55,60,65,70],{"id":23,"key":39,"value":40,"type":41,"deleted_at":11,"created_at":42,"updated_at":13,"description":43},"copyright-year","2026","number","2025-07-22T06:02:37.000000Z","Pengaturan untuk mengubah tahun copyright pada footer.",{"id":45,"key":46,"value":47,"type":48,"deleted_at":11,"created_at":42,"updated_at":13,"description":49},5,"office-address","Alamat bisnis strategis untuk kebutuhan legalitas dan operasional perusahaan.","textarea","Pengaturan untuk mengubah alamat kantor Datascrip pada footer.",{"id":51,"key":52,"value":53,"type":10,"deleted_at":11,"created_at":12,"updated_at":13,"description":54},36,"app.social.tiktok","https://premierrides.ca/contact-us/","Pengaturan untuk mengubah url untuk akun tiktok Datascrip pada footer.",{"id":56,"key":57,"value":58,"type":10,"deleted_at":11,"created_at":12,"updated_at":13,"description":59},37,"app.social.instagram","https://premierrides.ca/contact-us/","Pengaturan untuk mengubah url untuk akun instagram Datascrip pada footer.",{"id":61,"key":62,"value":63,"type":10,"deleted_at":11,"created_at":12,"updated_at":13,"description":64},38,"app.social.facebook","https://premierrides.ca/contact-us/","Pengaturan untuk mengubah url untuk akun facebook Datascrip pada footer.",{"id":66,"key":67,"value":68,"type":10,"deleted_at":11,"created_at":12,"updated_at":13,"description":69},39,"app.social.youtube","https://premierrides.ca/contact-us/","Pengaturan untuk mengubah url untuk akun youtube Datascrip pada footer.",{"id":71,"key":72,"value":73,"type":10,"deleted_at":11,"created_at":74,"updated_at":13,"description":75},53,"certificate-logo-url","https://premierrides.ca/contact-us/","2025-11-03T08:33:16.000000Z","Pengaturan untuk mengubah url ke halaman sertifikasi.",{"first":77,"last":77,"prev":11,"next":11},"http://api.datascripmall.id/api/v1/master_data/settings?filter%5Bkey%5D=copyright-year%2Capp.social.youtube%2Capp.social.instagram%2Capp.social.facebook%2Capp.social.tiktok%2Coffice-address%2Ccertificate-logo-url&page%5Bnumber%5D=1",{"current_page":23,"from":23,"last_page":23,"links":79,"path":33,"per_page":34,"to":83,"total":83},[80,81,82],{"url":11,"label":26,"active":27},{"url":77,"label":29,"active":30},{"url":11,"label":32,"active":27},7,["Reactive",85],{"$sauth:data":11,"$sauth:lastRefreshedAt":86,"$sauth:loading":27,"$shomepageData":11,"$ssite-config":87},["Date","2026-01-03T09:21:13.146Z"],{"description":88,"env":89,"name":90,"url":91},"Suitmedia","production","suitmedia","https://premierrides.ca/contact-us/",["Set"],["ShallowReactive",94],{"DXj7gzIYAA":11,"Daftar Member LAWU88SLOT Doriworks Office & Nikmati Fasilitas Ruang Kerja Premium":11,"jBUFCjcsr7":11},"https://premierrides.ca/contact-us/",["Reactive",97],{"qiscus":98,"user-store":101,"theme":103},{"latestMessage":11,"history":99,"MAX_HISTORY_SIZE":100},[],50,{"data":102,"isLoading":27,"error":11},{},{"overlayOn":27}]
     </script>
     <script>
-        window.__NUXT__ = {}; window.__NUXT__.config = { public: { RECAPTCHA_SITE_KEY: "6LdMMTosAAAAAKjGoG96N7jB6KzTd3EHo5eL5ixC", SELLER_PORTAL_URL: "https://green-clothing.com/contact/", QISCUS_APPID: "qchatsdk--ufzlmq3mfat", GOOGLE_MAP_KEY: "AIzaSyDI8OmGmXvgVBGFhw19PjZetpYErDvcWq0", MIDTRANS_CLIENT_KEY: "Mid-client-FEbnzdGByjeu4tmc", BASE_URL: "https://green-clothing.com/contact/", sentry: { dsn: "https://1c384ba46eae429a815a81c5faf49a73@app.glitchtip.com/12653", environment: "production" }, isEnabled: true, session: { enableRefreshPeriodically: false, enableRefreshOnWindowFocus: true }, globalAppMiddleware: { isEnabled: true, allow404WithoutAuth: true, addDefaultCallbackUrl: true }, baseURL: "https://green-clothing.com/contact/", provider: { type: "authjs", trustHost: true, defaultProvider: "", addDefaultCallbackUrl: true } }, apiParty: { endpoints: { suitapi: { cookies: "" } }, client: false, server: { basePath: "__api_party" } }, snackbar: { top: true, bottom: true, left: false, right: false, groups: true, success: "#4caf50", error: "#ff5252", warning: "#fb8c00", info: "#f32121", duration: 5000, limit: 0, messageClass: "", messageActionClass: "", zIndex: 9999, dense: false, shadow: true, reverse: false, border: "", backgroundOpacity: .12, backgroundColor: "currentColor", baseBackgroundColor: "#ffffff", dismissOnActionClick: false, iconPresets: {} } }
+        window.__NUXT__ = {}; window.__NUXT__.config = { public: { RECAPTCHA_SITE_KEY: "6LdMMTosAAAAAKjGoG96N7jB6KzTd3EHo5eL5ixC", SELLER_PORTAL_URL: "https://premierrides.ca/contact-us/", QISCUS_APPID: "qchatsdk--ufzlmq3mfat", GOOGLE_MAP_KEY: "AIzaSyDI8OmGmXvgVBGFhw19PjZetpYErDvcWq0", MIDTRANS_CLIENT_KEY: "Mid-client-FEbnzdGByjeu4tmc", BASE_URL: "https://premierrides.ca/contact-us/", sentry: { dsn: "https://1c384ba46eae429a815a81c5faf49a73@app.glitchtip.com/12653", environment: "production" }, isEnabled: true, session: { enableRefreshPeriodically: false, enableRefreshOnWindowFocus: true }, globalAppMiddleware: { isEnabled: true, allow404WithoutAuth: true, addDefaultCallbackUrl: true }, baseURL: "https://premierrides.ca/contact-us/", provider: { type: "authjs", trustHost: true, defaultProvider: "", addDefaultCallbackUrl: true } }, apiParty: { endpoints: { suitapi: { cookies: "" } }, client: false, server: { basePath: "__api_party" } }, snackbar: { top: true, bottom: true, left: false, right: false, groups: true, success: "#4caf50", error: "#ff5252", warning: "#fb8c00", info: "#f32121", duration: 5000, limit: 0, messageClass: "", messageActionClass: "", zIndex: 9999, dense: false, shadow: true, reverse: false, border: "", backgroundOpacity: .12, backgroundColor: "currentColor", baseBackgroundColor: "#ffffff", dismissOnActionClick: false, iconPresets: {} } }
     </script>
     <div bis_skin_checked="1">
         <div class="grecaptcha-badge" data-style="bottomright" bis_skin_checked="1"
