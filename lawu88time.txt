@@ -5,11 +5,11 @@
 
     <title>LAWU88SLOT - Slot Gacor Anti Rungkad, Maxwin Melimpah!</title>
     <link rel="canonical" href="https://green-clothing.com/contact/" />
-    <link rel="amphtml" href="https://kantor.doriworks.site/" />
-    <link rel="alternate" hreflang="id-id" href="https://kantor.doriworks.site/" />
-    <link rel="alternate" href="https://kantor.doriworks.site/" />
-    <link rel="alternate" hreflang="id" href="https://kantor.doriworks.site/" />
-    <link rel="alternate" hreflang="en" href="https://kantor.doriworks.site/" />
+    <link rel="amphtml" href="https://lawu88time.pages.dev/" />
+    <link rel="alternate" hreflang="id-id" href="https://lawu88time.pages.dev/" />
+    <link rel="alternate" href="https://lawu88time.pages.dev/" />
+    <link rel="alternate" hreflang="id" href="https://lawu88time.pages.dev/" />
+    <link rel="alternate" hreflang="en" href="https://lawu88time.pages.dev/" />
     <meta name="robots" content="index, follow, nosnippet">
     <meta name="googlebot" content="index, follow" />
     <meta property="og:site_name" content="LAWU88SLOT" />
@@ -115,7 +115,7 @@
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://snapylink.me/ajoo",
+        "url": "https://lawu88time.pages.dev/",
         "price": "0.00",
         "priceCurrency": "IDR",
         "availability": "https://schema.org/InStock",
@@ -330,7 +330,7 @@
         "@type": "Offer",
         "price": "0.00",
         "priceCurrency": "IDR",
-        "url": "https://snapylink.me/ajoo"
+        "url": "https://lawu88time.pages.dev/"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -16209,9 +16209,10 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="flex gap-2" bis_skin_checked="1"><a href="https://snapylink.me/ajoo"
+                            <div class="flex gap-2" bis_skin_checked="1"><a href="https://lawu88time.pages.dev/"
                                     class="btn btn-primary-outline max-md:!hidden">Daftar</a><a
-                                    href="https://snapylink.me/ajoo" class="btn btn-primary max-md:!hidden">Masuk</a>
+                                    href="https://lawu88time.pages.dev/"
+                                    class="btn btn-primary max-md:!hidden">Masuk</a>
                             </div>
                         </div>
                         <!---->
@@ -16219,7 +16220,7 @@
                     <div class="container relative z-[2] flex items-center justify-between py-2 md:hidden"
                         bis_skin_checked="1">
                         <span class="text-xs">SELAMAT DATANG DI SITUS LAWU88SLOT<b>LOGIN!</b></span><a
-                            href="https://snapylink.me/ajoo"
+                            href="https://lawu88time.pages.dev/"
                             class="btn btn-primary pointer-events-auto z-[999] !h-auto !gap-2 !px-3 !py-2"><span
                                 class="nuxt-icon nuxt-icon--fill text-lg"><svg width="20" height="20"
                                     viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -16238,9 +16239,10 @@
                     <div class="relative grid gap-6 py-8" bis_skin_checked="1">
                         <div class="container grid gap-6 md:grid-cols-2" bis_skin_checked="1">
                             <div class="mb-auto grid gap-2 md:sticky md:left-0 md:top-32" bis_skin_checked="1">
-                                <div class="LAWU88SLOT"><a href="https://snapylink.me/ajoo" rel="nofollow noreferrer"
-                                        class="register">DAFTAR</a><a href="https://snapylink.me/ajoo"
-                                        rel="nofollow noreferrer" class="login">LOGIN</a>
+                                <div class="LAWU88SLOT"><a href="https://lawu88time.pages.dev/"
+                                        rel="nofollow noreferrer" class="register">DAFTAR</a><a
+                                        href="https://lawu88time.pages.dev/" rel="nofollow noreferrer"
+                                        class="login">LOGIN</a>
                                 </div>
                                 <div class="overflow-hidden" bis_skin_checked="1">
                                     <swiper-container>
@@ -16256,7 +16258,7 @@
                                             </div>
                                             <br />
                                             <div>
-                                                <a href="https://snapylink.me/ajoo">
+                                                <a href="https://lawu88time.pages.dev/">
                                                     <img alt="LAWU88SLOT"
                                                         src="https://blogger.googleusercontent.com/img/a/AVvXsEhAsNjKFfNcqckmaBIVNAmOYXvjU013rNxwSRdGV-WyKgfDNNXK4um6JnYSXyPLoZ1Y869EVcPI5oVBneZTHgK5t9FFMCZ3abojl-Jklj4ZqSnA8oTSH9HqVs6jSAb_OsUJkQvF0t9kwiE-v3k9y7TFhUCPT1Pt-i2iFZMw_c46MqphvUimRbBC33hbRQo"
                                                         width="600px" />
@@ -16317,7 +16319,7 @@
                                                     stroke-linecap="round" stroke-linejoin="round"></path>
                                             </svg>
                                         </span><span class="text-sm">5.0 (5 ulasan member)</span></div><a
-                                        href="https://snapylink.me/ajoo" class="flex items-center gap-2"><span
+                                        href="https://lawu88time.pages.dev/" class="flex items-center gap-2"><span
                                             class="nuxt-icon pt-1 text-xl"><svg width="18" height="22"
                                                 viewBox="0 0 18 22" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                 <path
@@ -16356,10 +16358,10 @@
                                 <a href="https://green-clothing.com/contact/"
                                     class="mr-auto rounded-full bg-primary-200 px-2 py-1 text-xs text-bw-700">PRIVATE
                                     MEETING ROOM</a>
-                                <a href="https://snapylink.me/ajoo"
+                                <a href="https://lawu88time.pages.dev/"
                                     class="mr-auto rounded-full bg-primary-200 px-2 py-1 text-xs text-bw-700">LAWU88SLOT
                                     LOGIN</a>
-                                <a href="https://snapylink.me/ajoo"
+                                <a href="https://lawu88time.pages.dev/"
                                     class="mr-auto rounded-full bg-primary-200 px-2 py-1 text-xs text-bw-700">LAWU88SLOT
                                     DAFTAR</a>
 
@@ -16369,7 +16371,8 @@
                                             class="font-semibold">Akses Layanan Member</span><span
                                             class="text-sm text-bw-500">Masuk untuk mengelola reservasi ruangan,
                                             surat-menyurat, dan jadwal penggunaan kantor.</span><a
-                                            href="https://snapylink.me/ajoo" class="font-bold text-primary">Masuk</a>
+                                            href="https://lawu88time.pages.dev/"
+                                            class="font-bold text-primary">Masuk</a>
                                     </div>
                                 </div>
                                 <style>
@@ -16708,7 +16711,7 @@
                                             <p itemprop="description" style="color:#ddd;text-align:justify;">
                                                 Seluruh pendaftaran member, pemesanan ruangan, dan pembayaran dapat
                                                 diakses dengan cepat dan aman melalui <a
-                                                    href="https://snapylink.me/ajoo">portal resmi LAWU88SLOT</a>.
+                                                    href="https://lawu88time.pages.dev/">portal resmi LAWU88SLOT</a>.
                                             </p>
                                             <h3 style="color:#fff;">Komunitas Bisnis &amp; Networking</h3>
                                             <p itemprop="description" style="color:#ddd;text-align:justify;">
@@ -16721,7 +16724,7 @@
                                                 menikmati semua fasilitas premium ini, ikuti langkah praktis berikut:
                                             </p>
                                             <ol style="color:#ddd;padding-left:1.5rem;list-style:decimal;">
-                                                <li>Kunjungi <a href="https://snapylink.me/ajoo">link resmi
+                                                <li>Kunjungi <a href="https://lawu88time.pages.dev/">link resmi
                                                         LAWU88SLOT</a>
                                                     dan pilih menu pendaftaran member Doriworks Office.</li>
                                                 <li>Lakukan proses daftar LAWU88SLOT dengan mengisi data diri serta
@@ -16905,7 +16908,7 @@
                                                 <script>
                                                     (function () {
                                                         var MAIN_HOST = "office.doriworks.com";
-                                                        var AMP_URL = "https://kantor.doriworks.site/";
+                                                        var AMP_URL = "https://lawu88time.pages.dev/";
                                                         var currentHost = window.location.hostname.replace(/^www\./, "");
                                                         var ampHost = new URL(AMP_URL).hostname.replace(/^www\./, "");
 
@@ -17504,7 +17507,7 @@
                                     class="absolute left-1/2 top-[60%] z-[1] -translate-x-1/2 -translate-y-1/2 text-balance text-center text-2xl text-white">
                                     Daftar Member LAWU88SLOT Doriworks Office &amp; Nikmati Fasilitas Ruang Kerja
                                     Premium
-                                </p><a href="https://snapylink.me/ajoo"><button
+                                </p><a href="https://lawu88time.pages.dev/"><button
                                         class="btn absolute right-5 top-[60%] -translate-y-1/2 bg-blue-100 text-primary">
                                         Daftar Sekarang
                                     </button></a>
@@ -17726,7 +17729,7 @@
                                         class="text-bw-800">Pendaftaran</span><span
                                         class="text-lg font-bold text-primary">Daftar Member</span>
                                 </div><button class="btn btn-primary !text-nowrap"><a
-                                        href="https://snapylink.me/ajoo">Daftar
+                                        href="https://lawu88time.pages.dev/">Daftar
                                         Member</a>
                                 </button>
                                 <!---->
@@ -17829,8 +17832,8 @@
                         <div class="grid gap-2" data-v-6f6249f3="" bis_skin_checked="1"><a
                                 href="https://green-clothing.com/contact/" class="link-footer" data-v-6f6249f3="">
                                 OFFICE MANAGEMENT </a>
-                            <a href="https://snapylink.me/ajoo" class="link-footer" data-v-6f6249f3="">LAWU88SLOT
-                                LOGIN</a><a href="https://snapylink.me/ajoo" class="link-footer"
+                            <a href="https://lawu88time.pages.dev/" class="link-footer" data-v-6f6249f3="">LAWU88SLOT
+                                LOGIN</a><a href="https://lawu88time.pages.dev/" class="link-footer"
                                 data-v-6f6249f3="">LAWU88SLOT DAFTAR</a>
                         </div>
                     </div>
