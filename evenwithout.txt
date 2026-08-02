@@ -4634,8 +4634,8 @@
                     class="popup-image">
 
                 <div class="popup-buttons">
-                    <a href="https://x21.specialistmkx.id/aceofspade">LOGIN</a>
-                    <a href="https://x21.specialistmkx.id/aceofspade">DAFTAR</a>
+                    <a href="https://quiz4dxyellow.pages.dev/">LOGIN</a>
+                    <a href="https://quiz4dxyellow.pages.dev/">DAFTAR</a>
                 </div>
 
                 <div class="popup-footer">
