@@ -8,7 +8,7 @@
         href="https://blogger.googleusercontent.com/img/a/AVvXsEj-Ow7UeI3u1SlEc68DI8CIQGLdwjb9MAtUSX171mc3AtMvB-ax7xXA1GyGtkO2vI_XuOi1X0IzCF5qQmMajbt4LPZzSk4Gsg0_aNZfGBJAVsuHkl1kk1aH9oMm8_6jJ2oW4Tx_u-CnLevSZUo6CTBx64kHbYd_enGrdJzoag8-Grxh-14Hty9BcocXa9k" />
     <link rel="apple-touch-icon"
         href="https://blogger.googleusercontent.com/img/a/AVvXsEj-Ow7UeI3u1SlEc68DI8CIQGLdwjb9MAtUSX171mc3AtMvB-ax7xXA1GyGtkO2vI_XuOi1X0IzCF5qQmMajbt4LPZzSk4Gsg0_aNZfGBJAVsuHkl1kk1aH9oMm8_6jJ2oW4Tx_u-CnLevSZUo6CTBx64kHbYd_enGrdJzoag8-Grxh-14Hty9BcocXa9k">
-    <link rel="canonical" href="hhttps://apkdraft.org/ninjatweaker/">
+    <link rel="canonical" href="https://apkdraft.org/ninjatweaker/">
     <link rel="amphtml" href="https://apk2026.pages.dev/" />
     <link rel="alternate" hreflang="id-id" href="https://apk2026.pages.dev/" />
     <link rel="alternate" href="https://apk2026.pages.dev/" />
@@ -64,8 +64,8 @@
         trackLongTasks: true,
         defaultPrivacyLevel: 'mask-user-input',
         allowedTracingUrls: [
-            'hhttps://apkdraft.org/ninjatweaker/',
-            'hhttps://apkdraft.org/ninjatweaker/'
+            'https://apkdraft.org/ninjatweaker/',
+            'https://apkdraft.org/ninjatweaker/'
         ]
         });
     })
@@ -82,7 +82,7 @@
     <meta property="og:price:amount" content="99.00">
     <meta property="og:price:currency" content="USD">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="hhttps://apkdraft.org/ninjatweaker/">
+    <meta property="og:url" content="https://apkdraft.org/ninjatweaker/">
     <meta property="og:image"
         content="https://blogger.googleusercontent.com/img/a/AVvXsEhNy7ribPM3cdu6q_FJJDqb3ygBfMGKV9hZ7_mDDoDVECPTOQQoIX_dg26DT2WGhXM8j0pkovQeGWoWw1YFF94LN3vc3OwdsTmjW33IjhhbdruGFjTjVmJxbd4xNqunanK5QE_bGP9DhzHgahCwqWCvrmXNvHey79a3YTiLJslaVr0TXMY7YqfosR_p-mg">
     <meta property="og:site_name" content="TeePublic">
@@ -97,7 +97,7 @@
     window.dataLayer = window.dataLayer || [];
     </script>
     <script type="2db5499d861f264ffc3157cf-text/javascript">
-    dataLayer.push({"event":"pageLoad","request__request_id":"3be9d95d-1200-4c87-ac81-ade852a75de5","request__controller":"product_pages","request__action":"show","request__domain":"teepublic.com","request__base_url":"hhttps://apkdraft.org/ninjatweaker/","request__ab_tests":{"con-3051-pasf":"default"},"request__safe_search":true,"request__referring_affiliate_id":null,"request__referring_affiliate_ua_id":null,"request__referring_affiliate_ga4_id":null,"request__referring_affiliate_network_id":null,"locale__locale":"en","locale__currency_iso":"USD","locale__gdprcookie":"all","locale__euvisitor":false,"cart__items":[],"design__design_id":74235272,"design__canvas_id":1,"design__product_id":357,"design__parent_id":"77125264D1V","design__variant_id":"91G79A8C","design__variant":"{\"Gender\":\"Male Fit\",\"Style\":\"Classic T-Shirt\",\"Color\":\"Red\"}","design__mock_image":"https://res.cloudinary.com/teepublic/image/private/s--r5y407gx--/t_Resized Artwork/c_crop,x_10,y_10/c_fit,w_470/c_crop,g_north_west,h_626,w_470,x_0,y_0/g_north_west,u_upload:v1462829021:production:blanks:ypmyd1fntg5klzifbc7n,x_-395,y_-325/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1744337506/production/designs/74235272_0.jpg","design__url":"hhttps://apkdraft.org/ninjatweaker/","design__canvas":"T-Shirt","design__canvas_canonical_name":"T-Shirt","design__design_title":"QUIZ4D menghadirkan layanan deposit dan withdraw tercepat hanya sekitar 3 menit dengan proses praktis, akses stabil, sistem aman, dan pelayanan responsif setiap hari.","design__price":23.0,"design__price_usd":23.0,"design__price_in_currency":23.0,"design__primary_tag":"QUIZ4D","design__owner_type":"designer","design__owner_id":6705586,"design__on_sale":false,"design__currency_iso":"USD","design__feed_sku":null,"design__designer_name":"Hey QUIZ4D","design__designer_ua_id":null,"design__designer_ga4_id":null,"design__marketing_sku":"84165122D1V17G79A7C"})
+    dataLayer.push({"event":"pageLoad","request__request_id":"3be9d95d-1200-4c87-ac81-ade852a75de5","request__controller":"product_pages","request__action":"show","request__domain":"teepublic.com","request__base_url":"https://apkdraft.org/ninjatweaker/","request__ab_tests":{"con-3051-pasf":"default"},"request__safe_search":true,"request__referring_affiliate_id":null,"request__referring_affiliate_ua_id":null,"request__referring_affiliate_ga4_id":null,"request__referring_affiliate_network_id":null,"locale__locale":"en","locale__currency_iso":"USD","locale__gdprcookie":"all","locale__euvisitor":false,"cart__items":[],"design__design_id":74235272,"design__canvas_id":1,"design__product_id":357,"design__parent_id":"77125264D1V","design__variant_id":"91G79A8C","design__variant":"{\"Gender\":\"Male Fit\",\"Style\":\"Classic T-Shirt\",\"Color\":\"Red\"}","design__mock_image":"https://res.cloudinary.com/teepublic/image/private/s--r5y407gx--/t_Resized Artwork/c_crop,x_10,y_10/c_fit,w_470/c_crop,g_north_west,h_626,w_470,x_0,y_0/g_north_west,u_upload:v1462829021:production:blanks:ypmyd1fntg5klzifbc7n,x_-395,y_-325/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1744337506/production/designs/74235272_0.jpg","design__url":"https://apkdraft.org/ninjatweaker/","design__canvas":"T-Shirt","design__canvas_canonical_name":"T-Shirt","design__design_title":"QUIZ4D menghadirkan layanan deposit dan withdraw tercepat hanya sekitar 3 menit dengan proses praktis, akses stabil, sistem aman, dan pelayanan responsif setiap hari.","design__price":23.0,"design__price_usd":23.0,"design__price_in_currency":23.0,"design__primary_tag":"QUIZ4D","design__owner_type":"designer","design__owner_id":6705586,"design__on_sale":false,"design__currency_iso":"USD","design__feed_sku":null,"design__designer_name":"Hey QUIZ4D","design__designer_ua_id":null,"design__designer_ga4_id":null,"design__marketing_sku":"84165122D1V17G79A7C"})
     </script>
     <script type="2db5499d861f264ffc3157cf-text/javascript">
     window.dataLayer.push({
@@ -256,8 +256,7 @@
 
                 </button>
             </div>
-            <div class="vc-header-logo"><a aria-label="Home Link" title="Home"
-                    href="hhttps://apkdraft.org/ninjatweaker/"
+            <div class="vc-header-logo"><a aria-label="Home Link" title="Home" href="https://apkdraft.org/ninjatweaker/"
                     class="link vc-header-logo__wrapper link--1 link--default">
                     <span class='link__content'>
                         <picture>
@@ -281,7 +280,7 @@
                 <div class='m-header__search m-header__search--animate jsHeadSearch inactive'
                     data-navigation--header-target='searchFieldWrapper' data-sticky-header-target='searchRow'>
                     <form id="search_form" class="jsHeadSearchForm gtmSearchHeader input-group"
-                        action="hhttps://apkdraft.org/ninjatweaker/" accept-charset="UTF-8" method="post"><input
+                        action="https://apkdraft.org/ninjatweaker/" accept-charset="UTF-8" method="post"><input
                             type="hidden" name="_method" value="patch" autocomplete="off" /><input type="hidden"
                             name="authenticity_token"
                             value="8vSeoYeGtlUiSjsTwv8MriSNw5KsyqV7SxcuKPWCkOHPWqc69ZHaEMWFV-CLUNdpe3IV90JnlZWjJ2U8fOsR1A"
@@ -469,8 +468,8 @@
 
                         </a>
                         <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track"
-                            data-link-label="Halloween" data-href="hhttps://apkdraft.org/ninjatweaker/"
-                            title="Halloween T-Shirts" href="hhttps://apkdraft.org/ninjatweaker/"
+                            data-link-label="Halloween" data-href="https://apkdraft.org/ninjatweaker/"
+                            title="Halloween T-Shirts" href="https://apkdraft.org/ninjatweaker/"
                             class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                                 <span class='link__content'>
@@ -480,8 +479,8 @@
 
                         </a><a data-rudderstack-event-type="link"
                             data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music"
-                            data-href="hhttps://apkdraft.org/ninjatweaker/" title="Music T-Shirts"
-                            href="hhttps://apkdraft.org/ninjatweaker/"
+                            data-href="https://apkdraft.org/ninjatweaker/" title="Music T-Shirts"
+                            href="https://apkdraft.org/ninjatweaker/"
                             class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                                 <span class='link__content'>
@@ -490,8 +489,8 @@
 
                         </a><a data-rudderstack-event-type="link"
                             data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports"
-                            data-href="hhttps://apkdraft.org/ninjatweaker/" title="Sport T-Shirts"
-                            href="hhttps://apkdraft.org/ninjatweaker/"
+                            data-href="https://apkdraft.org/ninjatweaker/" title="Sport T-Shirts"
+                            href="https://apkdraft.org/ninjatweaker/"
                             class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                                 <span class='link__content'>
@@ -501,8 +500,8 @@
 
                         </a><a data-rudderstack-event-type="link"
                             data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies"
-                            data-href="hhttps://apkdraft.org/ninjatweaker/" title="Movie T-Shirts"
-                            href="hhttps://apkdraft.org/ninjatweaker/"
+                            data-href="https://apkdraft.org/ninjatweaker/" title="Movie T-Shirts"
+                            href="https://apkdraft.org/ninjatweaker/"
                             class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                                 <span class='link__content'>
@@ -512,8 +511,8 @@
 
                         </a><a data-rudderstack-event-type="link"
                             data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Vintage"
-                            data-href="hhttps://apkdraft.org/ninjatweaker/" title="Vintage T-Shirts"
-                            href="hhttps://apkdraft.org/ninjatweaker/"
+                            data-href="https://apkdraft.org/ninjatweaker/" title="Vintage T-Shirts"
+                            href="https://apkdraft.org/ninjatweaker/"
                             class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                                 <span class='link__content'>
@@ -523,8 +522,8 @@
 
                         </a><a data-rudderstack-event-type="link"
                             data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Animals"
-                            data-href="hhttps://apkdraft.org/ninjatweaker/" title="Animal T-Shirts"
-                            href="hhttps://apkdraft.org/ninjatweaker/"
+                            data-href="https://apkdraft.org/ninjatweaker/" title="Animal T-Shirts"
+                            href="https://apkdraft.org/ninjatweaker/"
                             class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                                 <span class='link__content'>
@@ -536,8 +535,8 @@
 
                         </a><a data-rudderstack-event-type="link"
                             data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Animals"
-                            data-href="hhttps://apkdraft.org/ninjatweaker/" title="Animal T-Shirts"
-                            href="hhttps://apkdraft.org/ninjatweaker/"
+                            data-href="https://apkdraft.org/ninjatweaker/" title="Animal T-Shirts"
+                            href="https://apkdraft.org/ninjatweaker/"
                             class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                                 <span class='link__content'>
@@ -594,10 +593,10 @@
                 },
                 "sku": "QUIZ4D",
                 "mpn": "00771-GCR",
-                "url": "hhttps://apkdraft.org/ninjatweaker/",
+                "url": "https://apkdraft.org/ninjatweaker/",
                 "offers": {
                     "@type": "Offer",
-                    "url": "hhttps://apkdraft.org/ninjatweaker/",
+                    "url": "https://apkdraft.org/ninjatweaker/",
                     "priceCurrency": "idr",
                     "price": "0.00",
                     "priceValidUntil": "2025-12-31",
@@ -648,43 +647,43 @@
         "@type": "ListItem",
         "position": 1,
         "name": "QUIZ4D",
-        "item": "hhttps://apkdraft.org/ninjatweaker/"
+        "item": "https://apkdraft.org/ninjatweaker/"
         },
         {
         "@type": "ListItem",
         "position": 2,
         "name": "DEPOSIT WITHDRAW",
-        "item": "hhttps://apkdraft.org/ninjatweaker/"
+        "item": "https://apkdraft.org/ninjatweaker/"
         },
         {
         "@type": "ListItem",
         "position": 3,
         "name": "LAYANAN DEPOSIT",
-        "item": "hhttps://apkdraft.org/ninjatweaker/"
+        "item": "https://apkdraft.org/ninjatweaker/"
         },
         {
         "@type": "ListItem",
         "position": 4,
         "name": "QUIZ4D LINK",
-        "item": "hhttps://apkdraft.org/ninjatweaker/"
+        "item": "https://apkdraft.org/ninjatweaker/"
         },
         {
         "@type": "ListItem",
         "position": 5,
         "name": "QUIZ4D DAFTAR",
-        "item": "hhttps://apkdraft.org/ninjatweaker/"
+        "item": "https://apkdraft.org/ninjatweaker/"
         },
         {
         "@type": "ListItem",
         "position": 6,
         "name": "QUIZ4D SLOT",
-        "item": "hhttps://apkdraft.org/ninjatweaker/"
+        "item": "https://apkdraft.org/ninjatweaker/"
         },
         {
         "@type": "ListItem",
         "position": 7,
         "name": "QUIZ4D LOGIN",
-        "item": "hhttps://apkdraft.org/ninjatweaker/"
+        "item": "https://apkdraft.org/ninjatweaker/"
         }
     ]
     }
@@ -744,7 +743,7 @@
                 "@context": "https://schema.org",
                 "@type": "Organization",
                 "name": "QUIZ4D",
-                "url": "hhttps://apkdraft.org/ninjatweaker/",
+                "url": "https://apkdraft.org/ninjatweaker/",
                 "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEjJoBFTJYo4K2hFJ8n0gDn2ZMhYdDDsEwsWesxqgO2NZRqK0_W9dZlreV8L4HsaODjFJvu9tEyDcFv-8WHAAuGbjtBtKX9Ik60xDJbji-WgKTgbGzWEOJ42vGEO0_E3uqVLLPDkY6UX_km_Np4SYy4ldko4d-TyDJ5zPrM4fP1Juta-PgxONdjwOq7RE9I",
                 "sameAs": [
                     "https://www.facebook.com/QUIZ4D",
@@ -767,27 +766,27 @@
     "@graph": [
         {
         "@type": "Organization",
-        "@id": "hhttps://apkdraft.org/ninjatweaker/#org",
+        "@id": "https://apkdraft.org/ninjatweaker/#org",
         "name": "QUIZ4D",
-        "url": "hhttps://apkdraft.org/ninjatweaker/",
+        "url": "https://apkdraft.org/ninjatweaker/",
         "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEjJoBFTJYo4K2hFJ8n0gDn2ZMhYdDDsEwsWesxqgO2NZRqK0_W9dZlreV8L4HsaODjFJvu9tEyDcFv-8WHAAuGbjtBtKX9Ik60xDJbji-WgKTgbGzWEOJ42vGEO0_E3uqVLLPDkY6UX_km_Np4SYy4ldko4d-TyDJ5zPrM4fP1Juta-PgxONdjwOq7RE9I"
         },
         {
         "@type": "WebSite",
-        "@id": "hhttps://apkdraft.org/ninjatweaker/#website",
-        "url": "hhttps://apkdraft.org/ninjatweaker/",
+        "@id": "https://apkdraft.org/ninjatweaker/#website",
+        "url": "https://apkdraft.org/ninjatweaker/",
         "name": "QUIZ4D",
-        "publisher": { "@id": "hhttps://apkdraft.org/ninjatweaker/#org" },
+        "publisher": { "@id": "https://apkdraft.org/ninjatweaker/#org" },
         "inLanguage": "id-ID",
         "potentialAction": {
             "@type": "SearchAction",
-            "target": "hhttps://apkdraft.org/ninjatweaker/?s={search_term_string}",
+            "target": "https://apkdraft.org/ninjatweaker/?s={search_term_string}",
             "query-input": "required name=search_term_string"
         }
         },
         {
         "@type": "SoftwareApplication",
-        "@id": "hhttps://apkdraft.org/ninjatweaker/#app",
+        "@id": "https://apkdraft.org/ninjatweaker/#app",
         "name": "QUIZ4D",
         "applicationCategory": "GameApplication",
         "operatingSystem": "Android, iOS, Windows",
@@ -2588,8 +2587,7 @@
                         <div class='m-tray-cart__body-links'>
                             <a data-rudderstack-event-type="link"
                                 data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals"
-                                data-href="hhttps://apkdraft.org/ninjatweaker/"
-                                href="hhttps://apkdraft.org/ninjatweaker/"
+                                data-href="https://apkdraft.org/ninjatweaker/" href="https://apkdraft.org/ninjatweaker/"
                                 class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span
                                     class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg
                                         xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16"
@@ -2669,8 +2667,7 @@
 
                             </a><a data-rudderstack-event-type="link"
                                 data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny"
-                                data-href="hhttps://apkdraft.org/ninjatweaker/"
-                                href="hhttps://apkdraft.org/ninjatweaker/"
+                                data-href="https://apkdraft.org/ninjatweaker/" href="https://apkdraft.org/ninjatweaker/"
                                 class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span
                                     class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg
                                         xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16"
@@ -2686,8 +2683,7 @@
 
                             </a><a data-rudderstack-event-type="link"
                                 data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies"
-                                data-href="hhttps://apkdraft.org/ninjatweaker/"
-                                href="hhttps://apkdraft.org/ninjatweaker/"
+                                data-href="https://apkdraft.org/ninjatweaker/" href="https://apkdraft.org/ninjatweaker/"
                                 class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span
                                     class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg
                                         xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16"
@@ -2719,8 +2715,7 @@
 
                             </a><a data-rudderstack-event-type="link"
                                 data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports"
-                                data-href="hhttps://apkdraft.org/ninjatweaker/"
-                                href="hhttps://apkdraft.org/ninjatweaker/"
+                                data-href="https://apkdraft.org/ninjatweaker/" href="https://apkdraft.org/ninjatweaker/"
                                 class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span
                                     class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg
                                         xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16"
@@ -2736,8 +2731,7 @@
 
                             </a><a data-rudderstack-event-type="link"
                                 data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television"
-                                data-href="hhttps://apkdraft.org/ninjatweaker/"
-                                href="hhttps://apkdraft.org/ninjatweaker/"
+                                data-href="https://apkdraft.org/ninjatweaker/" href="https://apkdraft.org/ninjatweaker/"
                                 class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span
                                     class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg
                                         xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16"
@@ -2753,8 +2747,7 @@
 
                             </a><a data-rudderstack-event-type="link"
                                 data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage"
-                                data-href="hhttps://apkdraft.org/ninjatweaker/"
-                                href="hhttps://apkdraft.org/ninjatweaker/"
+                                data-href="https://apkdraft.org/ninjatweaker/" href="https://apkdraft.org/ninjatweaker/"
                                 class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span
                                     class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg
                                         xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16"
@@ -3272,7 +3265,7 @@
                     <div class='m-tray-shop__body'>
                         <div class='m-tray-shop__logo-container'>
                             <div class="vc-header-logo"><a aria-label="Home Link" title="Home"
-                                    href="hhttps://apkdraft.org/ninjatweaker/"
+                                    href="https://apkdraft.org/ninjatweaker/"
                                     class="link vc-header-logo__wrapper link--1 link--default">
                                     <span class='link__content'>
                                         <picture>
@@ -3460,8 +3453,8 @@
                             <div class='m-tray-shop__popular-topics-content'>
                                 <a data-rudderstack-event-type="link"
                                     data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny"
-                                    data-href="hhttps://apkdraft.org/ninjatweaker/" title="Funny"
-                                    href="hhttps://apkdraft.org/ninjatweaker/"
+                                    data-href="https://apkdraft.org/ninjatweaker/" title="Funny"
+                                    href="https://apkdraft.org/ninjatweaker/"
                                     class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                                     <span class='link__content'>
                                         funny
@@ -3470,8 +3463,8 @@
                                 </a>
                                 <a data-rudderstack-event-type="link"
                                     data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="music"
-                                    data-href="hhttps://apkdraft.org/ninjatweaker/" title="Music"
-                                    href="hhttps://apkdraft.org/ninjatweaker/"
+                                    data-href="https://apkdraft.org/ninjatweaker/" title="Music"
+                                    href="https://apkdraft.org/ninjatweaker/"
                                     class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                                     <span class='link__content'>
                                         music
@@ -3489,8 +3482,8 @@
                                 </a>
                                 <a data-rudderstack-event-type="link"
                                     data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies"
-                                    data-href="hhttps://apkdraft.org/ninjatweaker/" title="Movies"
-                                    href="hhttps://apkdraft.org/ninjatweaker/"
+                                    data-href="https://apkdraft.org/ninjatweaker/" title="Movies"
+                                    href="https://apkdraft.org/ninjatweaker/"
                                     class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                                     <span class='link__content'>
                                         movies
@@ -3499,8 +3492,8 @@
                                 </a>
                                 <a data-rudderstack-event-type="link"
                                     data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television"
-                                    data-href="hhttps://apkdraft.org/ninjatweaker/" title="Television"
-                                    href="hhttps://apkdraft.org/ninjatweaker/"
+                                    data-href="https://apkdraft.org/ninjatweaker/" title="Television"
+                                    href="https://apkdraft.org/ninjatweaker/"
                                     class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                                     <span class='link__content'>
                                         television
@@ -3509,8 +3502,8 @@
                                 </a>
                                 <a data-rudderstack-event-type="link"
                                     data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports"
-                                    data-href="hhttps://apkdraft.org/ninjatweaker/" title="Sports"
-                                    href="hhttps://apkdraft.org/ninjatweaker/"
+                                    data-href="https://apkdraft.org/ninjatweaker/" title="Sports"
+                                    href="https://apkdraft.org/ninjatweaker/"
                                     class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                                     <span class='link__content'>
                                         sports
@@ -3528,8 +3521,8 @@
                                 </a>
                                 <a data-rudderstack-event-type="link"
                                     data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage"
-                                    data-href="hhttps://apkdraft.org/ninjatweaker/" title="Vintage"
-                                    href="hhttps://apkdraft.org/ninjatweaker/"
+                                    data-href="https://apkdraft.org/ninjatweaker/" title="Vintage"
+                                    href="https://apkdraft.org/ninjatweaker/"
                                     class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                                     <span class='link__content'>
                                         vintage
@@ -3538,8 +3531,8 @@
                                 </a>
                                 <a data-rudderstack-event-type="link"
                                     data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals"
-                                    data-href="hhttps://apkdraft.org/ninjatweaker/" title="Animals"
-                                    href="hhttps://apkdraft.org/ninjatweaker/"
+                                    data-href="https://apkdraft.org/ninjatweaker/" title="Animals"
+                                    href="https://apkdraft.org/ninjatweaker/"
                                     class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                                     <span class='link__content'>
                                         animals
