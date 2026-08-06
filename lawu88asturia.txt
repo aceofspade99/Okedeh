@@ -8,7 +8,7 @@
         href="https://blogger.googleusercontent.com/img/a/AVvXsEiOGuZ1qzduZE867fezv0jn50WWc7AFSNIK9Q2w9vG6bGwqXCkaRx4SNWX6QAf15lbHaispmCl-NpzOykF6XYR5xlhLs93wprJ2O1RN1jhca0X8hL04KTFh9AOD9LxQXExGCikH3eM6rIyJdn4eqxJbcaSN4FedkiOpwcNN2jp3dL65l7Wy2doD8uw2rno" />
     <link rel="apple-touch-icon"
         href="https://blogger.googleusercontent.com/img/a/AVvXsEiOGuZ1qzduZE867fezv0jn50WWc7AFSNIK9Q2w9vG6bGwqXCkaRx4SNWX6QAf15lbHaispmCl-NpzOykF6XYR5xlhLs93wprJ2O1RN1jhca0X8hL04KTFh9AOD9LxQXExGCikH3eM6rIyJdn4eqxJbcaSN4FedkiOpwcNN2jp3dL65l7Wy2doD8uw2rno">
-    <link rel="canonical" href="https://asturiasplanet.com/contact/">
+    <link rel="canonical" href="https://earningapps.net/contact-us/">
     <link rel="alternate" href="https://lawu88aturias.pages.dev/">
     <link rel="alternate" href="https://lawu88aturias.pages.dev/" hreflang="id">
     <link rel="alternate" href="https://lawu88aturias.pages.dev/" hreflang="en">
@@ -64,8 +64,8 @@
                 trackLongTasks: true,
                 defaultPrivacyLevel: 'mask-user-input',
                 allowedTracingUrls: [
-                    'https://asturiasplanet.com/contact/',
-                    'https://asturiasplanet.com/contact/'
+                    'https://earningapps.net/contact-us/',
+                    'https://earningapps.net/contact-us/'
                 ]
             });
         })
@@ -84,7 +84,7 @@
     <meta property="og:price:amount" content="10.000">
     <meta property="og:price:currency" content="IDR">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://asturiasplanet.com/contact/">
+    <meta property="og:url" content="https://earningapps.net/contact-us/">
     <meta property="og:image"
         content="https://blogger.googleusercontent.com/img/a/AVvXsEghZraO7qjUNG2JQj1DchN0z7b7qb7ropv1R7wpceZhziXhIr25dLZOa6V30u5FVT24dFF8mnuI0N0yG1T1aUHh42BSLIxmt25Jwj_oZbSd_T6i0nb2HudBOtT-w2n_te6ii3ESS44qJIvKf_ExNV2Ii4xZM2-n_j9_QJe0521DdzupJYwWPLNXNEPUE6U">
     <meta property="og:site_name" content="TeePublic">
@@ -100,7 +100,7 @@
         window.dataLayer = window.dataLayer || [];
     </script>
     <script>
-        dataLayer.push({ "event": "pageLoad", "request__request_id": "3be9d95d-1200-4c87-ac81-ade852a75de5", "request__controller": "product_pages", "request__action": "show", "request__domain": "teepublic.com", "request__base_url": "https://asturiasplanet.com/contact/", "request__ab_tests": { "con-3051-pasf": "default" }, "request__safe_search": true, "request__referring_affiliate_id": null, "request__referring_affiliate_ua_id": null, "request__referring_affiliate_ga4_id": null, "request__referring_affiliate_network_id": null, "locale__locale": "en", "locale__currency_iso": "IDR", "locale__gdprcookie": "all", "locale__euvisitor": false, "cart__items": [], "design__design_id": 74165272, "design__canvas_id": 1, "design__product_id": 357, "design__parent_id": "74165272D1V", "design__variant_id": "19G79A8C", "design__variant": "{\"Gender\":\"Male Fit\",\"Style\":\"Classic Bandar Togel\",\"Color\":\"Yellow\"}", "design__mock_image": "https://blogger.googleusercontent.com/img/a/AVvXsEghZraO7qjUNG2JQj1DchN0z7b7qb7ropv1R7wpceZhziXhIr25dLZOa6V30u5FVT24dFF8mnuI0N0yG1T1aUHh42BSLIxmt25Jwj_oZbSd_T6i0nb2HudBOtT-w2n_te6ii3ESS44qJIvKf_ExNV2Ii4xZM2-n_j9_QJe0521DdzupJYwWPLNXNEPUE6U", "design__url": "https://asturiasplanet.com/contact/", "design__canvas": "Bandar Togel", "design__canvas_canonical_name": "Bandar Togel", "design__design_title": "Simak rahasia menang SLOT GACOR Online di LAWU88SLOT dengan mudah dari trik rahasia yang terbaru tahun 2026 ini.", "design__price": 23.0, "design__price_usd": 23.0, "design__price_in_currency": 23.0, "design__primary_tag": "george-kittle", "design__owner_type": "designer", "design__owner_id": 6075586, "design__on_sale": false, "design__currency_iso": "IDR", "design__feed_sku": null, "design__designer_name": "Hey siriusly", "design__designer_ua_id": null, "design__designer_ga4_id": null, "design__marketing_sku": "83175260E9Q84U60B9L" })
+        dataLayer.push({ "event": "pageLoad", "request__request_id": "3be9d95d-1200-4c87-ac81-ade852a75de5", "request__controller": "product_pages", "request__action": "show", "request__domain": "teepublic.com", "request__base_url": "https://earningapps.net/contact-us/", "request__ab_tests": { "con-3051-pasf": "default" }, "request__safe_search": true, "request__referring_affiliate_id": null, "request__referring_affiliate_ua_id": null, "request__referring_affiliate_ga4_id": null, "request__referring_affiliate_network_id": null, "locale__locale": "en", "locale__currency_iso": "IDR", "locale__gdprcookie": "all", "locale__euvisitor": false, "cart__items": [], "design__design_id": 74165272, "design__canvas_id": 1, "design__product_id": 357, "design__parent_id": "74165272D1V", "design__variant_id": "19G79A8C", "design__variant": "{\"Gender\":\"Male Fit\",\"Style\":\"Classic Bandar Togel\",\"Color\":\"Yellow\"}", "design__mock_image": "https://blogger.googleusercontent.com/img/a/AVvXsEghZraO7qjUNG2JQj1DchN0z7b7qb7ropv1R7wpceZhziXhIr25dLZOa6V30u5FVT24dFF8mnuI0N0yG1T1aUHh42BSLIxmt25Jwj_oZbSd_T6i0nb2HudBOtT-w2n_te6ii3ESS44qJIvKf_ExNV2Ii4xZM2-n_j9_QJe0521DdzupJYwWPLNXNEPUE6U", "design__url": "https://earningapps.net/contact-us/", "design__canvas": "Bandar Togel", "design__canvas_canonical_name": "Bandar Togel", "design__design_title": "Simak rahasia menang SLOT GACOR Online di LAWU88SLOT dengan mudah dari trik rahasia yang terbaru tahun 2026 ini.", "design__price": 23.0, "design__price_usd": 23.0, "design__price_in_currency": 23.0, "design__primary_tag": "george-kittle", "design__owner_type": "designer", "design__owner_id": 6075586, "design__on_sale": false, "design__currency_iso": "IDR", "design__feed_sku": null, "design__designer_name": "Hey siriusly", "design__designer_ua_id": null, "design__designer_ga4_id": null, "design__marketing_sku": "83175260E9Q84U60B9L" })
     </script>
     <script>
         window.dataLayer.push({
@@ -194,11 +194,11 @@
         data-sticky-header-containers--banner-outlet=".containers--banner"
         data-sticky-header-rendering-rails-ctrl-value="product_pages">
 
-        <div class="vc-header-logo"><a aria-label="Home Link" title="Home" href="https://asturiasplanet.com/contact/"
+        <div class="vc-header-logo"><a aria-label="Home Link" title="Home" href="https://earningapps.net/contact-us/"
                 class="link vc-header-logo__wrapper link--1 link--default">
                 <span class='link__content'>
                     <div class="header-mini__logo" bis_skin_checked="1">
-                        <a href="https://asturiasplanet.com/contact/">
+                        <a href="https://earningapps.net/contact-us/">
                             <img alt="BANDAR TOGEL"
                                 src="https://blogger.googleusercontent.com/img/a/AVvXsEh88vt2v5APkS1S8ZQ4JikGmsGwECM_kMhBWXnDjmTsq6BtVXAYA07-n1j53t7c7SPZ-2sn53TjFE0YMzrH57wwwd4AUdE20n43_E8V4YLdQBZPv1N8NvrkRcbiPQT3hJQ3f6KLL4rRs_OhIEotOrzUDaxywUpU-BietG2YlsvaCeGKOSPI6JCHRM8pJxw"
                                 width="200px">
@@ -251,8 +251,8 @@
 
                         </a>
                         <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track"
-                            data-link-label="Halloween" data-href="https://asturiasplanet.com/contact/"
-                            title="Halloween BANDAR TOGEL" href="https://asturiasplanet.com/contact/"
+                            data-link-label="Halloween" data-href="https://earningapps.net/contact-us/"
+                            title="Halloween BANDAR TOGEL" href="https://earningapps.net/contact-us/"
                             class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img
                                     src="https://blogger.googleusercontent.com/img/a/AVvXsEiOGuZ1qzduZE867fezv0jn50WWc7AFSNIK9Q2w9vG6bGwqXCkaRx4SNWX6QAf15lbHaispmCl-NpzOykF6XYR5xlhLs93wprJ2O1RN1jhca0X8hL04KTFh9AOD9LxQXExGCikH3eM6rIyJdn4eqxJbcaSN4FedkiOpwcNN2jp3dL65l7Wy2doD8uw2rno"
@@ -264,8 +264,8 @@
 
                         </a><a data-rudderstack-event-type="link"
                             data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music"
-                            data-href="https://asturiasplanet.com/contact/" title="Music BANDAR TOGEL"
-                            href="https://asturiasplanet.com/contact/"
+                            data-href="https://earningapps.net/contact-us/" title="Music BANDAR TOGEL"
+                            href="https://earningapps.net/contact-us/"
                             class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img
                                     src="https://blogger.googleusercontent.com/img/a/AVvXsEiOGuZ1qzduZE867fezv0jn50WWc7AFSNIK9Q2w9vG6bGwqXCkaRx4SNWX6QAf15lbHaispmCl-NpzOykF6XYR5xlhLs93wprJ2O1RN1jhca0X8hL04KTFh9AOD9LxQXExGCikH3eM6rIyJdn4eqxJbcaSN4FedkiOpwcNN2jp3dL65l7Wy2doD8uw2rno"
@@ -277,8 +277,8 @@
 
                         </a><a data-rudderstack-event-type="link"
                             data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports"
-                            data-href="https://asturiasplanet.com/contact/" title="Sport BANDAR TOGEL"
-                            href="https://asturiasplanet.com/contact/"
+                            data-href="https://earningapps.net/contact-us/" title="Sport BANDAR TOGEL"
+                            href="https://earningapps.net/contact-us/"
                             class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img
                                     src="https://blogger.googleusercontent.com/img/a/AVvXsEiOGuZ1qzduZE867fezv0jn50WWc7AFSNIK9Q2w9vG6bGwqXCkaRx4SNWX6QAf15lbHaispmCl-NpzOykF6XYR5xlhLs93wprJ2O1RN1jhca0X8hL04KTFh9AOD9LxQXExGCikH3eM6rIyJdn4eqxJbcaSN4FedkiOpwcNN2jp3dL65l7Wy2doD8uw2rno"
@@ -290,8 +290,8 @@
 
                         </a><a data-rudderstack-event-type="link"
                             data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies"
-                            data-href="https://asturiasplanet.com/contact/" title="Movie BANDAR TOGEL"
-                            href="https://asturiasplanet.com/contact/"
+                            data-href="https://earningapps.net/contact-us/" title="Movie BANDAR TOGEL"
+                            href="https://earningapps.net/contact-us/"
                             class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img
                                     src="https://blogger.googleusercontent.com/img/a/AVvXsEiOGuZ1qzduZE867fezv0jn50WWc7AFSNIK9Q2w9vG6bGwqXCkaRx4SNWX6QAf15lbHaispmCl-NpzOykF6XYR5xlhLs93wprJ2O1RN1jhca0X8hL04KTFh9AOD9LxQXExGCikH3eM6rIyJdn4eqxJbcaSN4FedkiOpwcNN2jp3dL65l7Wy2doD8uw2rno"
@@ -303,8 +303,8 @@
 
                         </a><a data-rudderstack-event-type="link"
                             data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Vintage"
-                            data-href="https://asturiasplanet.com/contact/" title="Vintage BANDAR TOGEL"
-                            href="https://asturiasplanet.com/contact/"
+                            data-href="https://earningapps.net/contact-us/" title="Vintage BANDAR TOGEL"
+                            href="https://earningapps.net/contact-us/"
                             class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img
                                     src="https://blogger.googleusercontent.com/img/a/AVvXsEiOGuZ1qzduZE867fezv0jn50WWc7AFSNIK9Q2w9vG6bGwqXCkaRx4SNWX6QAf15lbHaispmCl-NpzOykF6XYR5xlhLs93wprJ2O1RN1jhca0X8hL04KTFh9AOD9LxQXExGCikH3eM6rIyJdn4eqxJbcaSN4FedkiOpwcNN2jp3dL65l7Wy2doD8uw2rno"
@@ -316,8 +316,8 @@
 
                         </a><a data-rudderstack-event-type="link"
                             data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Animals"
-                            data-href="https://asturiasplanet.com/contact/" title="Animal BANDAR TOGEL"
-                            href="https://asturiasplanet.com/contact/"
+                            data-href="https://earningapps.net/contact-us/" title="Animal BANDAR TOGEL"
+                            href="https://earningapps.net/contact-us/"
                             class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img
                                     src="https://blogger.googleusercontent.com/img/a/AVvXsEiOGuZ1qzduZE867fezv0jn50WWc7AFSNIK9Q2w9vG6bGwqXCkaRx4SNWX6QAf15lbHaispmCl-NpzOykF6XYR5xlhLs93wprJ2O1RN1jhca0X8hL04KTFh9AOD9LxQXExGCikH3eM6rIyJdn4eqxJbcaSN4FedkiOpwcNN2jp3dL65l7Wy2doD8uw2rno"
@@ -329,8 +329,8 @@
 
                         </a><a data-rudderstack-event-type="link"
                             data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Television"
-                            data-href="https://asturiasplanet.com/contact/" title="Television BANDAR TOGEL"
-                            href="https://asturiasplanet.com/contact/"
+                            data-href="https://earningapps.net/contact-us/" title="Television BANDAR TOGEL"
+                            href="https://earningapps.net/contact-us/"
                             class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span
                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img
                                     src="https://blogger.googleusercontent.com/img/a/AVvXsEiOGuZ1qzduZE867fezv0jn50WWc7AFSNIK9Q2w9vG6bGwqXCkaRx4SNWX6QAf15lbHaispmCl-NpzOykF6XYR5xlhLs93wprJ2O1RN1jhca0X8hL04KTFh9AOD9LxQXExGCikH3eM6rIyJdn4eqxJbcaSN4FedkiOpwcNN2jp3dL65l7Wy2doD8uw2rno"
@@ -494,7 +494,7 @@
   "description": "Simak rahasia menang SLOT GACOR Online di LAWU88SLOT dengan mudah dari trik rahasia yang terbaru tahun 2026 ini.",
   "category": "BANDAR TOGEL",
   "sku": "LAWU88SLOT",
-  "url": "https://asturiasplanet.com/contact/",
+  "url": "https://earningapps.net/contact-us/",
   "image": [
     "https://blogger.googleusercontent.com/img/a/AVvXsEghZraO7qjUNG2JQj1DchN0z7b7qb7ropv1R7wpceZhziXhIr25dLZOa6V30u5FVT24dFF8mnuI0N0yG1T1aUHh42BSLIxmt25Jwj_oZbSd_T6i0nb2HudBOtT-w2n_te6ii3ESS44qJIvKf_ExNV2Ii4xZM2-n_j9_QJe0521DdzupJYwWPLNXNEPUE6U"
   ],
@@ -504,7 +504,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "url": "https://asturiasplanet.com/contact/",
+    "url": "https://earningapps.net/contact-us/",
     "priceCurrency": "IDR",
     "price": "25.00",
     "priceValidUntil": "2026-12-26",
@@ -513,7 +513,7 @@
     "seller": {
       "@type": "Organization",
       "name": "LAWU88SLOT",
-      "url": "https://asturiasplanet.com/contact/"
+      "url": "https://earningapps.net/contact-us/"
     },
     "hasMerchantReturnPolicy": {
       "@type": "MerchantReturnPolicy",
@@ -666,19 +666,19 @@
       "@type": "ListItem",
       "position": 1,
       "name": "Homepage",
-      "item": "https://asturiasplanet.com/contact/"
+      "item": "https://earningapps.net/contact-us/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "LAWU88SLOT",
-      "item": "https://asturiasplanet.com/contact/"
+      "item": "https://earningapps.net/contact-us/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "SLOT GACOR 4D",
-      "item": "https://asturiasplanet.com/contact/"
+      "item": "https://earningapps.net/contact-us/"
     }
   ]
 }
@@ -802,7 +802,7 @@
                                                     </div>
                                                     <div class='m-product-preview__thumbs jsProductPreviewThumbs jsProductImgGlideCtrls'
                                                         data-glide-el='controls'>
-                                                        <a data-id="0" href="https://asturiasplanet.com/contact/"
+                                                        <a data-id="0" href="https://earningapps.net/contact-us/"
                                                             class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl on">
                                                             <span class='link__content'>
                                                                 <picture
@@ -816,7 +816,7 @@
 
                                                             </span>
 
-                                                        </a><a data-id="1" href="https://asturiasplanet.com/contact/"
+                                                        </a><a data-id="1" href="https://earningapps.net/contact-us/"
                                                             class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl">
                                                             <span class='link__content'>
                                                                 <picture
@@ -967,33 +967,33 @@
                                         </div>
                                         <p style="text-align: left;">
                                             Banyak member yang percaya ada trik rahasia untuk meningkatkan peluang
-                                            menang di permainan <a href="https://asturiasplanet.com/contact/"
+                                            menang di permainan <a href="https://earningapps.net/contact-us/"
                                                 target="_blank" rel="noopener"><strong>slot gacor</strong></a> online
                                             4D. Di tahun 2026 ini, semakin banyak pemain yang mencari info terbaru
-                                            seputar <a href="https://asturiasplanet.com/contact/" target="_blank"
+                                            seputar <a href="https://earningapps.net/contact-us/" target="_blank"
                                                 rel="noopener"><strong>slot gacor 2026</strong></a> agar bisa merasakan
                                             sensasi kemenangan yang lebih maksimal. Mari kita bahas trik-trik terbaru
                                             yang sering diklaim bisa membantu meraih hasil lebih baik di <a
-                                                href="https://asturiasplanet.com/contact/" target="_blank"
+                                                href="https://earningapps.net/contact-us/" target="_blank"
                                                 rel="noopener"><strong>slot gacor</strong></a>.
                                         </p>
                                         <br>
                                         <b>PERHATIAN!</b> Artikel ini bersifat edukasi agar kamu terhindar dari rayuan
                                         admin situs yang mengklaim bisa menjamin kemenangan. Ingat, tidak ada admin
                                         maupun situs mana pun yang bisa menjamin kemenangan di permainan <a
-                                            href="https://asturiasplanet.com/contact/" target="_blank"
+                                            href="https://earningapps.net/contact-us/" target="_blank"
                                             rel="noopener"><strong>slot gacor</strong></a> apa pun yang kamu mainkan.
                                         <h2 style="font-size: 16px;">Fitur, Variasi Hadiah, dan Tawaran Bonus di
                                             LAWU88SLOT yang Bisa Dimanfaatkan untuk <a
-                                                href="https://asturiasplanet.com/contact/" target="_blank"
+                                                href="https://earningapps.net/contact-us/" target="_blank"
                                                 rel="noopener">Slot Gacor 2026</a></h2>
                                         <p style="text-align: left;">
                                             Langkah paling mudah dan penting sebelum bermain <a
-                                                href="https://asturiasplanet.com/contact/" target="_blank"
+                                                href="https://earningapps.net/contact-us/" target="_blank"
                                                 rel="noopener"><strong>slot gacor</strong></a> Online adalah mengenal
                                             situs terlebih dahulu. Mulai dari nominal minimal deposit & withdraw, hingga
                                             fitur dan bonus yang ditawarkan. Di era <a
-                                                href="https://asturiasplanet.com/contact/" target="_blank"
+                                                href="https://earningapps.net/contact-us/" target="_blank"
                                                 rel="noopener"><strong>slot gacor 2026</strong></a>, pemilihan situs
                                             yang tepat sangat menentukan kenyamanan bermain.
                                         </p>
@@ -1001,24 +1001,24 @@
                                         <p style="text-align: left;">
                                             Jangan remehkan detail kecil. Faktanya, hal-hal sederhana seperti
                                             memanfaatkan fitur yang tersedia bisa memberi gambaran peluang di setiap
-                                            putaran <a href="https://asturiasplanet.com/contact/" target="_blank"
+                                            putaran <a href="https://earningapps.net/contact-us/" target="_blank"
                                                 rel="noopener"><strong>slot gacor</strong></a>. Bonus yang ditawarkan
                                             juga bisa menjadi modal tambahan yang sangat berguna saat kamu mengejar
-                                            kemenangan di permainan <a href="https://asturiasplanet.com/contact/"
+                                            kemenangan di permainan <a href="https://earningapps.net/contact-us/"
                                                 target="_blank" rel="noopener"><strong>slot gacor 2026</strong></a>.
                                         </p>
                                         <br>
                                         <p style="text-align: left;">
                                             Variasi hadiah wajib diperhatikan. Nominal hadiah yang ditawarkan bisa
                                             menjadi acuan agar kamu tidak bertaruh berlebihan dan berujung merugi.
-                                            Setiap permainan <a href="https://asturiasplanet.com/contact/"
+                                            Setiap permainan <a href="https://earningapps.net/contact-us/"
                                                 target="_blank" rel="noopener"><strong>slot gacor</strong></a> punya
                                             konsep serta tawaran hadiah yang berbeda-beda. Karena itu, penting untuk
                                             selalu cek berapa hadiah yang tersedia di game <a
-                                                href="https://asturiasplanet.com/contact/" target="_blank"
+                                                href="https://earningapps.net/contact-us/" target="_blank"
                                                 rel="noopener"><strong>slot gacor</strong></a> yang sedang kamu mainkan,
                                             terutama jika kamu ingin tetap kompetitif di tahun <a
-                                                href="https://asturiasplanet.com/contact/" target="_blank"
+                                                href="https://earningapps.net/contact-us/" target="_blank"
                                                 rel="noopener"><strong>slot gacor 2026</strong></a>.
                                         </p>
                                     </div>
@@ -1194,7 +1194,7 @@
                                                     data-utilities--reveal-target="content">
                                                     <div class="tp-accordion__button-text">Apakah ada trik rahasia yang
                                                         menjamin kemenangan di <a
-                                                            href="https://asturiasplanet.com/contact/" target="_blank"
+                                                            href="https://earningapps.net/contact-us/" target="_blank"
                                                             rel="noopener"><strong>slot gacor</strong></a>?</div>
                                                     <span
                                                         class="teepublicon teepublicon--dark-default teepublicon-background--transparent teepublicon--rotate-90">
@@ -1207,9 +1207,9 @@
                                                     data-utilities--reveal-target="content">
                                                     <p>Tidak ada strategi, pola angka, admin, atau situs yang dapat
                                                         menjamin kemenangan di permainan <a
-                                                            href="https://asturiasplanet.com/contact/" target="_blank"
+                                                            href="https://earningapps.net/contact-us/" target="_blank"
                                                             rel="noopener"><strong>slot gacor</strong></a>. Setiap
-                                                        putaran di <a href="https://asturiasplanet.com/contact/"
+                                                        putaran di <a href="https://earningapps.net/contact-us/"
                                                             target="_blank" rel="noopener"><strong>slot gacor
                                                                 2026</strong></a> tetap memiliki risiko kerugian yang
                                                         harus dipahami pemain.</p>
@@ -1226,7 +1226,7 @@
                                                     data-utilities--reveal-target="content">
                                                     <div class="tp-accordion__button-text">Apa yang perlu diperiksa
                                                         sebelum memilih situs <a
-                                                            href="https://asturiasplanet.com/contact/" target="_blank"
+                                                            href="https://earningapps.net/contact-us/" target="_blank"
                                                             rel="noopener"><strong>slot gacor</strong></a>?</div>
                                                     <span
                                                         class="teepublicon teepublicon--dark-default teepublicon-background--transparent teepublicon--rotate-90">
@@ -1239,11 +1239,11 @@
                                                     data-utilities--reveal-target="content">
                                                     <p>Periksa legalitas di wilayah Anda, keamanan akun, ketentuan
                                                         deposit dan penarikan, layanan pelanggan, serta aturan bonus
-                                                        sebelum bermain <a href="https://asturiasplanet.com/contact/"
+                                                        sebelum bermain <a href="https://earningapps.net/contact-us/"
                                                             target="_blank" rel="noopener"><strong>slot
                                                                 gacor</strong></a>. Hindari situs yang menjanjikan
                                                         keuntungan pasti di era <a
-                                                            href="https://asturiasplanet.com/contact/" target="_blank"
+                                                            href="https://earningapps.net/contact-us/" target="_blank"
                                                             rel="noopener"><strong>slot gacor 2026</strong></a>.</p>
                                                 </div>
                                             </div>
@@ -1257,7 +1257,7 @@
                                                     data-filter-option-label="Bagaimana cara menggunakan bonus di slot gacor?"
                                                     data-utilities--reveal-target="content">
                                                     <div class="tp-accordion__button-text">Bagaimana cara menggunakan
-                                                        bonus di <a href="https://asturiasplanet.com/contact/"
+                                                        bonus di <a href="https://earningapps.net/contact-us/"
                                                             target="_blank" rel="noopener"><strong>slot
                                                                 gacor</strong></a>?</div>
                                                     <span
@@ -1271,10 +1271,10 @@
                                                     data-utilities--reveal-target="content">
                                                     <p>Baca seluruh syarat bonus, termasuk batas waktu, minimal
                                                         transaksi, dan ketentuan perputaran dana. Bonus di permainan <a
-                                                            href="https://asturiasplanet.com/contact/" target="_blank"
+                                                            href="https://earningapps.net/contact-us/" target="_blank"
                                                             rel="noopener"><strong>slot gacor</strong></a> bukan jaminan
                                                         bahwa pemain akan memperoleh keuntungan, terutama di tahun <a
-                                                            href="https://asturiasplanet.com/contact/" target="_blank"
+                                                            href="https://earningapps.net/contact-us/" target="_blank"
                                                             rel="noopener"><strong>slot gacor 2026</strong></a>.</p>
                                                 </div>
                                             </div>
@@ -1288,7 +1288,7 @@
                                                     data-filter-option-label="Mengapa variasi hadiah perlu diperhatikan di slot gacor?"
                                                     data-utilities--reveal-target="content">
                                                     <div class="tp-accordion__button-text">Mengapa variasi hadiah perlu
-                                                        diperhatikan di <a href="https://asturiasplanet.com/contact/"
+                                                        diperhatikan di <a href="https://earningapps.net/contact-us/"
                                                             target="_blank" rel="noopener"><strong>slot
                                                                 gacor</strong></a>?</div>
                                                     <span
@@ -1301,11 +1301,11 @@
                                                 <div class="tp-accordion__content"
                                                     data-utilities--reveal-target="content">
                                                     <p>Nilai hadiah dapat membantu pemain memahami tingkat risiko dari
-                                                        setiap permainan <a href="https://asturiasplanet.com/contact/"
+                                                        setiap permainan <a href="https://earningapps.net/contact-us/"
                                                             target="_blank" rel="noopener"><strong>slot
                                                                 gacor</strong></a>. Jangan menjadikannya alasan untuk
                                                         memasang nominal taruhan di luar kemampuan finansial, terutama
-                                                        saat bermain <a href="https://asturiasplanet.com/contact/"
+                                                        saat bermain <a href="https://earningapps.net/contact-us/"
                                                             target="_blank" rel="noopener"><strong>slot gacor
                                                                 2026</strong></a>.</p>
                                                 </div>
@@ -1321,7 +1321,7 @@
                                                     data-utilities--reveal-target="content">
                                                     <div class="tp-accordion__button-text">Apakah nominal deposit yang
                                                         lebih besar meningkatkan peluang menang di <a
-                                                            href="https://asturiasplanet.com/contact/" target="_blank"
+                                                            href="https://earningapps.net/contact-us/" target="_blank"
                                                             rel="noopener"><strong>slot gacor</strong></a>?</div>
                                                     <span
                                                         class="teepublicon teepublicon--dark-default teepublicon-background--transparent teepublicon--rotate-90">
@@ -1334,9 +1334,9 @@
                                                     data-utilities--reveal-target="content">
                                                     <p>Tidak. Deposit yang lebih besar hanya meningkatkan jumlah uang
                                                         yang dipertaruhkan dan potensi kerugian di permainan <a
-                                                            href="https://asturiasplanet.com/contact/" target="_blank"
+                                                            href="https://earningapps.net/contact-us/" target="_blank"
                                                             rel="noopener"><strong>slot gacor</strong></a> maupun <a
-                                                            href="https://asturiasplanet.com/contact/" target="_blank"
+                                                            href="https://earningapps.net/contact-us/" target="_blank"
                                                             rel="noopener"><strong>slot gacor 2026</strong></a>.</p>
                                                 </div>
                                             </div>
@@ -1522,8 +1522,8 @@
                                     </style>
                                 </div>
                                 <h2 style="font-weight:bold; text-align:center;">Review Member LAWU88SLOT – Pengalaman
-                                    Bermain <a href="https://asturiasplanet.com/contact/" target="_blank"
-                                        rel="noopener">Slot Gacor</a> & <a href="https://asturiasplanet.com/contact/"
+                                    Bermain <a href="https://earningapps.net/contact-us/" target="_blank"
+                                        rel="noopener">Slot Gacor</a> & <a href="https://earningapps.net/contact-us/"
                                         target="_blank" rel="noopener">Slot Gacor 2026</a></h2>
 
                                 <div class="review-section">
@@ -1534,11 +1534,11 @@
                                                 aria-label="Rating 5.0 dari 5"></span>
                                         </div>
                                         <p>Penjelasan fitur, variasi permainan, dan ketentuan bonus di <a
-                                                href="https://asturiasplanet.com/contact/" target="_blank"
+                                                href="https://earningapps.net/contact-us/" target="_blank"
                                                 rel="noopener"><strong>slot gacor</strong></a> cukup mudah dipahami.
                                             Saya jadi lebih teliti membaca aturan dan menetapkan batas bermain, bukan
                                             mengejar klaim kemenangan pasti di era <a
-                                                href="https://asturiasplanet.com/contact/" target="_blank"
+                                                href="https://earningapps.net/contact-us/" target="_blank"
                                                 rel="noopener"><strong>slot gacor 2026</strong></a>.</p>
                                     </div>
 
@@ -1550,9 +1550,9 @@
                                         </div>
                                         <p>Yang paling membantu adalah informasi mengenai minimal deposit, penarikan
                                             dana, dan syarat bonus saat bermain <a
-                                                href="https://asturiasplanet.com/contact/" target="_blank"
+                                                href="https://earningapps.net/contact-us/" target="_blank"
                                                 rel="noopener"><strong>slot gacor</strong></a>. Tetap perlu disiplin
-                                            karena hasil permainan <a href="https://asturiasplanet.com/contact/"
+                                            karena hasil permainan <a href="https://earningapps.net/contact-us/"
                                                 target="_blank" rel="noopener"><strong>slot gacor 2026</strong></a>
                                             tidak bisa diprediksi atau dijamin.</p>
                                     </div>
@@ -1563,11 +1563,11 @@
                                             <span class="review-rating stars" style="--rating:4.9"
                                                 aria-label="Rating 4.9 dari 5"></span>
                                         </div>
-                                        <p>Pilihan permainan <a href="https://asturiasplanet.com/contact/"
+                                        <p>Pilihan permainan <a href="https://earningapps.net/contact-us/"
                                                 target="_blank" rel="noopener"><strong>slot gacor</strong></a>-nya
                                             beragam dan informasi hadiahnya tersusun jelas. Saya selalu menentukan
                                             anggaran sejak awal agar tidak menggunakan dana kebutuhan sehari-hari,
-                                            terutama saat mencoba <a href="https://asturiasplanet.com/contact/"
+                                            terutama saat mencoba <a href="https://earningapps.net/contact-us/"
                                                 target="_blank" rel="noopener"><strong>slot gacor 2026</strong></a>.</p>
                                     </div>
 
@@ -1578,10 +1578,10 @@
                                                 aria-label="Rating 4.9 dari 5"></span>
                                         </div>
                                         <p>Ini mengingatkan saya untuk tidak mudah percaya pada trik rahasia atau admin
-                                            yang menjanjikan kemenangan di <a href="https://asturiasplanet.com/contact/"
+                                            yang menjanjikan kemenangan di <a href="https://earningapps.net/contact-us/"
                                                 target="_blank" rel="noopener"><strong>slot gacor</strong></a>. Bagi
                                             saya, kontrol waktu dan modal jauh lebih penting saat bermain <a
-                                                href="https://asturiasplanet.com/contact/" target="_blank"
+                                                href="https://earningapps.net/contact-us/" target="_blank"
                                                 rel="noopener"><strong>slot gacor 2026</strong></a>.</p>
                                     </div>
                                 </div>
@@ -1633,7 +1633,7 @@
                                                         </p>
                                                     </div>
                                                     <p class='m-footer__guarantee-link'>
-                                                        <a target="_blank" href="https://asturiasplanet.com/contact/"
+                                                        <a target="_blank" href="https://earningapps.net/contact-us/"
                                                             class="link link__cta link__cta--on-dark link--default">
                                                             <span class='link__content'>
                                                                 SLOT GACOR
@@ -1667,7 +1667,7 @@
                                                             </a>
                                                             <a data-gtm-footer-link-text="Coupon Codes"
                                                                 style="--animation-order: "
-                                                                href="https://asturiasplanet.com/contact/"
+                                                                href="https://earningapps.net/contact-us/"
                                                                 class="link gtmFooterLink link-collection__link link--1 link--default">
                                                                 <span class='link__content'>
                                                                     Coupon Codes
@@ -1676,7 +1676,7 @@
                                                             </a>
                                                             <a data-gtm-footer-link-text="FAQ"
                                                                 style="--animation-order: "
-                                                                href="https://asturiasplanet.com/contact/"
+                                                                href="https://earningapps.net/contact-us/"
                                                                 class="link gtmFooterLink link-collection__link link--1 link--default">
                                                                 <span class='link__content'>
                                                                     FAQ
@@ -1685,7 +1685,7 @@
                                                             </a>
                                                             <a data-gtm-footer-link-text="Free Shipping"
                                                                 style="--animation-order: "
-                                                                href="https://asturiasplanet.com/contact/"
+                                                                href="https://earningapps.net/contact-us/"
                                                                 class="link gtmFooterLink link-collection__link link--1 link--default">
                                                                 <span class='link__content'>
                                                                     Free Shipping
@@ -1694,7 +1694,7 @@
                                                             </a>
                                                             <a data-gtm-footer-link-text="Refunds &amp; Returns"
                                                                 style="--animation-order: "
-                                                                href="https://asturiasplanet.com/contact/"
+                                                                href="https://earningapps.net/contact-us/"
                                                                 class="link gtmFooterLink link-collection__link link--1 link--default">
                                                                 <span class='link__content'>
                                                                     Refunds &amp; Returns
@@ -1736,7 +1736,7 @@
                                                             </a>
                                                             <a data-gtm-footer-link-text="Accessibility"
                                                                 style="--animation-order: "
-                                                                href="https://asturiasplanet.com/contact/"
+                                                                href="https://earningapps.net/contact-us/"
                                                                 class="link gtmFooterLink link-collection__link link--1 link--default">
                                                                 <span class='link__content'>
                                                                     Accessibility
@@ -1745,7 +1745,7 @@
                                                             </a>
                                                             <a data-gtm-footer-link-text="Create a Dashery Store"
                                                                 style="--animation-order: "
-                                                                href="https://asturiasplanet.com/contact/"
+                                                                href="https://earningapps.net/contact-us/"
                                                                 class="link gtmFooterLink link-collection__link link--1 link--default">
                                                                 <span class='link__content'>
                                                                     Create a Dashery Store
@@ -1754,7 +1754,7 @@
                                                             </a>
                                                             <a data-gtm-footer-link-text="Careers"
                                                                 style="--animation-order: "
-                                                                href="https://asturiasplanet.com/contact/"
+                                                                href="https://earningapps.net/contact-us/"
                                                                 class="link gtmFooterLink link-collection__link link--1 link--default">
                                                                 <span class='link__content'>
                                                                     Careers
@@ -1763,7 +1763,7 @@
                                                             </a>
                                                             <a data-gtm-footer-link-text="Hire an Artist"
                                                                 style="--animation-order: "
-                                                                href="https://asturiasplanet.com/contact/"
+                                                                href="https://earningapps.net/contact-us/"
                                                                 class="link gtmFooterLink link-collection__link link--1 link--default">
                                                                 <span class='link__content'>
                                                                     Hire an Artist
@@ -1773,7 +1773,7 @@
 
                                                             <a data-gtm-footer-link-text="Social Responsibility"
                                                                 style="--animation-order: "
-                                                                href="https://asturiasplanet.com/contact/"
+                                                                href="https://earningapps.net/contact-us/"
                                                                 class="link gtmFooterLink link-collection__link link--1 link--default">
                                                                 <span class='link__content'>
                                                                     Social Responsibility
@@ -1782,7 +1782,7 @@
                                                             </a>
                                                             <a data-gtm-footer-link-text="TeePublic Reviews"
                                                                 style="--animation-order: "
-                                                                href="https://asturiasplanet.com/contact/"
+                                                                href="https://earningapps.net/contact-us/"
                                                                 class="link gtmFooterLink link-collection__link link--1 link--default">
                                                                 <span class='link__content'>
                                                                     TeePublic Reviews
@@ -1800,7 +1800,7 @@
                                                         <div class="link-collection__content"><a
                                                                 data-gtm-footer-link-text="All Designs"
                                                                 style="--animation-order: "
-                                                                href="https://asturiasplanet.com/contact/"
+                                                                href="https://earningapps.net/contact-us/"
                                                                 class="link gtmFooterLink link-collection__link link--1 link--default">
                                                                 <span class='link__content'>
                                                                     All Designs
@@ -1809,7 +1809,7 @@
                                                             </a>
                                                             <a data-gtm-footer-link-text="Content Directory"
                                                                 style="--animation-order: "
-                                                                href="https://asturiasplanet.com/contact/"
+                                                                href="https://earningapps.net/contact-us/"
                                                                 class="link gtmFooterLink link-collection__link link--1 link--default">
                                                                 <span class='link__content'>
                                                                     Content Directory
@@ -1818,7 +1818,7 @@
                                                             </a>
                                                             <a data-gtm-footer-link-text="Featured Designers"
                                                                 style="--animation-order: "
-                                                                href="https://asturiasplanet.com/contact/"
+                                                                href="https://earningapps.net/contact-us/"
                                                                 class="link gtmFooterLink link-collection__link link--1 link--default">
                                                                 <span class='link__content'>
                                                                     Featured Artists
@@ -1827,7 +1827,7 @@
                                                             </a>
                                                             <a data-gtm-footer-link-text="Newest Designers"
                                                                 style="--animation-order: "
-                                                                href="https://asturiasplanet.com/contact/"
+                                                                href="https://earningapps.net/contact-us/"
                                                                 class="link gtmFooterLink link-collection__link link--1 link--default">
                                                                 <span class='link__content'>
                                                                     Newest Designers
@@ -1836,7 +1836,7 @@
                                                             </a>
                                                             <a data-gtm-footer-link-text="Newest SLOT GACOR"
                                                                 style="--animation-order: "
-                                                                href="https://asturiasplanet.com/contact/"
+                                                                href="https://earningapps.net/contact-us/"
                                                                 class="link gtmFooterLink link-collection__link link--1 link--default">
                                                                 <span class='link__content'>
                                                                     Newest SLOT GACOR
@@ -1845,7 +1845,7 @@
                                                             </a>
                                                             <a data-gtm-footer-link-text="Tag Directory"
                                                                 style="--animation-order: "
-                                                                href="https://asturiasplanet.com/contact/"
+                                                                href="https://earningapps.net/contact-us/"
                                                                 class="link gtmFooterLink link-collection__link link--1 link--default">
                                                                 <span class='link__content'>
                                                                     Tag Directory
@@ -1863,7 +1863,7 @@
                                                         <div class="link-collection__content"><a
                                                                 data-gtm-footer-link-text="Create"
                                                                 style="--animation-order: "
-                                                                href="https://asturiasplanet.com/contact/"
+                                                                href="https://earningapps.net/contact-us/"
                                                                 class="link gtmFooterLink link-collection__link link--1 link--default">
                                                                 <span class='link__content'>
                                                                     Artist Signup
@@ -1883,7 +1883,7 @@
 
                                                             <a data-gtm-footer-link-text="TeePublic Blog"
                                                                 style="--animation-order: "
-                                                                href="https://asturiasplanet.com/contact/"
+                                                                href="https://earningapps.net/contact-us/"
                                                                 class="link gtmFooterLink link-collection__link link--1 link--default">
                                                                 <span class='link__content'>
                                                                     TeePublic Blog
@@ -2336,8 +2336,8 @@
                                                         <a data-rudderstack-event-type="link"
                                                             data-action="click-&gt;rudderstack--link-clicked#track"
                                                             data-link-label="animals"
-                                                            data-href="https://asturiasplanet.com/contact/"
-                                                            href="https://asturiasplanet.com/contact/"
+                                                            data-href="https://earningapps.net/contact-us/"
+                                                            href="https://earningapps.net/contact-us/"
                                                             class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span
                                                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg
                                                                     xmlns="http://www.w3.org/2000/svg"
@@ -2427,8 +2427,8 @@
                                                         </a><a data-rudderstack-event-type="link"
                                                             data-action="click-&gt;rudderstack--link-clicked#track"
                                                             data-link-label="funny"
-                                                            data-href="https://asturiasplanet.com/contact/"
-                                                            href="https://asturiasplanet.com/contact/"
+                                                            data-href="https://earningapps.net/contact-us/"
+                                                            href="https://earningapps.net/contact-us/"
                                                             class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span
                                                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg
                                                                     xmlns="http://www.w3.org/2000/svg"
@@ -2446,8 +2446,8 @@
                                                         </a><a data-rudderstack-event-type="link"
                                                             data-action="click-&gt;rudderstack--link-clicked#track"
                                                             data-link-label="movies"
-                                                            data-href="https://asturiasplanet.com/contact/"
-                                                            href="https://asturiasplanet.com/contact/"
+                                                            data-href="https://earningapps.net/contact-us/"
+                                                            href="https://earningapps.net/contact-us/"
                                                             class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span
                                                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg
                                                                     xmlns="http://www.w3.org/2000/svg"
@@ -2483,8 +2483,8 @@
                                                         </a><a data-rudderstack-event-type="link"
                                                             data-action="click-&gt;rudderstack--link-clicked#track"
                                                             data-link-label="sports"
-                                                            data-href="https://asturiasplanet.com/contact/"
-                                                            href="https://asturiasplanet.com/contact/"
+                                                            data-href="https://earningapps.net/contact-us/"
+                                                            href="https://earningapps.net/contact-us/"
                                                             class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span
                                                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg
                                                                     xmlns="http://www.w3.org/2000/svg"
@@ -2502,8 +2502,8 @@
                                                         </a><a data-rudderstack-event-type="link"
                                                             data-action="click-&gt;rudderstack--link-clicked#track"
                                                             data-link-label="television"
-                                                            data-href="https://asturiasplanet.com/contact/"
-                                                            href="https://asturiasplanet.com/contact/"
+                                                            data-href="https://earningapps.net/contact-us/"
+                                                            href="https://earningapps.net/contact-us/"
                                                             class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span
                                                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg
                                                                     xmlns="http://www.w3.org/2000/svg"
@@ -2521,8 +2521,8 @@
                                                         </a><a data-rudderstack-event-type="link"
                                                             data-action="click-&gt;rudderstack--link-clicked#track"
                                                             data-link-label="vintage"
-                                                            data-href="https://asturiasplanet.com/contact/"
-                                                            href="https://asturiasplanet.com/contact/"
+                                                            data-href="https://earningapps.net/contact-us/"
+                                                            href="https://earningapps.net/contact-us/"
                                                             class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span
                                                                 class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg
                                                                     xmlns="http://www.w3.org/2000/svg"
@@ -3303,8 +3303,8 @@
                                                         <a data-rudderstack-event-type="link"
                                                             data-action="click-&gt;rudderstack--link-clicked#track"
                                                             data-link-label="funny"
-                                                            data-href="https://asturiasplanet.com/contact/"
-                                                            title="Funny" href="https://asturiasplanet.com/contact/"
+                                                            data-href="https://earningapps.net/contact-us/"
+                                                            title="Funny" href="https://earningapps.net/contact-us/"
                                                             class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                                                             <span class='link__content'>
                                                                 funny
@@ -3314,8 +3314,8 @@
                                                         <a data-rudderstack-event-type="link"
                                                             data-action="click-&gt;rudderstack--link-clicked#track"
                                                             data-link-label="music"
-                                                            data-href="https://asturiasplanet.com/contact/"
-                                                            title="Music" href="https://asturiasplanet.com/contact/"
+                                                            data-href="https://earningapps.net/contact-us/"
+                                                            title="Music" href="https://earningapps.net/contact-us/"
                                                             class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                                                             <span class='link__content'>
                                                                 music
@@ -3335,8 +3335,8 @@
                                                         <a data-rudderstack-event-type="link"
                                                             data-action="click-&gt;rudderstack--link-clicked#track"
                                                             data-link-label="movies"
-                                                            data-href="https://asturiasplanet.com/contact/"
-                                                            title="Movies" href="https://asturiasplanet.com/contact/"
+                                                            data-href="https://earningapps.net/contact-us/"
+                                                            title="Movies" href="https://earningapps.net/contact-us/"
                                                             class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                                                             <span class='link__content'>
                                                                 movies
@@ -3346,9 +3346,9 @@
                                                         <a data-rudderstack-event-type="link"
                                                             data-action="click-&gt;rudderstack--link-clicked#track"
                                                             data-link-label="television"
-                                                            data-href="https://asturiasplanet.com/contact/"
+                                                            data-href="https://earningapps.net/contact-us/"
                                                             title="Television"
-                                                            href="https://asturiasplanet.com/contact/"
+                                                            href="https://earningapps.net/contact-us/"
                                                             class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                                                             <span class='link__content'>
                                                                 television
@@ -3358,8 +3358,8 @@
                                                         <a data-rudderstack-event-type="link"
                                                             data-action="click-&gt;rudderstack--link-clicked#track"
                                                             data-link-label="sports"
-                                                            data-href="https://asturiasplanet.com/contact/"
-                                                            title="Sports" href="https://asturiasplanet.com/contact/"
+                                                            data-href="https://earningapps.net/contact-us/"
+                                                            title="Sports" href="https://earningapps.net/contact-us/"
                                                             class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                                                             <span class='link__content'>
                                                                 sports
@@ -3379,8 +3379,8 @@
                                                         <a data-rudderstack-event-type="link"
                                                             data-action="click-&gt;rudderstack--link-clicked#track"
                                                             data-link-label="vintage"
-                                                            data-href="https://asturiasplanet.com/contact/"
-                                                            title="Vintage" href="https://asturiasplanet.com/contact/"
+                                                            data-href="https://earningapps.net/contact-us/"
+                                                            title="Vintage" href="https://earningapps.net/contact-us/"
                                                             class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                                                             <span class='link__content'>
                                                                 vintage
@@ -3390,8 +3390,8 @@
                                                         <a data-rudderstack-event-type="link"
                                                             data-action="click-&gt;rudderstack--link-clicked#track"
                                                             data-link-label="animals"
-                                                            data-href="https://asturiasplanet.com/contact/"
-                                                            title="Animals" href="https://asturiasplanet.com/contact/"
+                                                            data-href="https://earningapps.net/contact-us/"
+                                                            title="Animals" href="https://earningapps.net/contact-us/"
                                                             class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                                                             <span class='link__content'>
                                                                 animals
