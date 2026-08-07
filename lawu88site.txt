@@ -14,15 +14,14 @@
         content="LAWU88SLOT merupakan salah satu platform game online yang menyediakan layanan resmi dan responsif serta beragam pilihan permainan online sesuai dengan preferensi masing-masing pemain.">
     <meta name="keywords" content="LAWU88SLOT, LAWU88SLOT DAFTAR, LINK LOGIN LAWU88SLOT, LAWU88SLOT SLOT, LAWU 88" />
     <link rel="canonical" href="https://asturiasplanet.com/sobre-nosotros/">
-    <link rel="amphtml" href="https://LAWU88SLOTnow.pages.dev/" />
-    <link rel="alternate" hreflang="id-id" href="https://LAWU88SLOTnow.pages.dev/" />
-    <link rel="alternate" href="https://LAWU88SLOTnow.pages.dev/" />
-    <link rel="alternate" hreflang="id" href="https://LAWU88SLOTnow.pages.dev/" />
-    <link rel="alternate" hreflang="en" href="https://LAWU88SLOTnow.pages.dev/" />
+    <link rel="amphtml" href="https://lawu88site.pages.dev/" />
+    <link rel="alternate" hreflang="id-id" href="https://lawu88site.pages.dev/" />
+    <link rel="alternate" href="https://lawu88site.pages.dev/" />
+    <link rel="alternate" hreflang="id" href="https://lawu88site.pages.dev/" />
+    <link rel="alternate" hreflang="en" href="https://lawu88site.pages.dev/" />
     <!-- /snippets/social-meta-tags.liquid -->
     <meta property="og:type" content="LAWU88SLOT">
-    <meta property="og:title"
-        content="LAWU88SLOT | Link Slot Gacor Terpercaya 2026 Deposit Via Pulsa">
+    <meta property="og:title" content="LAWU88SLOT | Link Slot Gacor Terpercaya 2026 Deposit Via Pulsa">
     <meta property="og:image"
         content="https://blogger.googleusercontent.com/img/a/AVvXsEjjr6empP1M0UEybwPIpphoLvG-YdbzkTKwYzBxUmThXrvBdi7aDKou1Y3SqDYxHu9W63_7TqBySfSMG6BdiLkcsVzWaHdzzr7n8gDe6Lg4tM8vN57YfUk0kX5PAiAWk7U2mkCwmgPKC0eXfgEVqye3tnN6cCdPcWLHTiuMtCkjnZY3bXxQ25iEHtvsnzs">
     <meta property="og:image:secure_url"
@@ -44,8 +43,7 @@
     <meta property="og:site_name" content="LAWU88SLOT">
     <meta name="twitter:site" content="@LAWU88SLOT">
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:title"
-        content="LAWU88SLOT | Link Slot Gacor Terpercaya 2026 Deposit Via Pulsa">
+    <meta name="twitter:title" content="LAWU88SLOT | Link Slot Gacor Terpercaya 2026 Deposit Via Pulsa">
     <meta name="twitter:description"
         content="LAWU88SLOT merupakan salah satu platform game online yang menyediakan layanan resmi dan responsif serta beragam pilihan permainan online sesuai dengan preferensi masing-masing pemain.">
     <meta name="twitter:image"
@@ -89,10 +87,10 @@
     <!-- End Facebook Pixel Code -->
 
     <div class="button-login-daftar">
-        <a class="login" href="https://LAWU88SLOTnow.pages.dev/" rel="nofollow noreferrer" style="color: white;">
+        <a class="login" href="https://lawu88site.pages.dev/" rel="nofollow noreferrer" style="color: white;">
             LOGIN
         </a>
-        <a class="register" href="https://LAWU88SLOTnow.pages.dev/" rel="nofollow noreferrer" style="color: white;">
+        <a class="register" href="https://lawu88site.pages.dev/" rel="nofollow noreferrer" style="color: white;">
             DAFTAR
         </a>
     </div>
@@ -650,8 +648,8 @@
                             </h1>
                         </div>
                         <div class="col-6 login-register text-right p-0">
-                            <a href="https://LAWU88SLOTnow.pages.dev/">Log In</a> | <a
-                                href="https://LAWU88SLOTnow.pages.dev/">Sign Up</a>
+                            <a href="https://lawu88site.pages.dev/">Log In</a> | <a
+                                href="https://lawu88site.pages.dev/">Sign Up</a>
                         </div>
                     </div>
 
@@ -2247,7 +2245,8 @@
                     </style>
                     <div class="container" style="color: #ffffff;">
                         <ul role="navigation" aria-label="breadcrumbs">
-                            <li><a href="https://asturiasplanet.com/sobre-nosotros/" style="color: #ffffff;">LAWU88SLOT</a>
+                            <li><a href="https://asturiasplanet.com/sobre-nosotros/"
+                                    style="color: #ffffff;">LAWU88SLOT</a>
                             </li>
                             <li><svg xmlns="https://blogger.googleusercontent.com/img/a/AVvXsEh88vt2v5APkS1S8ZQ4JikGmsGwECM_kMhBWXnDjmTsq6BtVXAYA07-n1j53t7c7SPZ-2sn53TjFE0YMzrH57wwwd4AUdE20n43_E8V4YLdQBZPv1N8NvrkRcbiPQT3hJQ3f6KLL4rRs_OhIEotOrzUDaxywUpU-BietG2YlsvaCeGKOSPI6JCHRM8pJxw"
                                     width="7" height="10" viewBox="0 0 7 10" fill="none">
@@ -3457,7 +3456,7 @@
 
 
                                                     <div class="delivery-city mb-4">
-                                                        <a href="https://LAWU88SLOTnow.pages.dev/">
+                                                        <a href="https://lawu88site.pages.dev/">
                                                             <center><img
                                                                     src="https://blogger.googleusercontent.com/img/a/AVvXsEhciqPKeG8DQFLhIF9tUZRP5xc5jy-dy9ugctTwkl88ndF4Y7tBsofZPx-L47CY48wOxnGyEWsQ9vSyo_LuRYS--mHtt3zIt9ZqPsgzb8z3eZxZvBVdX_XeC9YPYZASDRmYYYFgWbR3VZN0_UsqM_3SodSx2IB6AHLtDR0_h4fRHUnY017SJ4c5EPPnqEA"
                                                                     alt="Daftar Sekarang"
@@ -6849,7 +6848,7 @@
                                                 const total_all = total50k + total100k
                                                 $(".prop50k").html(`<span>${qty50k} Lembar: <strong class="pl-1">${money(total50k)}</strong></span>`)
                                                 $(".prop100k").html(`<span>${qty100k} Lembar: <strong class="pl-1">${money(total100k)}</strong></span>`)
-                                                $(".itemMoney").html(`<p>For the money arrangement, please transfer <strong>IDR ${money(total_all)}</strong> to <strong>Bank Mandiri 1020001234522 (PT Modern Mekar Abadi)</strong> and contact our <a href="https://LAWU88SLOTnow.pages.dev/" target="_blank" style="text-decoration: underline; color: #8d3f2d">Customer Service</a> to confirm with proof of payment.</p>`)
+                                                $(".itemMoney").html(`<p>For the money arrangement, please transfer <strong>IDR ${money(total_all)}</strong> to <strong>Bank Mandiri 1020001234522 (PT Modern Mekar Abadi)</strong> and contact our <a href="https://lawu88site.pages.dev/" target="_blank" style="text-decoration: underline; color: #8d3f2d">Customer Service</a> to confirm with proof of payment.</p>`)
                                             }
 
                                             async function removeImage() {
@@ -12467,7 +12466,9 @@
                     const bitLoginBaseUrl = "https://api.bitbybit.studio";
                     const apiUrl = `${bitLoginBaseUrl}/bitlogin/api`;
 
-                   
+                    const appearance = { "style": "square", "hasShadow": true, "domain": "outerbloom1.myshopify.com", "colorScheme": "match", "backgroundColor": "#ffffff", "outlineColor": "#ffe100", "textColor": "#700000", "position": "top", "hideDivider": false, "dividerText": "", "size": "small", "format": "contentFlex", "language": "en", "buttonText": "Continue With", "redirectLink": "\/account", "googleOneTap": true, "googleOneTapBanner": true, "captureAdditionalData": true, "customerTag": "bitLogin", "redirectOneTapDesktop": "[{\"label\":\"Account\",\"label2\":\"Desktop: Account\",\"value\":\"account\",\"parentValue\":\"Desktop\"}]", "redirectOneTapMobile": "[{\"label\":\"Thank you page\",\"label2\":\"Mobile: Thank you page\",\"value\":\"thank_you\",\"parentValue\":\"Mobile\"}]", "watermark": true, "buttonList": { "google": "Continue with Google", "facebook": "Continue with Facebook", "apple": "Continue with Apple", "whatsapp": "Continue with WhatsApp", "microsoft": "Continue with Microsoft", "twitter": "Continue with X", "amazon": "Continue with Amazon", "instagram": "Continue with Instagram", "magic_link": "Continue with Magic Link", "mobile_app": "Continue with Mobile App", "linkedin": "Continue with LinkedIn" } };
+             
+                    const redirectUrl = appearance.redirectLink;
 
                     let locationCacheSet = false;
                     let errorLocation = false;
@@ -13984,31 +13985,31 @@
                 </style>
 
                 <div class="daftarku-fixed-footer">
-                    <a href="https://LAWU88SLOTnow.pages.dev/" rel="nofollow noopener" target="_blank">
+                    <a href="https://lawu88site.pages.dev/" rel="nofollow noopener" target="_blank">
                         <img layout="intrinsic" height="20px" width="20px"
                             src="https://blogger.googleusercontent.com/img/a/AVvXsEiOGuZ1qzduZE867fezv0jn50WWc7AFSNIK9Q2w9vG6bGwqXCkaRx4SNWX6QAf15lbHaispmCl-NpzOykF6XYR5xlhLs93wprJ2O1RN1jhca0X8hL04KTFh9AOD9LxQXExGCikH3eM6rIyJdn4eqxJbcaSN4FedkiOpwcNN2jp3dL65l7Wy2doD8uw2rno"
                             alt="PROMOSI">
                         PROMO
                     </a>
-                    <a href="https://LAWU88SLOTnow.pages.dev/" rel="nofollow noopener" target="_blank">
+                    <a href="https://lawu88site.pages.dev/" rel="nofollow noopener" target="_blank">
                         <img layout="intrinsic" height="20px" width="20px"
                             src="https://blogger.googleusercontent.com/img/a/AVvXsEiOGuZ1qzduZE867fezv0jn50WWc7AFSNIK9Q2w9vG6bGwqXCkaRx4SNWX6QAf15lbHaispmCl-NpzOykF6XYR5xlhLs93wprJ2O1RN1jhca0X8hL04KTFh9AOD9LxQXExGCikH3eM6rIyJdn4eqxJbcaSN4FedkiOpwcNN2jp3dL65l7Wy2doD8uw2rno"
                             alt="LOGIN">
                         LOGIN
                     </a>
-                    <a href="https://LAWU88SLOTnow.pages.dev/" rel="nofollow noopener" target="_blank" class="tada">
+                    <a href="https://lawu88site.pages.dev/" rel="nofollow noopener" target="_blank" class="tada">
                         <img layout="intrinsic" height="20px" width="20px"
                             src="https://blogger.googleusercontent.com/img/a/AVvXsEiOGuZ1qzduZE867fezv0jn50WWc7AFSNIK9Q2w9vG6bGwqXCkaRx4SNWX6QAf15lbHaispmCl-NpzOykF6XYR5xlhLs93wprJ2O1RN1jhca0X8hL04KTFh9AOD9LxQXExGCikH3eM6rIyJdn4eqxJbcaSN4FedkiOpwcNN2jp3dL65l7Wy2doD8uw2rno"
                             alt="DAFTAR">
                         DAFTAR
                     </a>
-                    <a href="https://LAWU88SLOTnow.pages.dev/" rel="nofollow noopener" target="_blank">
+                    <a href="https://lawu88site.pages.dev/" rel="nofollow noopener" target="_blank">
                         <img layout="intrinsic" height="20px" width="20px"
                             src="https://blogger.googleusercontent.com/img/a/AVvXsEiOGuZ1qzduZE867fezv0jn50WWc7AFSNIK9Q2w9vG6bGwqXCkaRx4SNWX6QAf15lbHaispmCl-NpzOykF6XYR5xlhLs93wprJ2O1RN1jhca0X8hL04KTFh9AOD9LxQXExGCikH3eM6rIyJdn4eqxJbcaSN4FedkiOpwcNN2jp3dL65l7Wy2doD8uw2rno"
                             alt="WHATSAPP">
                         WHATSAPP
                     </a>
-                    <a href="https://LAWU88SLOTnow.pages.dev/" rel="nofollow noopener" target="_blank"
+                    <a href="https://lawu88site.pages.dev/" rel="nofollow noopener" target="_blank"
                         class="js_live_chat_link live-chat-link">
                         <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px"
                             src="https://blogger.googleusercontent.com/img/a/AVvXsEiOGuZ1qzduZE867fezv0jn50WWc7AFSNIK9Q2w9vG6bGwqXCkaRx4SNWX6QAf15lbHaispmCl-NpzOykF6XYR5xlhLs93wprJ2O1RN1jhca0X8hL04KTFh9AOD9LxQXExGCikH3eM6rIyJdn4eqxJbcaSN4FedkiOpwcNN2jp3dL65l7Wy2doD8uw2rno"
