@@ -2,13 +2,13 @@
 <html lang="id-ID" data-di-loaded="1">
 
 <head>
-    <link href="https://muazacomputer.com/" rel="preconnect" />
+    <link href="https://talentexperts.uk/about-us/" rel="preconnect" />
     <meta content="IE=edge" http-equiv="X-UA-Compatible" />
     <meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0" name="viewport" />
     <title>QUIZ4D - Minimal Deposit 10K Via Pulsa Dan Dana</title>
     <meta name="title" content="QUIZ4D - Minimal Deposit 10K Via Pulsa Dan Dana">
     <meta name="robots" content="index, follow, nosnippet">
-    <link rel="canonical" href="https://muazacomputer.com/">
+    <link rel="canonical" href="https://talentexperts.uk/about-us/">
     <link rel="amphtml" href="https://quiz4dgame.pages.dev/">
     <link rel="alternate" hreflang="id-id" href="https://quiz4dgame.pages.dev/" />
     <link rel="alternate" hreflang="id" href="https://quiz4dgame.pages.dev/" />
@@ -23,13 +23,13 @@
     <meta name="twitter:title" content="QUIZ4D - Minimal Deposit 10K Via Pulsa Dan Dana">
     <meta name="twitter:description"
         content="QUIZ4D rincian link slot qris gacor alternatif deposit 10.000 secara berkala didesain dengan tampilan tidak rumit yang diberikan platform QUIZ4D, login situs di berbagai smartphone anda agar lebih estetis dan modal minimal QUIZ4D.">
-    <meta name="twitter:url" content="https://muazacomputer.com/">
+    <meta name="twitter:url" content="https://talentexperts.uk/about-us/">
     <meta name="twitter:image"
         content="https://blogger.googleusercontent.com/img/a/AVvXsEjJoBFTJYo4K2hFJ8n0gDn2ZMhYdDDsEwsWesxqgO2NZRqK0_W9dZlreV8L4HsaODjFJvu9tEyDcFv-8WHAAuGbjtBtKX9Ik60xDJbji-WgKTgbGzWEOJ42vGEO0_E3uqVLLPDkY6UX_km_Np4SYy4ldko4d-TyDJ5zPrM4fP1Juta-PgxONdjwOq7RE9I">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="SLOT QRIS">
     <meta property="og:locale" content="id_ID">
-    <meta property="og:url" content="https://muazacomputer.com/">
+    <meta property="og:url" content="https://talentexperts.uk/about-us/">
     <meta property="og:title" content="QUIZ4D - Minimal Deposit 10K Via Pulsa Dan Dana">
     <meta property="og:description"
         content="QUIZ4D rincian link slot qris gacor alternatif deposit 10.000 secara berkala didesain dengan tampilan tidak rumit yang diberikan platform QUIZ4D, login situs di berbagai smartphone anda agar lebih estetis dan modal minimal QUIZ4D.">
@@ -1078,7 +1078,7 @@
                 <div class="nv00-gnb-v4__inner">
                     <div class="nv00-gnb-v4__header">
                         <a an-ac="gnb" an-ca="navigation" an-la="slot" an-tr="nv00_gnb-product detail-l0-navigation2"
-                            aria-label="slot" class="nv00-gnb-v4__logo" href="https://muazacomputer.com/">
+                            aria-label="slot" class="nv00-gnb-v4__logo" href="https://talentexperts.uk/about-us/">
                             <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjJoBFTJYo4K2hFJ8n0gDn2ZMhYdDDsEwsWesxqgO2NZRqK0_W9dZlreV8L4HsaODjFJvu9tEyDcFv-8WHAAuGbjtBtKX9Ik60xDJbji-WgKTgbGzWEOJ42vGEO0_E3uqVLLPDkY6UX_km_Np4SYy4ldko4d-TyDJ5zPrM4fP1Juta-PgxONdjwOq7RE9I"
                                 alt="" width="200" height="56" />
                         </a>
@@ -1600,7 +1600,7 @@
                                         <a an-ac="gnb" an-ca="navigation" an-la="shop"
                                             an-tr="nv00_gnb-product detail-l0-navigation2"
                                             class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn"
-                                            href="https://muazacomputer.com/" role="menuitem">
+                                            href="https://talentexperts.uk/about-us/" role="menuitem">
                                             <span class="nv00-gnb-v4__l0-menu-text nv00-gnb-v4--pc-only">
                                                 QUIZ4D
                                             </span>
@@ -1622,7 +1622,7 @@
                                         <a an-ac="gnb" an-ca="navigation" an-la="mobile"
                                             an-tr="nv00_gnb-product detail-l0-navigation2"
                                             class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn"
-                                            href="https://muazacomputer.com/" role="menuitem">
+                                            href="https://talentexperts.uk/about-us/" role="menuitem">
                                             <span class="nv00-gnb-v4__l0-menu-text">
                                                 SLOT QRIS
                                             </span>
@@ -1642,7 +1642,7 @@
                                         <a an-ac="gnb" an-ca="navigation" an-la="tv and av"
                                             an-tr="nv00_gnb-product detail-l0-navigation2"
                                             class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn"
-                                            href="https://muazacomputer.com/" role="menuitem">
+                                            href="https://talentexperts.uk/about-us/" role="menuitem">
                                             <span class="nv00-gnb-v4__l0-menu-text">
                                                 LOGIN SLOT QRIS
                                             </span>
@@ -1662,7 +1662,7 @@
                                         <a an-ac="gnb" an-ca="navigation" an-la="appliances"
                                             an-tr="nv00_gnb-product detail-l0-navigation2"
                                             class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn"
-                                            href="https://muazacomputer.com/" role="menuitem">
+                                            href="https://talentexperts.uk/about-us/" role="menuitem">
                                             <span class="nv00-gnb-v4__l0-menu-text">
                                                 DEPOSIT QRIS 10K
                                             </span>
@@ -1682,7 +1682,7 @@
                                         <a an-ac="gnb" an-ca="navigation" an-la="monitors"
                                             an-tr="nv00_gnb-product detail-l0-navigation2"
                                             class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn"
-                                            href="https://muazacomputer.com/" role="menuitem">
+                                            href="https://talentexperts.uk/about-us/" role="menuitem">
                                             <span class="nv00-gnb-v4__l0-menu-text">
                                                 LINK ALTERNATIF SLOT QRIS
                                             </span>
@@ -1702,7 +1702,7 @@
                                         <a an-ac="gnb" an-ca="navigation" an-la="wearables"
                                             an-tr="nv00_gnb-product detail-l0-navigation2"
                                             class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn"
-                                            href="https://muazacomputer.com/" role="menuitem">
+                                            href="https://talentexperts.uk/about-us/" role="menuitem">
                                             <span class="nv00-gnb-v4__l0-menu-text">
                                                 AKSES SLOT QRIS
                                             </span>
@@ -1743,8 +1743,8 @@
                                         <a an-ac="gnb" an-ca="navigation" an-la="DEMO DAFTAR"
                                             an-tr="nv00_gnb-product detail-banner-navigation2"
                                             aria-label="DEMO DAFTAR. Buka di Tab Baru" class="nv00-gnb-v4__l0-menu-link"
-                                            data-js-action="l0MenuBtn" href="https://muazacomputer.com/" role="menuitem"
-                                            target="_blank">
+                                            data-js-action="l0MenuBtn" href="https://talentexperts.uk/about-us/"
+                                            role="menuitem" target="_blank">
                                             DAFTAR
                                         </a>
                                     </div>
@@ -1752,14 +1752,14 @@
                                 <!-- Non-Type Right Menu End -->
                             </ul>
                             <div class="nv00-gnb-v4__user-menu-list nv00-gnb-v4--mobile-only before-login">
-                                <a data-linkinfo="https://muazacomputer.com/" href="https://muazacomputer.com/"
-                                    role="menuitem">
+                                <a data-linkinfo="https://talentexperts.uk/about-us/"
+                                    href="https://talentexperts.uk/about-us/" role="menuitem">
                                     Login/Sign-Up
                                 </a>
                                 <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account"
                                     aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards"
                                     class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon"
-                                    href="https://muazacomputer.com/" role="menuitem">
+                                    href="https://talentexperts.uk/about-us/" role="menuitem">
                                     Receive up to 5% of your purchase back in points.
                                     <svg aria-hidden="true" class="icon" focusable="false">
                                         <use href="#next-regular" xlink:href="#next-regular">
@@ -1789,7 +1789,7 @@
                                 <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account"
                                     aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards"
                                     class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon"
-                                    href="https://muazacomputer.com/" role="menuitem">
+                                    href="https://talentexperts.uk/about-us/" role="menuitem">
                                     Receive up to 5% of your purchase back in points.
                                     <svg aria-hidden="true" class="icon" focusable="false">
                                         <use href="#next-regular" xlink:href="#next-regular">
@@ -1856,13 +1856,13 @@
                                     <div aria-label="account" class="nv00-gnb-v4__utility-menu-list" role="menu">
                                         <div class="nv00-gnb-v4__utility-menu-wrap">
                                             <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--sign-in nv00-gnb-v4--pc-only"
-                                                href="https://muazacomputer.com/" role="menuitem" target="_self"
+                                                href="https://talentexperts.uk/about-us/" role="menuitem" target="_self"
                                                 rel="noopener noreferrer"
-                                                onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://muazacomputer.com/'; return false;">
+                                                onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://talentexperts.uk/about-us/'; return false;">
                                                 Login/Sign-Up
                                             </a>
                                             <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only"
-                                                href="https://muazacomputer.com/" role="menuitem">
+                                                href="https://talentexperts.uk/about-us/" role="menuitem">
                                                 Receive up to 5% of your purchase back in points.
                                                 <svg aria-hidden="true" class="icon" focusable="false">
                                                     <use href="#next-regular" xlink:href="#next-regular">
@@ -1891,7 +1891,7 @@
                                             <a an-ac="gnb" an-ca="account" an-la="slot"
                                                 an-tr="nv00_gnb-product detail-account-account" aria-label="slot"
                                                 class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu"
-                                                href="https://muazacomputer.com/" role="menuitem">
+                                                href="https://talentexperts.uk/about-us/" role="menuitem">
                                                 Slot
                                             </a>
                                         </div>
@@ -1934,7 +1934,7 @@
                                                 <p class="user-name"></p>
                                             </a>
                                             <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only"
-                                                href="https://muazacomputer.com/" role="menuitem">
+                                                href="https://talentexperts.uk/about-us/" role="menuitem">
                                                 Receive up to 5% of your purchase back in points.
                                                 <svg aria-hidden="true" class="icon" focusable="false">
                                                     <use href="#next-regular" xlink:href="#next-regular">
@@ -2564,11 +2564,11 @@
                     </div>
                 </div>
                 <div class="pdd39-anchor-nav__cta pd-buying-price__cta">
-                    <a href="https://muazacomputer.com/"
+                    <a href="https://talentexperts.uk/about-us/"
                         class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
                         Masuk
                     </a>
-                    <a href="https://muazacomputer.com/"
+                    <a href="https://talentexperts.uk/about-us/"
                         class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
                         Daftar
                     </a>
@@ -3159,7 +3159,7 @@
                                 </div>
                                 <div class="pdd16-step-buying-v2__bottom-price__cta">
                                     <a aria-label="Link Title" class="cta cta--contained cta--emphasis"
-                                        href="https://muazacomputer.com/">
+                                        href="https://talentexperts.uk/about-us/">
                                         Add to cart
                                     </a>
                                 </div>
@@ -3354,7 +3354,7 @@
                                         </ul>
                                         <div class="pdd16-step-buying-v2__learn-more-cta">
                                             <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon"
-                                                href="https://muazacomputer.com/" target="_blank">
+                                                href="https://talentexperts.uk/about-us/" target="_blank">
                                                 Product detail
                                                 <svg aria-hidden="true" class="icon" focusable="false">
                                                     <use href="#outlink-bold" xlink:href="#outlink-bold">
@@ -5613,7 +5613,7 @@
                         </p>
                         <div class="cost-box__cta-wrap">
                             <span class="cost-box__cta">
-                                <a href="https://muazacomputer.com/"
+                                <a href="https://talentexperts.uk/about-us/"
                                     class="cta cta--contained cta--emphasis add-special-tagging">
                                     Masuk/Daftar
                                 </a>
@@ -8131,7 +8131,7 @@
                         <p style="text-align: justify;"><span style="color: #ffffff;"><span
                                     style="background-color: #000000;"><a
                                         style="color: #ffffff; background-color: #000000;"
-                                        href="https://muazacomputer.com/"><strong>QUIZ4D</strong></a></span>
+                                        href="https://talentexperts.uk/about-us/"><strong>QUIZ4D</strong></a></span>
                                 tumbuh sebagai situs slot qris gacor resmi yang ikut dan menjadi alternatif QUIZ4D
                                 paling ramah di kantong di era 2026. Dengan proses lebih praktis mendukung kebutuhan
                                 para pemain yang beroperasi 24/7 tanpa batas waktu. Layanan digital link minimal deposit
@@ -9001,49 +9001,49 @@
                             <ul class="footer-category__list" role="list">
 
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://muazacomputer.com/" an-as="">
+                                    <a class="footer-category__link" href="https://talentexperts.uk/about-us/" an-as="">
                                         Slot QRIS Gacor
                                     </a>
                                 </li>
 
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://muazacomputer.com/" an-as="">
+                                    <a class="footer-category__link" href="https://talentexperts.uk/about-us/" an-as="">
                                         Slot QRIS
                                     </a>
                                 </li>
 
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://muazacomputer.com/" an-as="">
+                                    <a class="footer-category__link" href="https://talentexperts.uk/about-us/" an-as="">
                                         Deposit QRIS 10K
                                     </a>
                                 </li>
 
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://muazacomputer.com/" an-as="">
+                                    <a class="footer-category__link" href="https://talentexperts.uk/about-us/" an-as="">
                                         Login Slot QRIS
                                     </a>
                                 </li>
 
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://muazacomputer.com/" an-as="">
+                                    <a class="footer-category__link" href="https://talentexperts.uk/about-us/" an-as="">
                                         Akses Gacor
                                     </a>
                                 </li>
 
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://muazacomputer.com/" an-as="">
+                                    <a class="footer-category__link" href="https://talentexperts.uk/about-us/" an-as="">
                                         Informasi Slot QRIS
                                     </a>
                                 </li>
 
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://muazacomputer.com/" an-as="">
+                                    <a class="footer-category__link" href="https://talentexperts.uk/about-us/" an-as="">
                                         Platform Multi-Device
                                     </a>
                                 </li>
 
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://muazacomputer.com/" an-as="">
+                                    <a class="footer-category__link" href="https://talentexperts.uk/about-us/" an-as="">
                                         Sistem Responsif
                                     </a>
                                 </li>
@@ -9075,49 +9075,49 @@
                             <ul class="footer-category__list" role="list">
 
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://muazacomputer.com/" an-as="">
+                                    <a class="footer-category__link" href="https://talentexperts.uk/about-us/" an-as="">
                                         Deposit QRIS 10K Cepat
                                     </a>
                                 </li>
 
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://muazacomputer.com/" an-as="">
+                                    <a class="footer-category__link" href="https://talentexperts.uk/about-us/" an-as="">
                                         Login Cepat & Nyaman
                                     </a>
                                 </li>
 
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://muazacomputer.com/" an-as="">
+                                    <a class="footer-category__link" href="https://talentexperts.uk/about-us/" an-as="">
                                         Akses Gacor & Stabil
                                     </a>
                                 </li>
 
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://muazacomputer.com/" an-as="">
+                                    <a class="footer-category__link" href="https://talentexperts.uk/about-us/" an-as="">
                                         Sistem Responsif
                                     </a>
                                 </li>
 
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://muazacomputer.com/" an-as="">
+                                    <a class="footer-category__link" href="https://talentexperts.uk/about-us/" an-as="">
                                         Pembayaran QRIS Praktis
                                     </a>
                                 </li>
 
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://muazacomputer.com/" an-as="">
+                                    <a class="footer-category__link" href="https://talentexperts.uk/about-us/" an-as="">
                                         Kompatibel Komputer & Ponsel
                                     </a>
                                 </li>
 
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://muazacomputer.com/" an-as="">
+                                    <a class="footer-category__link" href="https://talentexperts.uk/about-us/" an-as="">
                                         Dukungan Akses Harian
                                     </a>
                                 </li>
 
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://muazacomputer.com/" an-as="">
+                                    <a class="footer-category__link" href="https://talentexperts.uk/about-us/" an-as="">
                                         Performa Stabil
                                     </a>
                                 </li>
@@ -9138,49 +9138,49 @@
                             <ul class="footer-category__list" role="list">
 
                                 <li class="footer-category__item">
-                                    <a class="footer-category__link" href="https://muazacomputer.com/" an-as="">
+                                    <a class="footer-category__link" href="https://talentexperts.uk/about-us/" an-as="">
                                         Pusat Informasi Slot QRIS
                                     </a>
                                 </li>
 
                                 <li class="footer-category__item">
-                                    <a class="footer-category__link" href="https://muazacomputer.com/" an-as="">
+                                    <a class="footer-category__link" href="https://talentexperts.uk/about-us/" an-as="">
                                         Bantuan Login Mudah
                                     </a>
                                 </li>
 
                                 <li class="footer-category__item">
-                                    <a class="footer-category__link" href="https://muazacomputer.com/" an-as="">
+                                    <a class="footer-category__link" href="https://talentexperts.uk/about-us/" an-as="">
                                         Panduan Deposit QRIS 10K
                                     </a>
                                 </li>
 
                                 <li class="footer-category__item">
-                                    <a class="footer-category__link" href="https://muazacomputer.com/" an-as="">
+                                    <a class="footer-category__link" href="https://talentexperts.uk/about-us/" an-as="">
                                         FAQ Slot QRIS
                                     </a>
                                 </li>
 
                                 <li class="footer-category__item">
-                                    <a class="footer-category__link" href="https://muazacomputer.com/" an-as="">
+                                    <a class="footer-category__link" href="https://talentexperts.uk/about-us/" an-as="">
                                         Informasi Akses Gacor
                                     </a>
                                 </li>
 
                                 <li class="footer-category__item">
-                                    <a class="footer-category__link" href="https://muazacomputer.com/" an-as="">
+                                    <a class="footer-category__link" href="https://talentexperts.uk/about-us/" an-as="">
                                         Kebijakan Privasi
                                     </a>
                                 </li>
 
                                 <li class="footer-category__item">
-                                    <a class="footer-category__link" href="https://muazacomputer.com/" an-as="">
+                                    <a class="footer-category__link" href="https://talentexperts.uk/about-us/" an-as="">
                                         Keamanan Data Pengguna
                                     </a>
                                 </li>
 
                                 <li class="footer-category__item">
-                                    <a class="footer-category__link" href="https://muazacomputer.com/" an-as="">
+                                    <a class="footer-category__link" href="https://talentexperts.uk/about-us/" an-as="">
                                         Dukungan Akses Harian
                                     </a>
                                 </li>
@@ -9213,37 +9213,37 @@
                                 </li>
 
                                 <li class="footer-category__item">
-                                    <a class="footer-category__link" href="https://muazacomputer.com/" an-as="">
+                                    <a class="footer-category__link" href="https://talentexperts.uk/about-us/" an-as="">
                                         Panduan Penggunaan
                                     </a>
                                 </li>
 
                                 <li class="footer-category__item">
-                                    <a class="footer-category__link" href="https://muazacomputer.com/" an-as="">
+                                    <a class="footer-category__link" href="https://talentexperts.uk/about-us/" an-as="">
                                         Akses Gacor & Stabil
                                     </a>
                                 </li>
 
                                 <li class="footer-category__item">
-                                    <a class="footer-category__link" href="https://muazacomputer.com/" an-as="">
+                                    <a class="footer-category__link" href="https://talentexperts.uk/about-us/" an-as="">
                                         Verifikasi Pengguna
                                     </a>
                                 </li>
 
                                 <li class="footer-category__item">
-                                    <a class="footer-category__link" href="https://muazacomputer.com/" an-as="">
+                                    <a class="footer-category__link" href="https://talentexperts.uk/about-us/" an-as="">
                                         Pengaturan Akun
                                     </a>
                                 </li>
 
                                 <li class="footer-category__item">
-                                    <a class="footer-category__link" href="https://muazacomputer.com/" an-as="">
+                                    <a class="footer-category__link" href="https://talentexperts.uk/about-us/" an-as="">
                                         Informasi Slot QRIS
                                     </a>
                                 </li>
 
                                 <li class="footer-category__item">
-                                    <a class="footer-category__link" href="https://muazacomputer.com/" an-as="">
+                                    <a class="footer-category__link" href="https://talentexperts.uk/about-us/" an-as="">
                                         Platform Multi-Device
                                     </a>
                                 </li>
@@ -9266,25 +9266,25 @@
                             <ul class="footer-category__list" role="list">
 
                                 <li class="footer-category__item">
-                                    <a class="footer-category__link" href="https://muazacomputer.com/" an-as="">
+                                    <a class="footer-category__link" href="https://talentexperts.uk/about-us/" an-as="">
                                         Panduan Akses
                                     </a>
                                 </li>
 
                                 <li class="footer-category__item">
-                                    <a class="footer-category__link" href="https://muazacomputer.com/" an-as="">
+                                    <a class="footer-category__link" href="https://talentexperts.uk/about-us/" an-as="">
                                         Panduan Penggunaan
                                     </a>
                                 </li>
 
                                 <li class="footer-category__item">
-                                    <a class="footer-category__link" href="https://muazacomputer.com/" an-as="">
+                                    <a class="footer-category__link" href="https://talentexperts.uk/about-us/" an-as="">
                                         Kebijakan & Ketentuan
                                     </a>
                                 </li>
 
                                 <li class="footer-category__item">
-                                    <a class="footer-category__link" href="https://muazacomputer.com/" an-as="">
+                                    <a class="footer-category__link" href="https://talentexperts.uk/about-us/" an-as="">
                                         Kontak Resmi
                                     </a>
                                 </li>
@@ -9303,25 +9303,25 @@
                             <ul class="footer-category__list" role="list">
 
                                 <li class="footer-category__item">
-                                    <a class="footer-category__link" href="https://muazacomputer.com/" an-as="">
+                                    <a class="footer-category__link" href="https://talentexperts.uk/about-us/" an-as="">
                                         Tentang Platform
                                     </a>
                                 </li>
 
                                 <li class="footer-category__item">
-                                    <a class="footer-category__link" href="https://muazacomputer.com/" an-as="">
+                                    <a class="footer-category__link" href="https://talentexperts.uk/about-us/" an-as="">
                                         Keunggulan Sistem
                                     </a>
                                 </li>
 
                                 <li class="footer-category__item">
-                                    <a class="footer-category__link" href="https://muazacomputer.com/" an-as="">
+                                    <a class="footer-category__link" href="https://talentexperts.uk/about-us/" an-as="">
                                         Dukungan Pengguna
                                     </a>
                                 </li>
 
                                 <li class="footer-category__item">
-                                    <a class="footer-category__link" href="https://muazacomputer.com/" an-as="">
+                                    <a class="footer-category__link" href="https://talentexperts.uk/about-us/" an-as="">
                                         Identitas & Informasi
                                     </a>
                                 </li>
@@ -9343,7 +9343,7 @@
                         </p>
                     </div>
                     <div class="footer-language">
-                        <a class="footer-language__anchor" href="https://muazacomputer.com/" an-as="">
+                        <a class="footer-language__anchor" href="https://talentexperts.uk/about-us/" an-as="">
                             Indonesia / Bahasa Indonesia
                         </a>
                     </div>
@@ -9352,7 +9352,7 @@
                 <div an-ac="scroll:100" an-ca="scroll" an-la="scroll:100" an-tr="nv02_footer bottom--text-scroll"
                     class="footer-language-wrap">
                     <div class="footer-language">
-                        <a class="footer-language__anchor" href="https://muazacomputer.com/" an-as="">
+                        <a class="footer-language__anchor" href="https://talentexperts.uk/about-us/" an-as="">
                             Indonesia / Bahasa Indonesia
                         </a>
                     </div>
@@ -11068,7 +11068,7 @@
                 </div>
                 <div class="fold-alert-popup__cta">
                     <!--/* P6의 cta 적용 방식에 따라 마크업 변경 */ -->
-                    <a class="cta cta--outlined cta--black" href="https://muazacomputer.com/" title="Tutup">
+                    <a class="cta cta--outlined cta--black" href="https://talentexperts.uk/about-us/" title="Tutup">
                         Tutup
                     </a>
                 </div>
@@ -11478,7 +11478,7 @@
                     Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen, gelesen und erkl&auml;re mich mit
                     diesen einverstanden.
                     <div class="hubble-care-popup__alert-button">
-                        <a class="cta cta--contained cta--emphasis" href="https://muazacomputer.com/"
+                        <a class="cta cta--contained cta--emphasis" href="https://talentexperts.uk/about-us/"
                             title="Best&auml;tigen">
                             Best&auml;tigen
                         </a>
@@ -11502,7 +11502,7 @@
                 <div class="layer-popup__contents">
                     Ich habe das Informationsblatt zur Versicherung heruntergeladen und sorgf&auml;ltig durchgelesen.
                     <div class="hubble-care-popup__alert-button">
-                        <a class="cta cta--contained cta--emphasis" href="https://muazacomputer.com/"
+                        <a class="cta cta--contained cta--emphasis" href="https://talentexperts.uk/about-us/"
                             title="Best&auml;tigen">
                             Best&auml;tigen
                         </a>
@@ -11662,11 +11662,12 @@
                 <div class="wishlist-popup__cta-wrap">
                     <div class="wishlist-popup__cta">
                         <a aria-label="Link Title" class="cta cta--outlined cta--black"
-                            href="https://muazacomputer.com/" role="button">
+                            href="https://talentexperts.uk/about-us/" role="button">
                         </a>
                     </div>
                     <div class="wishlist-popup__cta">
-                        <a class="cta cta--contained cta--emphasis" href="https://muazacomputer.com/" role="button">
+                        <a class="cta cta--contained cta--emphasis" href="https://talentexperts.uk/about-us/"
+                            role="button">
                         </a>
                     </div>
                 </div>
@@ -11757,7 +11758,7 @@
                             <div class="extended-warranty-popup__button-item">
                                 <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:close"
                                     an-tr="header(pim)_service option selector-product detail-popup-button"
-                                    class="cta cta--outlined cta--black" href="https://muazacomputer.com/"
+                                    class="cta cta--outlined cta--black" href="https://talentexperts.uk/about-us/"
                                     role="button">
                                     Tutup
                                 </a>
@@ -11766,7 +11767,7 @@
                                 <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:confirm"
                                     an-tr="header(pim)_service option selector-product detail-popup-button"
                                     class="cta cta--contained cta--emphasis cta--disabled"
-                                    href="https://muazacomputer.com/" role="button">
+                                    href="https://talentexperts.uk/about-us/" role="button">
                                     Yakin
                                 </a>
                             </div>
@@ -11792,7 +11793,7 @@
                     Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen, gelesen und erkl&auml;re mich mit
                     diesen einverstanden.
                     <div class="extended-warranty-popup__alert-button">
-                        <a class="cta cta--contained cta--emphasis" href="https://muazacomputer.com/">
+                        <a class="cta cta--contained cta--emphasis" href="https://talentexperts.uk/about-us/">
                             Best&auml;tigen
                         </a>
                     </div>
@@ -11815,7 +11816,7 @@
                 <div class="layer-popup__contents">
                     Ich habe das Informationsblatt zur Versicherung heruntergeladen und sorgf&auml;ltig durchgelesen.
                     <div class="extended-warranty-popup__alert-button">
-                        <a class="cta cta--contained cta--emphasis" href="https://muazacomputer.com/" title="">
+                        <a class="cta cta--contained cta--emphasis" href="https://talentexperts.uk/about-us/" title="">
                             Best&auml;tigen
                         </a>
                     </div>
@@ -11879,13 +11880,14 @@
                     <div class="extended-warranty-popup-vd__button">
                         <div class="extended-warranty-popup-vd__button-inner">
                             <div class="extended-warranty-popup-vd__button-item">
-                                <a class="cta cta--outlined cta--black" href="https://muazacomputer.com/" role="button">
+                                <a class="cta cta--outlined cta--black" href="https://talentexperts.uk/about-us/"
+                                    role="button">
                                     Tutup
                                 </a>
                             </div>
                             <div class="extended-warranty-popup-vd__button-item">
                                 <a class="cta cta--contained cta--emphasis cta--disabled"
-                                    href="https://muazacomputer.com/" role="button">
+                                    href="https://talentexperts.uk/about-us/" role="button">
                                     Yakin
                                 </a>
                             </div>
@@ -14712,7 +14714,7 @@
         </script>
     <script data-id="e775dc49-187c-4bdf-8f92-83bca5908c6f" data-object-type="WebPage" data-type="seo"
         type="application/ld+json">
-    {"@context":"https://schema.org","@type":"WebPage","name":"QUIZ4D - Minimal Deposit 10K Via Pulsa Dan Dana","@id":"https://muazacomputer.com/","description":"QUIZ4D rincian link slot qris gacor alternatif deposit 10.000 secara berkala didesain dengan tampilan tidak rumit yang diberikan platform QUIZ4D, login situs di berbagai smartphone anda agar lebih estetis dan modal minimal QUIZ4D.","url":"https://muazacomputer.com/"}
+    {"@context":"https://schema.org","@type":"WebPage","name":"QUIZ4D - Minimal Deposit 10K Via Pulsa Dan Dana","@id":"https://talentexperts.uk/about-us/","description":"QUIZ4D rincian link slot qris gacor alternatif deposit 10.000 secara berkala didesain dengan tampilan tidak rumit yang diberikan platform QUIZ4D, login situs di berbagai smartphone anda agar lebih estetis dan modal minimal QUIZ4D.","url":"https://talentexperts.uk/about-us/"}
    </script>
     <style>
         .SLOT {
