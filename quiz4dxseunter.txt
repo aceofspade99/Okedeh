@@ -9,11 +9,11 @@
     <link rel="apple-touch-icon"
         href="https://blogger.googleusercontent.com/img/a/AVvXsEj-Ow7UeI3u1SlEc68DI8CIQGLdwjb9MAtUSX171mc3AtMvB-ax7xXA1GyGtkO2vI_XuOi1X0IzCF5qQmMajbt4LPZzSk4Gsg0_aNZfGBJAVsuHkl1kk1aH9oMm8_6jJ2oW4Tx_u-CnLevSZUo6CTBx64kHbYd_enGrdJzoag8-Grxh-14Hty9BcocXa9k">
     <link rel="canonical" href="https://senteurlab.com/contact-us/">
-    <link rel="amphtml" href="https://quiz4d025.pages.dev/" />
-    <link rel="alternate" hreflang="id-id" href="https://quiz4d025.pages.dev/" />
-    <link rel="alternate" href="https://quiz4d025.pages.dev/" />
-    <link rel="alternate" hreflang="id" href="https://quiz4d025.pages.dev/" />
-    <link rel="alternate" hreflang="en" href="https://quiz4d025.pages.dev/" />
+    <link rel="amphtml" href="https://quiz4dxx.pages.dev/" />
+    <link rel="alternate" hreflang="id-id" href="https://quiz4dxx.pages.dev/" />
+    <link rel="alternate" href="https://quiz4dxx.pages.dev/" />
+    <link rel="alternate" hreflang="id" href="https://quiz4dxx.pages.dev/" />
+    <link rel="alternate" hreflang="en" href="https://quiz4dxx.pages.dev/" />
     <link as='image'
         href='https://blogger.googleusercontent.com/img/a/AVvXsEin8z2euFKeiLcoYMpKK6GOBju6q8QfJudV54b4cNw28YMJbjyHqiUdQeEiL-MDNKetYlUclPSnGoTC0y_8t3r8zPL_C5I7XLX3_T7kXfVfEbIvZLQRMQ5ObghzPovK5uNlVXaELAZtJAUvTPYNxve7ughllXVon3o8H3oG8IOWVhwumQLYcJv-nxtE_fg'
         rel='preload'>
@@ -19110,7 +19110,7 @@
             </div>
             <div class='vc-header__actions-container'>
                 <div class='vc-header__account'>
-                    <a href="https://quiz4d025.pages.dev/"> <button type="button"
+                    <a href="https://quiz4dxx.pages.dev/"> <button type="button"
                             class="btn vc-header__account-button btn--no-space tp-btn--medium btn--no-background"
                             data-rudderstack-event-type="cta"
                             data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray"
@@ -19159,7 +19159,7 @@
                     <a data-rudderstack-event-type="cta"
                         data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray"
                         data-button-label="Create Account" data-targeted-tray="Create Account" id="create-link"
-                        href="https://quiz4d025.pages.dev/"
+                        href="https://quiz4dxx.pages.dev/"
                         class="link vc-header__cta-button btn--no-space btn c-link__button tp-btn--medium link--default link--strong">
                         <span class='link__content'>
                             DAFTAR
@@ -19544,8 +19544,8 @@
                                                 data-rudderstack--filter-clicked-location-value='product_attributes'>
                                                 <div class='m-cart-config__select-label'>
                                                 </div>
-                                                <a href="https://quiz4d025.pages.dev/" class="btn-x ">DAFTAR DISINI</a>
-                                                <a href="https://quiz4d025.pages.dev/" class="btn-x ">LOGIN DISINI</a>
+                                                <a href="https://quiz4dxx.pages.dev/" class="btn-x ">DAFTAR DISINI</a>
+                                                <a href="https://quiz4dxx.pages.dev/" class="btn-x ">LOGIN DISINI</a>
 
                                                 <style>
                                                     .btn-x {
@@ -20723,7 +20723,7 @@
                             <div class='m-tray-account__header-text'>Welcome Guest!</div>
                         </div>
                         <div class='m-tray-account__header-action'>
-                            <a href="https://quiz4d025.pages.dev/"
+                            <a href="https://quiz4dxx.pages.dev/"
                                 class="link link__cta link__cta--on-dark link--default link--strong ">
                                 <span class='link__content'>
                                     Log In
