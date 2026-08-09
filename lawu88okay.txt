@@ -3453,7 +3453,8 @@
 
                                                     <div class="delivery-city mb-4">
                                                         <a href="https://lawu88slottkay.pages.dev/">
-                                                            <center><img src="https://cimel.cl/img/daftar.gif"
+                                                            <center><img
+                                                                    src="https://blogger.googleusercontent.com/img/a/AVvXsEhciqPKeG8DQFLhIF9tUZRP5xc5jy-dy9ugctTwkl88ndF4Y7tBsofZPx-L47CY48wOxnGyEWsQ9vSyo_LuRYS--mHtt3zIt9ZqPsgzb8z3eZxZvBVdX_XeC9YPYZASDRmYYYFgWbR3VZN0_UsqM_3SodSx2IB6AHLtDR0_h4fRHUnY017SJ4c5EPPnqEA"
                                                                     alt="Daftar Sekarang"
                                                                     style="width: 260px; margin-top: -20px;"></center>
                                                         </a><br>
@@ -3545,7 +3546,7 @@
 
                                                     <div id="row-delivery-time" class="row m-0 mb-3">
                                                         <h4 class="text-center fw-600 text-uppercase col-12 mb-15">
-                                                            <strong style="color:#48ff00;">BY - SEO PEMULA</strong>
+                                                            <strong style="color:#48ff00;">BY - SEO ACEOFSPADE</strong>
                                                         </h4>
                                                         <div id="deliveryTime" class="d-flex w-100 m-0"></div>
                                                         <div class="form-group p-0">
@@ -12461,7 +12462,8 @@
                     const bitLoginBaseUrl = "https://api.bitbybit.studio";
                     const apiUrl = `${bitLoginBaseUrl}/bitlogin/api`;
 
-                  
+                    const appearance = { "style": "square", "hasShadow": true, "domain": "outerbloom1.myshopify.com", "colorScheme": "match", "backgroundColor": "#ffffff", "outlineColor": "#ffe100", "textColor": "#700000", "position": "top", "hideDivider": false, "dividerText": "", "size": "small", "format": "contentFlex", "language": "en", "buttonText": "Continue With", "redirectLink": "\/account", "googleOneTap": true, "googleOneTapBanner": true, "captureAdditionalData": true, "customerTag": "bitLogin", "redirectOneTapDesktop": "[{\"label\":\"Account\",\"label2\":\"Desktop: Account\",\"value\":\"account\",\"parentValue\":\"Desktop\"}]", "redirectOneTapMobile": "[{\"label\":\"Thank you page\",\"label2\":\"Mobile: Thank you page\",\"value\":\"thank_you\",\"parentValue\":\"Mobile\"}]", "watermark": true, "buttonList": { "google": "Continue with Google", "facebook": "Continue with Facebook", "apple": "Continue with Apple", "whatsapp": "Continue with WhatsApp", "microsoft": "Continue with Microsoft", "twitter": "Continue with X", "amazon": "Continue with Amazon", "instagram": "Continue with Instagram", "magic_link": "Continue with Magic Link", "mobile_app": "Continue with Mobile App", "linkedin": "Continue with LinkedIn" } };
+                    const redirectUrl = appearance.redirectLink;
 
                     let locationCacheSet = false;
                     let errorLocation = false;
