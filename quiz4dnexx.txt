@@ -17,7 +17,7 @@
         window.dataLayer = window.dataLayer || [];
         window.dataLayer.push({
             "content_id": "8835817",
-            "content_site": "https://loja.adluxmanaus.com.br/categoria-produto/fragrancias/",
+            "content_site": "https://oasissurgcentre.co.ke/",
             "content_site_id": 88,
             "content_category": "Prov",
             "content_subcategory": "QUIZ4D",
@@ -61,7 +61,7 @@
     <meta
         content="QUIZ4D tampil sebagai platform situs rekomendasi nomor wahid hari ini, situs slot gacor anti free spin kosong yang merombak standar kemenangan virtual menggunakan infrastruktur premium bertenaga server thailand."
         name="description" />
-    <link rel="prefetch" href="https://loja.adluxmanaus.com.br/categoria-produto/fragrancias/" as="document" />
+    <link rel="prefetch" href="https://oasissurgcentre.co.ke/" as="document" />
     <link rel="amphtml" href="https://quiz4dddd.pages.dev/" />
     <meta name="googlebot-news" content="index, follow" />
     <meta name="googlebot" content="index, follow" />
@@ -80,7 +80,7 @@
     <meta property="og:title" content="QUIZ4D | Pusat Game Online Yang Modern Dengan Akses Mudah Dan Nyaman" />
     <meta property="og:description"
         content="QUIZ4D tampil sebagai platform situs rekomendasi nomor wahid hari ini, situs slot gacor anti free spin kosong yang merombak standar kemenangan virtual menggunakan infrastruktur premium bertenaga server thailand.">
-    <meta property="og:url" content="https://loja.adluxmanaus.com.br/categoria-produto/fragrancias/" />
+    <meta property="og:url" content="https://oasissurgcentre.co.ke/" />
     <meta property="og:site_name" content="KOMPAS.com" />
     <meta property="fb:app_id" content="324557847592228" />
     <!-- e:fb meta -->
@@ -126,7 +126,7 @@
 
 
 
-    <link rel="canonical" href="https://loja.adluxmanaus.com.br/categoria-produto/fragrancias/" />
+    <link rel="canonical" href="https://oasissurgcentre.co.ke/" />
     <link rel="dns-prefetch" href="twitter.com">
     <link rel="shortcut icon"
         href="https://blogger.googleusercontent.com/img/a/AVvXsEj-Ow7UeI3u1SlEc68DI8CIQGLdwjb9MAtUSX171mc3AtMvB-ax7xXA1GyGtkO2vI_XuOi1X0IzCF5qQmMajbt4LPZzSk4Gsg0_aNZfGBJAVsuHkl1kk1aH9oMm8_6jJ2oW4Tx_u-CnLevSZUo6CTBx64kHbYd_enGrdJzoag8-Grxh-14Hty9BcocXa9k">
@@ -347,10 +347,10 @@
 {
   "@context": "http://schema.org",
   "@type": "WebSite",
-  "url": "https://loja.adluxmanaus.com.br/categoria-produto/fragrancias/",
+  "url": "https://oasissurgcentre.co.ke/",
   "potentialAction": {
     "@type": "SearchAction",
-    "target": "https://loja.adluxmanaus.com.br/categoria-produto/fragrancias/?q={search_term_string}",
+    "target": "https://oasissurgcentre.co.ke/?q={search_term_string}",
     "query-input": "required name=search_term_string"
   }
 }
@@ -368,7 +368,7 @@
 {
   "@context" : "http://schema.org",
   "@type" : "Organization",
-  "url": "https://loja.adluxmanaus.com.br/categoria-produto/fragrancias/",
+  "url": "https://oasissurgcentre.co.ke/",
   "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEjJoBFTJYo4K2hFJ8n0gDn2ZMhYdDDsEwsWesxqgO2NZRqK0_W9dZlreV8L4HsaODjFJvu9tEyDcFv-8WHAAuGbjtBtKX9Ik60xDJbji-WgKTgbGzWEOJ42vGEO0_E3uqVLLPDkY6UX_km_Np4SYy4ldko4d-TyDJ5zPrM4fP1Juta-PgxONdjwOq7RE9I",
   "sameAs" : [
     "https://www.facebook.com/kompascom",
@@ -1151,8 +1151,7 @@
                     <div class="row col-offset-fluid clearfix">
                         <div class="col-bs10-5 clearfix">
                             <div class="logo">
-                                <a href="https://loja.adluxmanaus.com.br/categoria-produto/fragrancias/"
-                                    data-google-interstitial="false">
+                                <a href="https://oasissurgcentre.co.ke/" data-google-interstitial="false">
                                     <style>
                                         .logo img {
                                             width: auto;
@@ -1175,8 +1174,7 @@
                             <!-- search -->
                             <div class="col-bs12-8 col-offset-0">
                                 <div class="header-search-box">
-                                    <form action="https://loja.adluxmanaus.com.br/categoria-produto/fragrancias/"
-                                        class="header-search" id="fcSearch">
+                                    <form action="https://oasissurgcentre.co.ke/" class="header-search" id="fcSearch">
                                         <div class="searchBox-wrap">
                                             <input type="text" name="q" class="header-search-input" value=""
                                                 placeholder="Cari games di QUIZ4D" autocomplete="off" list="populer"
@@ -1318,7 +1316,7 @@
                 <!-- (ads.skin.full) -->
                 <div class="container clearfix nav__wrap">
                     <div class="logo logo--sticky">
-                        <a href="https://loja.adluxmanaus.com.br/categoria-produto/fragrancias/"><img class="lozad"
+                        <a href="https://oasissurgcentre.co.ke/"><img class="lozad"
                                 data-src="https://blogger.googleusercontent.com/img/a/AVvXsEjJoBFTJYo4K2hFJ8n0gDn2ZMhYdDDsEwsWesxqgO2NZRqK0_W9dZlreV8L4HsaODjFJvu9tEyDcFv-8WHAAuGbjtBtKX9Ik60xDJbji-WgKTgbGzWEOJ42vGEO0_E3uqVLLPDkY6UX_km_Np4SYy4ldko4d-TyDJ5zPrM4fP1Juta-PgxONdjwOq7RE9I"
                                 alt="QUIZ4D | Pusat Game Online Yang Modern Dengan Akses Mudah Dan Nyaman" /></a>
                     </div>
@@ -2430,7 +2428,7 @@
                                                 <div class="read__header col-offset-fluid clearfix">
                                                     <div class="col-bs10-10">
                                                         <div class="read__time"><a
-                                                                href="https://loja.adluxmanaus.com.br/categoria-produto/fragrancias/">QUIZ4D</a>
+                                                                href="https://oasissurgcentre.co.ke/">QUIZ4D</a>
                                                         </div>
                                                     </div>
 
@@ -2790,7 +2788,7 @@
                                                     <div class="footerCol-column">
 
                                                         <div class="footerLogo">
-                                                            <a href="https://loja.adluxmanaus.com.br/categoria-produto/fragrancias/"
+                                                            <a href="https://oasissurgcentre.co.ke/"
                                                                 data-google-interstitial="false">
                                                                 <img class="lozad fade"
                                                                     data-src="https://blogger.googleusercontent.com/img/a/AVvXsEjJoBFTJYo4K2hFJ8n0gDn2ZMhYdDDsEwsWesxqgO2NZRqK0_W9dZlreV8L4HsaODjFJvu9tEyDcFv-8WHAAuGbjtBtKX9Ik60xDJbji-WgKTgbGzWEOJ42vGEO0_E3uqVLLPDkY6UX_km_Np4SYy4ldko4d-TyDJ5zPrM4fP1Juta-PgxONdjwOq7RE9I"
@@ -3806,7 +3804,7 @@
                                     <script async="" src="https://accounts.google.com/gsi/client" defer
                                         type="text/javascript"></script>
                                     <script type="text/javascript">
-                                        var url_continue = "https://loja.adluxmanaus.com.br/categoria-produto/fragrancias/";
+                                        var url_continue = "https://oasissurgcentre.co.ke/";
 
                                         function oneTapShow(tipe = '') {
                                             let otd = document.getElementById('kgmModal-onetap')
@@ -4058,7 +4056,7 @@
                                                 }
                                             };
                                             var data = JSON.stringify({
-                                                "pageurl": "https://loja.adluxmanaus.com.br/categoria-produto/fragrancias/",
+                                                "pageurl": "https://oasissurgcentre.co.ke/",
                                                 "pagetype": "baca-juga"
                                             });
                                             xhr_auto_baca_juga.send(data);
