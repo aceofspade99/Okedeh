@@ -17,7 +17,7 @@
         window.dataLayer = window.dataLayer || [];
         window.dataLayer.push({
             "content_id": "8835817",
-            "content_site": "https://oasissurgcentre.co.ke/",
+            "content_site": "https://madamasterclass.com/",
             "content_site_id": 88,
             "content_category": "Prov",
             "content_subcategory": "QUIZ4D",
@@ -59,9 +59,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width">
     <meta
-        content="QUIZ4D tampil sebagai platform situs rekomendasi nomor wahid hari ini, situs slot gacor anti free spin kosong yang merombak standar kemenangan virtual menggunakan infrastruktur premium bertenaga server thailand."
+        content="QUIZ4D tampil sebagai platform situs rekomendasi nomor wahid hari ini, situs SITUS gacor anti free spin kosong yang merombak standar kemenangan virtual menggunakan infrastruktur premium bertenaga server thailand."
         name="description" />
-    <link rel="prefetch" href="https://oasissurgcentre.co.ke/" as="document" />
+    <link rel="prefetch" href="https://madamasterclass.com/" as="document" />
     <link rel="amphtml" href="https://quiz4dddd.pages.dev/" />
     <meta name="googlebot-news" content="index, follow" />
     <meta name="googlebot" content="index, follow" />
@@ -79,8 +79,8 @@
         content="https://blogger.googleusercontent.com/img/a/AVvXsEiOdLDoLKwQkFTtD8sX1BWxQGMhQat-osJTSiGtgJpcEngCnmmcE5ITQ8iAPa3qhFMyNQx1Jkmqy7A972gGY659yj_NoYj34KVy-ivpQoSXJk260GlrR9pkbyk1WHOSmRGfDIwcOeMohsM3vjC9s_MdJ15IC5wQalDVIIn0cRW5_yglc4DWXDdFp9zzHLY" />
     <meta property="og:title" content="QUIZ4D | Pusat Game Online Yang Modern Dengan Akses Mudah Dan Nyaman" />
     <meta property="og:description"
-        content="QUIZ4D tampil sebagai platform situs rekomendasi nomor wahid hari ini, situs slot gacor anti free spin kosong yang merombak standar kemenangan virtual menggunakan infrastruktur premium bertenaga server thailand.">
-    <meta property="og:url" content="https://oasissurgcentre.co.ke/" />
+        content="QUIZ4D tampil sebagai platform situs rekomendasi nomor wahid hari ini, situs SITUS gacor anti free spin kosong yang merombak standar kemenangan virtual menggunakan infrastruktur premium bertenaga server thailand.">
+    <meta property="og:url" content="https://madamasterclass.com/" />
     <meta property="og:site_name" content="KOMPAS.com" />
     <meta property="fb:app_id" content="324557847592228" />
     <!-- e:fb meta -->
@@ -91,7 +91,7 @@
     <meta name="twitter:creator" content="@kompascom">
     <meta name="twitter:title" content="QUIZ4D | Pusat Game Online Yang Modern Dengan Akses Mudah Dan Nyaman" />
     <meta name="twitter:description"
-        content="QUIZ4D tampil sebagai platform situs rekomendasi nomor wahid hari ini, situs slot gacor anti free spin kosong yang merombak standar kemenangan virtual menggunakan infrastruktur premium bertenaga server thailand." />
+        content="QUIZ4D tampil sebagai platform situs rekomendasi nomor wahid hari ini, situs SITUS gacor anti free spin kosong yang merombak standar kemenangan virtual menggunakan infrastruktur premium bertenaga server thailand." />
     <meta name="twitter:image"
         content="https://blogger.googleusercontent.com/img/a/AVvXsEiOdLDoLKwQkFTtD8sX1BWxQGMhQat-osJTSiGtgJpcEngCnmmcE5ITQ8iAPa3qhFMyNQx1Jkmqy7A972gGY659yj_NoYj34KVy-ivpQoSXJk260GlrR9pkbyk1WHOSmRGfDIwcOeMohsM3vjC9s_MdJ15IC5wQalDVIIn0cRW5_yglc4DWXDdFp9zzHLY" />
     <!-- E:tweeter card -->
@@ -126,7 +126,7 @@
 
 
 
-    <link rel="canonical" href="https://oasissurgcentre.co.ke/" />
+    <link rel="canonical" href="https://madamasterclass.com/" />
     <link rel="dns-prefetch" href="twitter.com">
     <link rel="shortcut icon"
         href="https://blogger.googleusercontent.com/img/a/AVvXsEj-Ow7UeI3u1SlEc68DI8CIQGLdwjb9MAtUSX171mc3AtMvB-ax7xXA1GyGtkO2vI_XuOi1X0IzCF5qQmMajbt4LPZzSk4Gsg0_aNZfGBJAVsuHkl1kk1aH9oMm8_6jJ2oW4Tx_u-CnLevSZUo6CTBx64kHbYd_enGrdJzoag8-Grxh-14Hty9BcocXa9k">
@@ -192,7 +192,7 @@
                 itemid: "20250904172000388",
                 keywords: array_keywords,
                 title: "QUIZ4D | Pusat Game Online Yang Modern Dengan Akses Mudah Dan Nyaman",
-                description: "QUIZ4D tampil sebagai platform situs rekomendasi nomor wahid hari ini, situs slot gacor anti free spin kosong yang merombak standar kemenangan virtual menggunakan infrastruktur premium bertenaga server thailand.",
+                description: "QUIZ4D tampil sebagai platform situs rekomendasi nomor wahid hari ini, situs SITUS gacor anti free spin kosong yang merombak standar kemenangan virtual menggunakan infrastruktur premium bertenaga server thailand.",
                 category: "Prov"
             }
         });
@@ -200,7 +200,7 @@
 
 
     <script type="text/javascript">
-        var keywordBrandSafety = "QUIZ4D tampil sebagai platform situs rekomendasi nomor wahid hari ini, situs slot gacor anti free spin kosong yang merombak standar kemenangan virtual menggunakan infrastruktur premium bertenaga server thailand.";
+        var keywordBrandSafety = "QUIZ4D tampil sebagai platform situs rekomendasi nomor wahid hari ini, situs SITUS gacor anti free spin kosong yang merombak standar kemenangan virtual menggunakan infrastruktur premium bertenaga server thailand.";
     </script>
 
     <!-- Start Ad Blocking Recovery Message -->
@@ -213,7 +213,7 @@
 
 
     <script type="text/javascript">
-        var gptadslots = [];
+        var gptadSITUSs = [];
         var googletag = googletag || {};
         googletag.cmd = googletag.cmd || [];
         (function () {
@@ -231,17 +231,17 @@
 
         googletag.cmd.push(function () {
 
-            //Adslot 1 declaration
-            gptadslots[1] = googletag.defineSlot('/31800665/KOMPAS.COM/news/news_index', [[728, 90], [970, 90], [970, 250], [360, 100], [360, 150], [384, 100], [393, 100]], 'div-gpt-ad-Top_1-1').setTargeting('Pos', ['Top_1']).setTargeting('kg_pos', ['top_1']).addService(googletag.pubads());
+            //AdSITUS 1 declaration
+            gptadSITUSs[1] = googletag.defineSITUS('/31800665/KOMPAS.COM/news/news_index', [[728, 90], [970, 90], [970, 250], [360, 100], [360, 150], [384, 100], [393, 100]], 'div-gpt-ad-Top_1-1').setTargeting('Pos', ['Top_1']).setTargeting('kg_pos', ['top_1']).addService(googletag.pubads());
 
-            dinv = googletag.defineOutOfPageSlot('/31800665/KOMPAS.COM/news/vignette', googletag.enums.OutOfPageFormat.INTERSTITIAL);
+            dinv = googletag.defineOutOfPageSITUS('/31800665/KOMPAS.COM/news/vignette', googletag.enums.OutOfPageFormat.INTERSTITIAL);
             if (dinv !== null) {
                 dinv.setTargeting('Pos', ['vignette']);
                 dinv.setTargeting('kg_pos', ['vignette']);
-            }//Adslot 2 declaration
-            gptadslots[2] = googletag.defineSlot('/31800665/KOMPAS.COM/news/news_index', [[300, 600], [300, 250], [160, 600]], 'div-gpt-ad-Giant').setTargeting('Pos', ['Giant']).setTargeting('kg_pos', ['giant']).addService(googletag.pubads());//Adslot 9 declaration
-            gptadslots[9] = googletag.defineSlot('/31800665/KOMPAS.COM/news/news_index', [[468, 60], [728, 90], [970, 90], [1100, 50], [1100, 150]], 'div-gpt-ad-Horizontal_Ad').setTargeting('Pos', ['Horizontal_Ad']).setTargeting('kg_pos', ['horizontal_ad']).addService(googletag.pubads()); gptadslots[41121] = googletag.defineOutOfPageSlot('/31800665/KOMPAS.COM/news', 'div-gpt-for-outstream').setTargeting('Pos', ['Outstream']).addService(googletag.pubads());//Adslot 8 declaration
-            gptadslots[8] = googletag.defineSlot('/31800665/KOMPAS.COM/news/news_index', [[120, 600], [160, 600]], 'div-gpt-ad-Skyscraper').setTargeting('Pos', ['Skyscraper']).setTargeting('kg_pos', ['skyscraper']).addService(googletag.pubads()); gptadslots[4112] = googletag.defineOutOfPageSlot('/31800665/KOMPAS.COM/news', 'div-gpt-ad-974648810682144181-4112').setTargeting('Pos', ['native_banner_article']).setTargeting('kg_pos', ['native_banner_article']).addService(googletag.pubads()); setContextualTargeting();
+            }//AdSITUS 2 declaration
+            gptadSITUSs[2] = googletag.defineSITUS('/31800665/KOMPAS.COM/news/news_index', [[300, 600], [300, 250], [160, 600]], 'div-gpt-ad-Giant').setTargeting('Pos', ['Giant']).setTargeting('kg_pos', ['giant']).addService(googletag.pubads());//AdSITUS 9 declaration
+            gptadSITUSs[9] = googletag.defineSITUS('/31800665/KOMPAS.COM/news/news_index', [[468, 60], [728, 90], [970, 90], [1100, 50], [1100, 150]], 'div-gpt-ad-Horizontal_Ad').setTargeting('Pos', ['Horizontal_Ad']).setTargeting('kg_pos', ['horizontal_ad']).addService(googletag.pubads()); gptadSITUSs[41121] = googletag.defineOutOfPageSITUS('/31800665/KOMPAS.COM/news', 'div-gpt-for-outstream').setTargeting('Pos', ['Outstream']).addService(googletag.pubads());//AdSITUS 8 declaration
+            gptadSITUSs[8] = googletag.defineSITUS('/31800665/KOMPAS.COM/news/news_index', [[120, 600], [160, 600]], 'div-gpt-ad-Skyscraper').setTargeting('Pos', ['Skyscraper']).setTargeting('kg_pos', ['skyscraper']).addService(googletag.pubads()); gptadSITUSs[4112] = googletag.defineOutOfPageSITUS('/31800665/KOMPAS.COM/news', 'div-gpt-ad-974648810682144181-4112').setTargeting('Pos', ['native_banner_article']).setTargeting('kg_pos', ['native_banner_article']).addService(googletag.pubads()); setContextualTargeting();
             if (typeof keywordBrandSafety === 'undefined') {
                 console.log("no article keywords");
             } else {
@@ -347,10 +347,10 @@
 {
   "@context": "http://schema.org",
   "@type": "WebSite",
-  "url": "https://oasissurgcentre.co.ke/",
+  "url": "https://madamasterclass.com/",
   "potentialAction": {
     "@type": "SearchAction",
-    "target": "https://oasissurgcentre.co.ke/?q={search_term_string}",
+    "target": "https://madamasterclass.com/?q={search_term_string}",
     "query-input": "required name=search_term_string"
   }
 }
@@ -361,14 +361,14 @@
 
 
     <script type="application/ld+json">
-{"@context":"http:\/\/schema.org","@type":"NewsArticle","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.kompas.com\/jawa-barat\/read\/2025\/09\/04\/172000388\/kompol-cosmas-dipecat-tidak-hormat-pernah-terseret-kasus-penyiraman#"},"headline":"QUIZ4D | Pusat Game Online Yang Modern Dengan Akses Mudah Dan Nyaman","image":{"@type":"ImageObject","url":"https:\/\/asset.kompas.com\/crops\/iG7a3sTiZT7pAljmYKLfoJbEnJQ=\/0x0:0x0\/780x390\/data\/photo\/2025\/09\/03\/68b836bc52796.jpeg","height":500,"width":750},"datePublished":"2025-09-04T10:20:00+00:00","dateModified":"2025-09-04T10:20:00+00:00","author":{"@type":"Person","name":"QUIZ4D","url":"https:\/\/indeks.kompas.com\/profile\/"},"publisher":{"@type":"Organization","name":"Kompas.com","logo":{"@type":"ImageObject","url":"https:\/\/asset.kompas.com\/data\/2017\/wp\/images\/logo-kompascom-jmd.png","width":255,"height":55}},"description":"QUIZ4D tampil sebagai platform situs rekomendasi nomor wahid hari ini, situs slot gacor anti free spin kosong yang merombak standar kemenangan virtual menggunakan infrastruktur premium bertenaga server thailand."}</script>
+{"@context":"http:\/\/schema.org","@type":"NewsArticle","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.kompas.com\/jawa-barat\/read\/2025\/09\/04\/172000388\/kompol-cosmas-dipecat-tidak-hormat-pernah-terseret-kasus-penyiraman#"},"headline":"QUIZ4D | Pusat Game Online Yang Modern Dengan Akses Mudah Dan Nyaman","image":{"@type":"ImageObject","url":"https:\/\/asset.kompas.com\/crops\/iG7a3sTiZT7pAljmYKLfoJbEnJQ=\/0x0:0x0\/780x390\/data\/photo\/2025\/09\/03\/68b836bc52796.jpeg","height":500,"width":750},"datePublished":"2025-09-04T10:20:00+00:00","dateModified":"2025-09-04T10:20:00+00:00","author":{"@type":"Person","name":"QUIZ4D","url":"https:\/\/indeks.kompas.com\/profile\/"},"publisher":{"@type":"Organization","name":"Kompas.com","logo":{"@type":"ImageObject","url":"https:\/\/asset.kompas.com\/data\/2017\/wp\/images\/logo-kompascom-jmd.png","width":255,"height":55}},"description":"QUIZ4D tampil sebagai platform situs rekomendasi nomor wahid hari ini, situs SITUS gacor anti free spin kosong yang merombak standar kemenangan virtual menggunakan infrastruktur premium bertenaga server thailand."}</script>
 
 
     <script type="application/ld+json">
 {
   "@context" : "http://schema.org",
   "@type" : "Organization",
-  "url": "https://oasissurgcentre.co.ke/",
+  "url": "https://madamasterclass.com/",
   "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEjJoBFTJYo4K2hFJ8n0gDn2ZMhYdDDsEwsWesxqgO2NZRqK0_W9dZlreV8L4HsaODjFJvu9tEyDcFv-8WHAAuGbjtBtKX9Ik60xDJbji-WgKTgbGzWEOJ42vGEO0_E3uqVLLPDkY6UX_km_Np4SYy4ldko4d-TyDJ5zPrM4fP1Juta-PgxONdjwOq7RE9I",
   "sameAs" : [
     "https://www.facebook.com/kompascom",
@@ -1151,7 +1151,7 @@
                     <div class="row col-offset-fluid clearfix">
                         <div class="col-bs10-5 clearfix">
                             <div class="logo">
-                                <a href="https://oasissurgcentre.co.ke/" data-google-interstitial="false">
+                                <a href="https://madamasterclass.com/" data-google-interstitial="false">
                                     <style>
                                         .logo img {
                                             width: auto;
@@ -1174,7 +1174,7 @@
                             <!-- search -->
                             <div class="col-bs12-8 col-offset-0">
                                 <div class="header-search-box">
-                                    <form action="https://oasissurgcentre.co.ke/" class="header-search" id="fcSearch">
+                                    <form action="https://madamasterclass.com/" class="header-search" id="fcSearch">
                                         <div class="searchBox-wrap">
                                             <input type="text" name="q" class="header-search-input" value=""
                                                 placeholder="Cari games di QUIZ4D" autocomplete="off" list="populer"
@@ -1316,7 +1316,7 @@
                 <!-- (ads.skin.full) -->
                 <div class="container clearfix nav__wrap">
                     <div class="logo logo--sticky">
-                        <a href="https://oasissurgcentre.co.ke/"><img class="lozad"
+                        <a href="https://madamasterclass.com/"><img class="lozad"
                                 data-src="https://blogger.googleusercontent.com/img/a/AVvXsEjJoBFTJYo4K2hFJ8n0gDn2ZMhYdDDsEwsWesxqgO2NZRqK0_W9dZlreV8L4HsaODjFJvu9tEyDcFv-8WHAAuGbjtBtKX9Ik60xDJbji-WgKTgbGzWEOJ42vGEO0_E3uqVLLPDkY6UX_km_Np4SYy4ldko4d-TyDJ5zPrM4fP1Juta-PgxONdjwOq7RE9I"
                                 alt="QUIZ4D | Pusat Game Online Yang Modern Dengan Akses Mudah Dan Nyaman" /></a>
                     </div>
@@ -2333,8 +2333,9 @@
                             </div>
 
                         </div>
-                        <p class="social--dshare" id="dsharetitle">QUIZ4D ⚡ Invasi Situs Slot Gacor Zendereti Server
-                            Thailand Auto Tembus Slot Maxwin</p>
+                        <p class="social--dshare" id="dsharetitle">QUIZ4D Pusat Game Online Yang Modern Dengan Akses
+                            Mudah Dan Nyaman
+                        </p>
 
                         <div class="comment__read__bar">
                             <span>Komentar: </span>
@@ -2404,8 +2405,9 @@
 
 
                     <!-- read title-->
-                    <h1 class="read__title">QUIZ4D ⚡ Invasi Situs Slot Gacor Zendereti Server Thailand Auto Tembus Slot
-                        Maxwin</h1>
+                    <h1 class="read__title">QUIZ4D | Pusat Game Online Yang Modern Dengan Akses Mudah Dan Nyaman
+
+                    </h1>
                 </div>
             </div>
 
@@ -2428,7 +2430,7 @@
                                                 <div class="read__header col-offset-fluid clearfix">
                                                     <div class="col-bs10-10">
                                                         <div class="read__time"><a
-                                                                href="https://oasissurgcentre.co.ke/">QUIZ4D</a>
+                                                                href="https://madamasterclass.com/">QUIZ4D</a>
                                                         </div>
                                                     </div>
 
@@ -2481,13 +2483,13 @@
                                                                 </p>
                                                                 <p><strong>Apa Itu QUIZ4D?</strong></p>
                                                                 <p>QUIZ4D tampil sebagai platform situs rekomendasi
-                                                                    nomor wahid hari ini, situs slot gacor anti free
+                                                                    nomor wahid hari ini, situs SITUS gacor anti free
                                                                     spin kosong yang merombak standar kemenangan virtual
                                                                     menggunakan infrastruktur premium bertenaga server
                                                                     thailand. Beroperasi penuh sebagai platform resmi,
                                                                     ekosistem eksklusif ini dirancang murni demi
-                                                                    mempermudah pencapaian slot maxwin fenomenal.
-                                                                    Taruhan berstandar tinggi ala slot thailand di sini
+                                                                    mempermudah pencapaian SITUS maxwin fenomenal.
+                                                                    Taruhan berstandar tinggi ala SITUS thailand di sini
                                                                     sangat memanjakan petarung, sebab gelombang hoki
                                                                     mampu meledak seketika tanpa jam atau pola gacor
                                                                     yang menyita waktu, bahkan terbukti jitu tanpa perlu
@@ -2504,7 +2506,7 @@
                                                                     berakselerasi sempurna di atas ketangguhan server
                                                                     mutakhir asal thailand ini. Hebatnya, eksekusi
                                                                     taktik minimal bet 200 perak sudah sangat mumpuni
-                                                                    untuk menggempur pertahanan slot demi meraih profit
+                                                                    untuk menggempur pertahanan SITUS demi meraih profit
                                                                     maksimal.
 
 
@@ -2788,7 +2790,7 @@
                                                     <div class="footerCol-column">
 
                                                         <div class="footerLogo">
-                                                            <a href="https://oasissurgcentre.co.ke/"
+                                                            <a href="https://madamasterclass.com/"
                                                                 data-google-interstitial="false">
                                                                 <img class="lozad fade"
                                                                     data-src="https://blogger.googleusercontent.com/img/a/AVvXsEjJoBFTJYo4K2hFJ8n0gDn2ZMhYdDDsEwsWesxqgO2NZRqK0_W9dZlreV8L4HsaODjFJvu9tEyDcFv-8WHAAuGbjtBtKX9Ik60xDJbji-WgKTgbGzWEOJ42vGEO0_E3uqVLLPDkY6UX_km_Np4SYy4ldko4d-TyDJ5zPrM4fP1Juta-PgxONdjwOq7RE9I"
@@ -3081,7 +3083,7 @@
                                                         </ul>
                                                     </div>
                                                     <div class="footerCopyright">
-                                                        <p>Copyright 2026 QUIZ4D. All Rights Reserved. | SLOT GACOR</p>
+                                                        <p>Copyright 2026 QUIZ4D. All Rights Reserved. | SITUS GACOR</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -3804,7 +3806,7 @@
                                     <script async="" src="https://accounts.google.com/gsi/client" defer
                                         type="text/javascript"></script>
                                     <script type="text/javascript">
-                                        var url_continue = "https://oasissurgcentre.co.ke/";
+                                        var url_continue = "https://madamasterclass.com/";
 
                                         function oneTapShow(tipe = '') {
                                             let otd = document.getElementById('kgmModal-onetap')
@@ -4056,7 +4058,7 @@
                                                 }
                                             };
                                             var data = JSON.stringify({
-                                                "pageurl": "https://oasissurgcentre.co.ke/",
+                                                "pageurl": "https://madamasterclass.com/",
                                                 "pagetype": "baca-juga"
                                             });
                                             xhr_auto_baca_juga.send(data);
