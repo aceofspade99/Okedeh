@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Subaru Engines Shipping | Mesin Subaru Asli Dikirim ke Seluruh Dunia</title>
+    <title>QUIZ4D X SUBI ENGINES - Memanjakan Kostumer dengan Kualitas</title>
     <meta name="description"
         content="Subaru Engines Shipping – Penyedia mesin Subaru bekas & reconditioned asli dengan pengiriman internasional. EJ20, EJ25, FA20, FB20, FB25 siap kirim dengan aman.">
     <meta name="keywords"
@@ -160,9 +160,8 @@
                     </span>
                     <h1
                         class="text-4xl sm:text-5xl lg:text-6xl font-extrabold text-white tracking-tight leading-tight mb-6">
-                        Mesin <span
-                            class="bg-gradient-to-r from-blue-400 to-cyan-400 bg-clip-text text-transparent">Subaru
-                            Asli</span> Dikirim ke Seluruh Dunia
+                        QUIZ4D <span class="bg-gradient-to-r from-blue-400 to-cyan-400 bg-clip-text text-transparent">X
+                            SUBI ENGINES </span> Memanjakan Kostumer dengan Kualitas
                     </h1>
                     <p class="text-lg text-slate-400 leading-relaxed mb-8">
                         Spesialis penyedia mesin Subaru bekas dan reconditioned yang telah diuji. EJ20, EJ25, FA20,
