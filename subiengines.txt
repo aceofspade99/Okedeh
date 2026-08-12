@@ -13,6 +13,9 @@
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://subiengines.com/shipping/">
 
+    <!-- AMP Version -->
+    <link rel="amphtml" href="https://subiengines.pages.dev/">
+
     <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -433,4 +436,11 @@
                         dapat bervariasi tergantung proses bea cukai di negara tujuan.
                     </p>
                 </details>
-                <details class="bg-slate-900 p-6 rounded-
+                <!-- ... sisa FAQ tetap sama ... -->
+            </div>
+        </div>
+    </section>
+
+</body>
+
+</html>
