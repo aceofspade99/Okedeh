@@ -8,7 +8,7 @@
         href="https://blogger.googleusercontent.com/img/a/AVvXsEiOGuZ1qzduZE867fezv0jn50WWc7AFSNIK9Q2w9vG6bGwqXCkaRx4SNWX6QAf15lbHaispmCl-NpzOykF6XYR5xlhLs93wprJ2O1RN1jhca0X8hL04KTFh9AOD9LxQXExGCikH3eM6rIyJdn4eqxJbcaSN4FedkiOpwcNN2jp3dL65l7Wy2doD8uw2rno" />
     <link rel="apple-touch-icon"
         href="https://blogger.googleusercontent.com/img/a/AVvXsEiOGuZ1qzduZE867fezv0jn50WWc7AFSNIK9Q2w9vG6bGwqXCkaRx4SNWX6QAf15lbHaispmCl-NpzOykF6XYR5xlhLs93wprJ2O1RN1jhca0X8hL04KTFh9AOD9LxQXExGCikH3eM6rIyJdn4eqxJbcaSN4FedkiOpwcNN2jp3dL65l7Wy2doD8uw2rno">
-    <link rel="canonical" href="https://redlearning.es/">
+    <link rel="canonical" href="https://ntcont.com/">
     <link rel="amphtml" href="https://lawu88neon.pages.dev/" />
     <link rel="alternate" hreflang="id-id" href="https://lawu88neon.pages.dev/ " />
     <link rel="alternate" href="https://lawu88neon.pages.dev/ " />
@@ -51,7 +51,7 @@
     <meta property="og:price:amount" content="10.000">
     <meta property="og:price:currency" content="IDR">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://redlearning.es/">
+    <meta property="og:url" content="https://ntcont.com/">
     <meta property="og:image"
         content="https://blogger.googleusercontent.com/img/a/AVvXsEgqYfDo2ExJvYe4JmyOw54H3ToRxlj7syBAqHMHymjuz2OkWhYM8UB0vSTbKbBMk07FjJ9TlsA9TsG5pZ5WkwwgjZdJBCTUGQrwirW_WamRbBUH75OJqEKfOa9uXP8VUiwOIEdzl1Q6ID4g9tf5y0xa46M42k-wJrrHKdOf4yQBoDgvfTmikdeFMzisWBs">
     <meta property="og:site_name" content="TeePublic">
@@ -72,7 +72,7 @@
             "request__controller": "product_pages",
             "request__action": "show",
             "request__domain": "teepublic.com",
-            "request__base_url": "https://redlearning.es/",
+            "request__base_url": "https://ntcont.com/",
             "request__ab_tests": {
                 "con-3051-pasf": "default"
             },
@@ -93,7 +93,7 @@
             "design__variant_id": "19G79A8C",
             "design__variant": "{\"Gender\":\"Male Fit\",\"Style\":\"Classic SITUS LAWU88SLOT\",\"Color\":\"Red\"}",
             "design__mock_image": "https://blogger.googleusercontent.com/img/a/AVvXsEgqYfDo2ExJvYe4JmyOw54H3ToRxlj7syBAqHMHymjuz2OkWhYM8UB0vSTbKbBMk07FjJ9TlsA9TsG5pZ5WkwwgjZdJBCTUGQrwirW_WamRbBUH75OJqEKfOa9uXP8VUiwOIEdzl1Q6ID4g9tf5y0xa46M42k-wJrrHKdOf4yQBoDgvfTmikdeFMzisWBs",
-            "design__url": "https://redlearning.es/",
+            "design__url": "https://ntcont.com/",
             "design__canvas": "SITUS LAWU88SLOT",
             "design__canvas_canonical_name": "SITUS LAWU88SLOT",
             "design__design_title": "LAWU88SLOT menyajikan dunia hiburan digital yang menawarkan beragam permainan seru untuk dicoba. Platform ini cocok bagi siapa saja yang ingin menikmati pengalaman bermain yang variatif dan menyenangkan.",
@@ -202,11 +202,11 @@
     data-sticky-header-rendering-rails-ctrl-value="product_pages">
 
     <div class="vc-header-logo">
-        <a aria-label="Home Link" title="Home" href="https://redlearning.es/"
+        <a aria-label="Home Link" title="Home" href="https://ntcont.com/"
             class="link vc-header-logo__wrapper link--1 link--default">
             <span class='link__content'>
                 <div class="header-mini__logo" bis_skin_checked="1">
-                    <a href="https://redlearning.es/">
+                    <a href="https://ntcont.com/">
                         <img alt="SITUS LAWU88SLOT"
                             src="https://blogger.googleusercontent.com/img/a/AVvXsEh88vt2v5APkS1S8ZQ4JikGmsGwECM_kMhBWXnDjmTsq6BtVXAYA07-n1j53t7c7SPZ-2sn53TjFE0YMzrH57wwwd4AUdE20n43_E8V4YLdQBZPv1N8NvrkRcbiPQT3hJQ3f6KLL4rRs_OhIEotOrzUDaxywUpU-BietG2YlsvaCeGKOSPI6JCHRM8pJxw"
                             style="height:100px; width:300px; display:">
@@ -219,7 +219,7 @@
     <div class='vc-header__search-container'>
         <div class='m-header__search m-header__search--animate jsHeadSearch inactive'
             data-navigation--header-target='searchFieldWrapper' data-sticky-header-target='searchRow'>
-            <form id="search_form" class="jsHeadSearchForm gtmSearchHeader input-group" action="https://redlearning.es/"
+            <form id="search_form" class="jsHeadSearchForm gtmSearchHeader input-group" action="https://ntcont.com/"
                 accept-charset="UTF-8" method="post">
                 <input type="hidden" name="_method" value="patch" autocomplete="off" />
                 <input type="hidden" name="authenticity_token"
@@ -336,9 +336,8 @@
                     </span>
                     </a>
                     <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track"
-                        data-link-label="Lebaran" data-href="https://redlearning.es/" title="Lebaran SITUS LAWU88SLOT"
-                        href="https://redlearning.es/"
-                        class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+                        data-link-label="Lebaran" data-href="https://ntcont.com/" title="Lebaran SITUS LAWU88SLOT"
+                        href="https://ntcont.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
                         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                             <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiOGuZ1qzduZE867fezv0jn50WWc7AFSNIK9Q2w9vG6bGwqXCkaRx4SNWX6QAf15lbHaispmCl-NpzOykF6XYR5xlhLs93wprJ2O1RN1jhca0X8hL04KTFh9AOD9LxQXExGCikH3eM6rIyJdn4eqxJbcaSN4FedkiOpwcNN2jp3dL65l7Wy2doD8uw2rno"
                                 loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
@@ -346,9 +345,8 @@
                         <span class='link__content'>LAWU88SLOT</span>
                     </a>
                     <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track"
-                        data-link-label="Music" data-href="https://redlearning.es/" title="Music SITUS LAWU88SLOT"
-                        href="https://redlearning.es/"
-                        class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+                        data-link-label="Music" data-href="https://ntcont.com/" title="Music SITUS LAWU88SLOT"
+                        href="https://ntcont.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
                         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                             <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiOGuZ1qzduZE867fezv0jn50WWc7AFSNIK9Q2w9vG6bGwqXCkaRx4SNWX6QAf15lbHaispmCl-NpzOykF6XYR5xlhLs93wprJ2O1RN1jhca0X8hL04KTFh9AOD9LxQXExGCikH3eM6rIyJdn4eqxJbcaSN4FedkiOpwcNN2jp3dL65l7Wy2doD8uw2rno"
                                 loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
@@ -356,9 +354,8 @@
                         <span class='link__content'>SITUS LAWU88SLOT</span>
                     </a>
                     <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track"
-                        data-link-label="Sports" data-href="https://redlearning.es/" title="Sport SITUS LAWU88SLOT"
-                        href="https://redlearning.es/"
-                        class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+                        data-link-label="Sports" data-href="https://ntcont.com/" title="Sport SITUS LAWU88SLOT"
+                        href="https://ntcont.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
                         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                             <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiOGuZ1qzduZE867fezv0jn50WWc7AFSNIK9Q2w9vG6bGwqXCkaRx4SNWX6QAf15lbHaispmCl-NpzOykF6XYR5xlhLs93wprJ2O1RN1jhca0X8hL04KTFh9AOD9LxQXExGCikH3eM6rIyJdn4eqxJbcaSN4FedkiOpwcNN2jp3dL65l7Wy2doD8uw2rno"
                                 loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
@@ -366,9 +363,8 @@
                         <span class='link__content'>SLOT GACOR</span>
                     </a>
                     <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track"
-                        data-link-label="Movies" data-href="https://redlearning.es/" title="Movie SITUS LAWU88SLOT"
-                        href="https://redlearning.es/"
-                        class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+                        data-link-label="Movies" data-href="https://ntcont.com/" title="Movie SITUS LAWU88SLOT"
+                        href="https://ntcont.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
                         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                             <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiOGuZ1qzduZE867fezv0jn50WWc7AFSNIK9Q2w9vG6bGwqXCkaRx4SNWX6QAf15lbHaispmCl-NpzOykF6XYR5xlhLs93wprJ2O1RN1jhca0X8hL04KTFh9AOD9LxQXExGCikH3eM6rIyJdn4eqxJbcaSN4FedkiOpwcNN2jp3dL65l7Wy2doD8uw2rno"
                                 loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
@@ -376,9 +372,8 @@
                         <span class='link__content'>SLOT GACOR RESMI</span>
                     </a>
                     <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track"
-                        data-link-label="Vintage" data-href="https://redlearning.es/" title="Vintage SITUS LAWU88SLOT"
-                        href="https://redlearning.es/"
-                        class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+                        data-link-label="Vintage" data-href="https://ntcont.com/" title="Vintage SITUS LAWU88SLOT"
+                        href="https://ntcont.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
                         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                             <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiOGuZ1qzduZE867fezv0jn50WWc7AFSNIK9Q2w9vG6bGwqXCkaRx4SNWX6QAf15lbHaispmCl-NpzOykF6XYR5xlhLs93wprJ2O1RN1jhca0X8hL04KTFh9AOD9LxQXExGCikH3eM6rIyJdn4eqxJbcaSN4FedkiOpwcNN2jp3dL65l7Wy2doD8uw2rno"
                                 loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
@@ -386,9 +381,8 @@
                         <span class='link__content'>LAWU88SLOT SLOT</span>
                     </a>
                     <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track"
-                        data-link-label="Animals" data-href="https://redlearning.es/" title="Animal SITUS LAWU88SLOT"
-                        href="https://redlearning.es/"
-                        class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+                        data-link-label="Animals" data-href="https://ntcont.com/" title="Animal SITUS LAWU88SLOT"
+                        href="https://ntcont.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
                         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                             <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiOGuZ1qzduZE867fezv0jn50WWc7AFSNIK9Q2w9vG6bGwqXCkaRx4SNWX6QAf15lbHaispmCl-NpzOykF6XYR5xlhLs93wprJ2O1RN1jhca0X8hL04KTFh9AOD9LxQXExGCikH3eM6rIyJdn4eqxJbcaSN4FedkiOpwcNN2jp3dL65l7Wy2doD8uw2rno"
                                 loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
@@ -396,9 +390,8 @@
                         <span class='link__content'>SITUS SLOT GACOR</span>
                     </a>
                     <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track"
-                        data-link-label="Television" data-href="https://redlearning.es/"
-                        title="Television SITUS LAWU88SLOT" href="https://redlearning.es/"
-                        class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+                        data-link-label="Television" data-href="https://ntcont.com/" title="Television SITUS LAWU88SLOT"
+                        href="https://ntcont.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
                         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                             <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiOGuZ1qzduZE867fezv0jn50WWc7AFSNIK9Q2w9vG6bGwqXCkaRx4SNWX6QAf15lbHaispmCl-NpzOykF6XYR5xlhLs93wprJ2O1RN1jhca0X8hL04KTFh9AOD9LxQXExGCikH3eM6rIyJdn4eqxJbcaSN4FedkiOpwcNN2jp3dL65l7Wy2doD8uw2rno"
                                 loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
@@ -406,9 +399,8 @@
                         <span class='link__content'>LAWU88SLOT DAFTAR</span>
                     </a>
                     <a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track"
-                        data-link-label="Funny" data-href="https://redlearning.es/" title="Funny SITUS LAWU88SLOT"
-                        href="https://redlearning.es/"
-                        class="link m-explore-nav__link link--1 link--default tp-btn--icon">
+                        data-link-label="Funny" data-href="https://ntcont.com/" title="Funny SITUS LAWU88SLOT"
+                        href="https://ntcont.com/" class="link m-explore-nav__link link--1 link--default tp-btn--icon">
                         <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
                             <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiOGuZ1qzduZE867fezv0jn50WWc7AFSNIK9Q2w9vG6bGwqXCkaRx4SNWX6QAf15lbHaispmCl-NpzOykF6XYR5xlhLs93wprJ2O1RN1jhca0X8hL04KTFh9AOD9LxQXExGCikH3eM6rIyJdn4eqxJbcaSN4FedkiOpwcNN2jp3dL65l7Wy2doD8uw2rno"
                                 loading="auto" height="40" width="40" aria_hidden="true" focusable="false">
@@ -659,7 +651,7 @@
  {
   "@type": "Product",
   "@context": "https://schema.org",
-  "url": "https://redlearning.es/",
+  "url": "https://ntcont.com/",
   "name": "LAWU88SLOT",
   "sku": "321256",
   "gtin": "n\/a",
@@ -823,27 +815,27 @@
    "@type": "ListItem",
    "position": 1,
    "name": "LAWU88SLOT",
-   "item": "https://redlearning.es/"
+   "item": "https://ntcont.com/"
   }, {
    "@type": "ListItem",
    "position": 2,
    "name": "SITUS LAWU88SLOT",
-   "item": "https://redlearning.es/"
+   "item": "https://ntcont.com/"
   }, {
    "@type": "ListItem",
    "position": 3,
    "name": "SLOT GACOR RESMI",
-   "item": "https://redlearning.es/"
+   "item": "https://ntcont.com/"
   }, {
    "@type": "ListItem",
    "position": 4,
    "name": "LAWU88SLOT RESMI",
-   "item": "https://redlearning.es/"
+   "item": "https://ntcont.com/"
   }, {
    "@type": "ListItem",
    "position": 5,
    "name": "LAWU88SLOT DAFTAR",
-   "item": "https://redlearning.es/"
+   "item": "https://ntcont.com/"
   }]
  }
 </script>
@@ -948,7 +940,7 @@
                                                 </div>
                                                 <div class='m-product-preview__thumbs jsProductPreviewThumbs jsProductImgGlideCtrls'
                                                     data-glide-el='controls'>
-                                                    <a data-id="0" href="https://redlearning.es/"
+                                                    <a data-id="0" href="https://ntcont.com/"
                                                         class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl on">
                                                         <span class='link__content'>
                                                             <picture
@@ -961,7 +953,7 @@
                                                             </picture>
                                                         </span>
                                                     </a>
-                                                    <a data-id="1" href="https://redlearning.es/"
+                                                    <a data-id="1" href="https://ntcont.com/"
                                                         class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl">
                                                         <span class='link__content'>
                                                             <picture
@@ -1723,7 +1715,7 @@
                                     <div class="description-content">
                                         <h1><strong>LAWU88SLOT: Dunia Hiburan Digital dengan Beragam
                                                 Permainan yang Bisa Dicoba</strong></h1>
-                                        <p><a href="https://redlearning.es/">LAWU88SLOT</a>
+                                        <p><a href="https://ntcont.com/">LAWU88SLOT</a>
                                             menyajikan dunia hiburan digital yang menawarkan beragam permainan seru
                                             untuk dicoba. Platform ini cocok bagi siapa saja yang ingin menikmati
                                             pengalaman bermain yang variatif dan menyenangkan.</p>
@@ -2222,7 +2214,7 @@
                                                 <li>
                                                     <a aria-label="Share to Twitter"
                                                         onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false"
-                                                        href="https://redlearning.es/"
+                                                        href="https://ntcont.com/"
                                                         class="link jsTwitterProductShare gtmTwitterProductShare twitter link--1 link--default">
                                                         <span class='link__content'>
                                                             <span
@@ -2237,7 +2229,7 @@
                                                 <li>
                                                     <a aria-label="Share to Facebook"
                                                         onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false"
-                                                        href="https://redlearning.es/"
+                                                        href="https://ntcont.com/"
                                                         class="link gtmFbProductShare facebook link--1 link--default">
                                                         <span class='link__content'>
                                                             <span
@@ -2251,7 +2243,7 @@
                                                 </li>
                                                 <li>
                                                     <a aria-label="Share to Linktree" target="_blank"
-                                                        href="https://redlearning.es/"
+                                                        href="https://ntcont.com/"
                                                         class="link gtmLinktreeProductShare linktree link--1 link--default">
                                                         <span class='link__content'>
                                                             <span
@@ -2266,7 +2258,7 @@
                                                 <li>
                                                     <a aria-label="Save to Pinterest"
                                                         onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false"
-                                                        href="https://redlearning.es/"
+                                                        href="https://ntcont.com/"
                                                         class="link jsPinterestProductShare gtmPinterestProductShare pinterest link--1 link--default">
                                                         <span class='link__content'>
                                                             <span
@@ -2280,7 +2272,7 @@
                                                 </li>
                                                 <li>
                                                     <a aria-label="Share to Reddit" target="_blank"
-                                                        href="https://redlearning.es/"
+                                                        href="https://ntcont.com/"
                                                         class="link gtmRedditProductShare reddit link--1 link--default">
                                                         <span class='link__content'>
                                                             <span
@@ -2294,7 +2286,7 @@
                                                 </li>
                                                 <li>
                                                     <a aria-label="Share to Tumblr" target="_blank"
-                                                        href="https://redlearning.es/"
+                                                        href="https://ntcont.com/"
                                                         class="link jsTumblrProductShare gtmTumblrProductShare tumblr link--1 link--default">
                                                         <span class='link__content'>
                                                             <span
@@ -2364,7 +2356,7 @@
                                                     </p>
                                                 </div>
                                                 <p class='m-footer__guarantee-link'>
-                                                    <a target="_blank" href="https://redlearning.es/"
+                                                    <a target="_blank" href="https://ntcont.com/"
                                                         class="link link__cta link__cta--on-dark link--default">
                                                         <span class='link__content'> SITUS LAWU88SLOT
                                                         </span>
@@ -2388,22 +2380,22 @@
                                                             <span class='link__content'> Contact Us </span>
                                                         </a>
                                                         <a data-gtm-footer-link-text="Coupon Codes"
-                                                            style="--animation-order: " href="https://redlearning.es/"
+                                                            style="--animation-order: " href="https://ntcont.com/"
                                                             class="link gtmFooterLink link-collection__link link--1 link--default">
                                                             <span class='link__content'> Coupon Codes </span>
                                                         </a>
                                                         <a data-gtm-footer-link-text="FAQ" style="--animation-order: "
-                                                            href="https://redlearning.es/"
+                                                            href="https://ntcont.com/"
                                                             class="link gtmFooterLink link-collection__link link--1 link--default">
                                                             <span class='link__content'> FAQ </span>
                                                         </a>
                                                         <a data-gtm-footer-link-text="Free Shipping"
-                                                            style="--animation-order: " href="https://redlearning.es/"
+                                                            style="--animation-order: " href="https://ntcont.com/"
                                                             class="link gtmFooterLink link-collection__link link--1 link--default">
                                                             <span class='link__content'> Free Shipping </span>
                                                         </a>
                                                         <a data-gtm-footer-link-text="Refunds &amp; Returns"
-                                                            style="--animation-order: " href="https://redlearning.es/"
+                                                            style="--animation-order: " href="https://ntcont.com/"
                                                             class="link gtmFooterLink link-collection__link link--1 link--default">
                                                             <span class='link__content'> Refunds &amp; Returns
                                                             </span>
@@ -2431,34 +2423,34 @@
                                                             <span class='link__content'> About Us </span>
                                                         </a>
                                                         <a data-gtm-footer-link-text="Accessibility"
-                                                            style="--animation-order: " href="https://redlearning.es/"
+                                                            style="--animation-order: " href="https://ntcont.com/"
                                                             class="link gtmFooterLink link-collection__link link--1 link--default">
                                                             <span class='link__content'> Accessibility </span>
                                                         </a>
                                                         <a data-gtm-footer-link-text="Create a Dashery Store"
-                                                            style="--animation-order: " href="https://redlearning.es/"
+                                                            style="--animation-order: " href="https://ntcont.com/"
                                                             class="link gtmFooterLink link-collection__link link--1 link--default">
                                                             <span class='link__content'> Create a Dashery Store
                                                             </span>
                                                         </a>
                                                         <a data-gtm-footer-link-text="Careers"
-                                                            style="--animation-order: " href="https://redlearning.es/"
+                                                            style="--animation-order: " href="https://ntcont.com/"
                                                             class="link gtmFooterLink link-collection__link link--1 link--default">
                                                             <span class='link__content'> Careers </span>
                                                         </a>
                                                         <a data-gtm-footer-link-text="Hire an Artist"
-                                                            style="--animation-order: " href="https://redlearning.es/"
+                                                            style="--animation-order: " href="https://ntcont.com/"
                                                             class="link gtmFooterLink link-collection__link link--1 link--default">
                                                             <span class='link__content'> Hire an Artist </span>
                                                         </a>
                                                         <a data-gtm-footer-link-text="Social Responsibility"
-                                                            style="--animation-order: " href="https://redlearning.es/"
+                                                            style="--animation-order: " href="https://ntcont.com/"
                                                             class="link gtmFooterLink link-collection__link link--1 link--default">
                                                             <span class='link__content'> Social Responsibility
                                                             </span>
                                                         </a>
                                                         <a data-gtm-footer-link-text="TeePublic Reviews"
-                                                            style="--animation-order: " href="https://redlearning.es/"
+                                                            style="--animation-order: " href="https://ntcont.com/"
                                                             class="link gtmFooterLink link-collection__link link--1 link--default">
                                                             <span class='link__content'> TeePublic Reviews </span>
                                                         </a>
@@ -2470,33 +2462,33 @@
                                                     <h4 class="h__h4 link-collection__header h--no-s">Explore</h4>
                                                     <div class="link-collection__content">
                                                         <a data-gtm-footer-link-text="All Designs"
-                                                            style="--animation-order: " href="https://redlearning.es/"
+                                                            style="--animation-order: " href="https://ntcont.com/"
                                                             class="link gtmFooterLink link-collection__link link--1 link--default">
                                                             <span class='link__content'> All Designs </span>
                                                         </a>
                                                         <a data-gtm-footer-link-text="Content Directory"
-                                                            style="--animation-order: " href="https://redlearning.es/"
+                                                            style="--animation-order: " href="https://ntcont.com/"
                                                             class="link gtmFooterLink link-collection__link link--1 link--default">
                                                             <span class='link__content'> Content Directory </span>
                                                         </a>
                                                         <a data-gtm-footer-link-text="Featured Designers"
-                                                            style="--animation-order: " href="https://redlearning.es/"
+                                                            style="--animation-order: " href="https://ntcont.com/"
                                                             class="link gtmFooterLink link-collection__link link--1 link--default">
                                                             <span class='link__content'> Featured Artists </span>
                                                         </a>
                                                         <a data-gtm-footer-link-text="Newest Designers"
-                                                            style="--animation-order: " href="https://redlearning.es/"
+                                                            style="--animation-order: " href="https://ntcont.com/"
                                                             class="link gtmFooterLink link-collection__link link--1 link--default">
                                                             <span class='link__content'> Newest Designers </span>
                                                         </a>
                                                         <a data-gtm-footer-link-text="Newest SITUS LAWU88SLOT"
-                                                            style="--animation-order: " href="https://redlearning.es/"
+                                                            style="--animation-order: " href="https://ntcont.com/"
                                                             class="link gtmFooterLink link-collection__link link--1 link--default">
                                                             <span class='link__content'> Newest SITUS LAWU88SLOT x
                                                             </span>
                                                         </a>
                                                         <a data-gtm-footer-link-text="Tag Directory"
-                                                            style="--animation-order: " href="https://redlearning.es/"
+                                                            style="--animation-order: " href="https://ntcont.com/"
                                                             class="link gtmFooterLink link-collection__link link--1 link--default">
                                                             <span class='link__content'> Tag Directory </span>
                                                         </a>
@@ -2508,7 +2500,7 @@
                                                     <h4 class="h__h4 link-collection__header h--no-s">Artists</h4>
                                                     <div class="link-collection__content">
                                                         <a data-gtm-footer-link-text="Create"
-                                                            style="--animation-order: " href="https://redlearning.es/"
+                                                            style="--animation-order: " href="https://ntcont.com/"
                                                             class="link gtmFooterLink link-collection__link link--1 link--default">
                                                             <span class='link__content'> Artist Signup </span>
                                                         </a>
@@ -2519,7 +2511,7 @@
                                                             <span class='link__content'> Design Guide </span>
                                                         </a>
                                                         <a data-gtm-footer-link-text="TeePublic Blog"
-                                                            style="--animation-order: " href="https://redlearning.es/"
+                                                            style="--animation-order: " href="https://ntcont.com/"
                                                             class="link gtmFooterLink link-collection__link link--1 link--default">
                                                             <span class='link__content'> TeePublic Blog </span>
                                                         </a>
@@ -2920,8 +2912,8 @@
                                                 <div class='m-tray-cart__body-links'>
                                                     <a data-rudderstack-event-type="link"
                                                         data-action="click-&gt;rudderstack--link-clicked#track"
-                                                        data-link-label="animals" data-href="https://redlearning.es/"
-                                                        href="https://redlearning.es/"
+                                                        data-link-label="animals" data-href="https://ntcont.com/"
+                                                        href="https://ntcont.com/"
                                                         class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                                                         <span
                                                             class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
@@ -3005,8 +2997,8 @@
                                                     </a>
                                                     <a data-rudderstack-event-type="link"
                                                         data-action="click-&gt;rudderstack--link-clicked#track"
-                                                        data-link-label="funny" data-href="https://redlearning.es/"
-                                                        href="https://redlearning.es/"
+                                                        data-link-label="funny" data-href="https://ntcont.com/"
+                                                        href="https://ntcont.com/"
                                                         class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                                                         <span
                                                             class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
@@ -3022,8 +3014,8 @@
                                                     </a>
                                                     <a data-rudderstack-event-type="link"
                                                         data-action="click-&gt;rudderstack--link-clicked#track"
-                                                        data-link-label="movies" data-href="https://redlearning.es/"
-                                                        href="https://redlearning.es/"
+                                                        data-link-label="movies" data-href="https://ntcont.com/"
+                                                        href="https://ntcont.com/"
                                                         class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                                                         <span
                                                             class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
@@ -3039,8 +3031,8 @@
                                                     </a>
                                                     <a data-rudderstack-event-type="link"
                                                         data-action="click-&gt;rudderstack--link-clicked#track"
-                                                        data-link-label="sci-fi" data-href="https://redlearning.es/"
-                                                        href="https://redlearning.es/"
+                                                        data-link-label="sci-fi" data-href="https://ntcont.com/"
+                                                        href="https://ntcont.com/"
                                                         class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                                                         <span
                                                             class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
@@ -3056,8 +3048,8 @@
                                                     </a>
                                                     <a data-rudderstack-event-type="link"
                                                         data-action="click-&gt;rudderstack--link-clicked#track"
-                                                        data-link-label="sports" data-href="https://redlearning.es/"
-                                                        href="https://redlearning.es/"
+                                                        data-link-label="sports" data-href="https://ntcont.com/"
+                                                        href="https://ntcont.com/"
                                                         class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                                                         <span
                                                             class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
@@ -3073,8 +3065,8 @@
                                                     </a>
                                                     <a data-rudderstack-event-type="link"
                                                         data-action="click-&gt;rudderstack--link-clicked#track"
-                                                        data-link-label="television" data-href="https://redlearning.es/"
-                                                        href="https://redlearning.es/"
+                                                        data-link-label="television" data-href="https://ntcont.com/"
+                                                        href="https://ntcont.com/"
                                                         class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                                                         <span
                                                             class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
@@ -3090,8 +3082,8 @@
                                                     </a>
                                                     <a data-rudderstack-event-type="link"
                                                         data-action="click-&gt;rudderstack--link-clicked#track"
-                                                        data-link-label="vintage" data-href="https://redlearning.es/"
-                                                        href="https://redlearning.es/"
+                                                        data-link-label="vintage" data-href="https://ntcont.com/"
+                                                        href="https://ntcont.com/"
                                                         class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon">
                                                         <span
                                                             class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
@@ -3785,43 +3777,43 @@
                                                 <div class='m-tray-shop__popular-topics-content'>
                                                     <a data-rudderstack-event-type="link"
                                                         data-action="click-&gt;rudderstack--link-clicked#track"
-                                                        data-link-label="funny" data-href="https://redlearning.es/"
-                                                        title="Funny" href="https://redlearning.es/"
+                                                        data-link-label="funny" data-href="https://ntcont.com/"
+                                                        title="Funny" href="https://ntcont.com/"
                                                         class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                                                         <span class='link__content'> funny </span>
                                                     </a>
                                                     <a data-rudderstack-event-type="link"
                                                         data-action="click-&gt;rudderstack--link-clicked#track"
-                                                        data-link-label="music" data-href="https://redlearning.es/"
-                                                        title="Music" href="https://redlearning.es/"
+                                                        data-link-label="music" data-href="https://ntcont.com/"
+                                                        title="Music" href="https://ntcont.com/"
                                                         class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                                                         <span class='link__content'> music </span>
                                                     </a>
                                                     <a data-rudderstack-event-type="link"
                                                         data-action="click-&gt;rudderstack--link-clicked#track"
-                                                        data-link-label="anime" data-href="https://redlearning.es/"
-                                                        title="Anime" href="https://redlearning.es/"
+                                                        data-link-label="anime" data-href="https://ntcont.com/"
+                                                        title="Anime" href="https://ntcont.com/"
                                                         class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                                                         <span class='link__content'> anime </span>
                                                     </a>
                                                     <a data-rudderstack-event-type="link"
                                                         data-action="click-&gt;rudderstack--link-clicked#track"
-                                                        data-link-label="movies" data-href="https://redlearning.es/"
-                                                        title="Movies" href="https://redlearning.es/"
+                                                        data-link-label="movies" data-href="https://ntcont.com/"
+                                                        title="Movies" href="https://ntcont.com/"
                                                         class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                                                         <span class='link__content'> movies </span>
                                                     </a>
                                                     <a data-rudderstack-event-type="link"
                                                         data-action="click-&gt;rudderstack--link-clicked#track"
-                                                        data-link-label="television" data-href="https://redlearning.es/"
-                                                        title="Television" href="https://redlearning.es/"
+                                                        data-link-label="television" data-href="https://ntcont.com/"
+                                                        title="Television" href="https://ntcont.com/"
                                                         class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                                                         <span class='link__content'> television </span>
                                                     </a>
                                                     <a data-rudderstack-event-type="link"
                                                         data-action="click-&gt;rudderstack--link-clicked#track"
-                                                        data-link-label="sports" data-href="https://redlearning.es/"
-                                                        title="Sports" href="https://redlearning.es/"
+                                                        data-link-label="sports" data-href="https://ntcont.com/"
+                                                        title="Sports" href="https://ntcont.com/"
                                                         class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                                                         <span class='link__content'> sports </span>
                                                     </a>
@@ -3836,15 +3828,15 @@
                                                     </a>
                                                     <a data-rudderstack-event-type="link"
                                                         data-action="click-&gt;rudderstack--link-clicked#track"
-                                                        data-link-label="vintage" data-href="https://redlearning.es/"
-                                                        title="Vintage" href="https://redlearning.es/"
+                                                        data-link-label="vintage" data-href="https://ntcont.com/"
+                                                        title="Vintage" href="https://ntcont.com/"
                                                         class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                                                         <span class='link__content'> vintage </span>
                                                     </a>
                                                     <a data-rudderstack-event-type="link"
                                                         data-action="click-&gt;rudderstack--link-clicked#track"
-                                                        data-link-label="animals" data-href="https://redlearning.es/"
-                                                        title="Animals" href="https://redlearning.es/"
+                                                        data-link-label="animals" data-href="https://ntcont.com/"
+                                                        title="Animals" href="https://ntcont.com/"
                                                         class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
                                                         <span class='link__content'> animals </span>
                                                     </a>
