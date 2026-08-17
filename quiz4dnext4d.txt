@@ -13,7 +13,7 @@
     <meta name="description"
         content="QUIZ4D menawarkan Official Bandar Slot Online Resmi menghadirkan berbagai permainan terbaru yang selalu diperbarui, fitur modern, akses mudah, dan pengalaman bermain lebih seru.">
     <meta name="google-site-verification" content="-tsu44X-eoMd_SfapLtR8i1EzUZPjcoZQVQTH0ZG_M4" />
-    <link rel="canonical" href="https://zucpercorp.com/sobrenosostros/">
+    <link rel="canonical" href="https://zucpercorp.com/contactos/">
     <link rel="amphtml" href="https://quiz4dnext4.pages.dev/" />
     <link rel="alternate" hreflang="id-id" href="https://quiz4dnext4.pages.dev/" />
     <link rel="alternate" href="https://quiz4dnext4.pages.dev/" />
@@ -39,7 +39,7 @@
         content="QUIZ4D menawarkan Official Bandar Slot Online Resmi menghadirkan berbagai permainan terbaru yang selalu diperbarui, fitur modern, akses mudah, dan pengalaman bermain lebih seru.">
     <meta property="og:price:amount" content="5,000-,">
     <meta property="og:price:currency" content="IDR">
-    <meta property="og:url" content="https://zucpercorp.com/sobrenosostros/">
+    <meta property="og:url" content="https://zucpercorp.com/contactos/">
     <meta property="og:site_name" content="QUIZ4D">
     <meta name="twitter:site" content="@QUIZ4D">
     <meta name="twitter:card" content="summary">
@@ -490,7 +490,7 @@
 
 
                     <div class="notification__message text-center">
-                        <p><a href="https://zucpercorp.com/sobrenosostros/" title="QUIZ4D">QUIZ4D ⚡ Official Bandar Slot
+                        <p><a href="https://zucpercorp.com/contactos/" title="QUIZ4D">QUIZ4D ⚡ Official Bandar Slot
                                 Online Resmi
                                 dengan Game Terbaru Selalu Update</a></p>
                     </div>
@@ -510,7 +510,7 @@
                 style="background-image: url(https://imgkita.digital/images/2025/12/31/norman-suarno-rom-day.jpeg); background-attachment: fixed;">
                 <div class="container">
                     <div class="header-container row justify-content-between pl-lg-0 pr-lg-0">
-                        <a href="https://zucpercorp.com/sobrenosostros/">
+                        <a href="https://zucpercorp.com/contactos/">
                             <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjJoBFTJYo4K2hFJ8n0gDn2ZMhYdDDsEwsWesxqgO2NZRqK0_W9dZlreV8L4HsaODjFJvu9tEyDcFv-8WHAAuGbjtBtKX9Ik60xDJbji-WgKTgbGzWEOJ42vGEO0_E3uqVLLPDkY6UX_km_Np4SYy4ldko4d-TyDJ5zPrM4fP1Juta-PgxONdjwOq7RE9I"
                                 alt="logo-QUIZ4D" style="width: 190px;"></a>
                         <link
@@ -567,7 +567,7 @@
 
                         <div class="header-icon-right header-icons col-3">
                             <div class="icon icon-account-header d-none d-lg-block">
-                                <a href="https://zucpercorp.com/sobrenosostros/">
+                                <a href="https://zucpercorp.com/contactos/">
                                     <svg xmlns="https://blogger.googleusercontent.com/img/a/AVvXsEjJoBFTJYo4K2hFJ8n0gDn2ZMhYdDDsEwsWesxqgO2NZRqK0_W9dZlreV8L4HsaODjFJvu9tEyDcFv-8WHAAuGbjtBtKX9Ik60xDJbji-WgKTgbGzWEOJ42vGEO0_E3uqVLLPDkY6UX_km_Np4SYy4ldko4d-TyDJ5zPrM4fP1Juta-PgxONdjwOq7RE9I"
                                         width="20" height="21" viewBox="0 0 20 21" fill="none">
                                         <path
@@ -581,7 +581,7 @@
                                 </a>
                             </div>
                             <div class="icon icon-wishlist-header">
-                                <a href="https://zucpercorp.com/sobrenosostros/">
+                                <a href="https://zucpercorp.com/contactos/">
                                     <svg xmlns="https://blogger.googleusercontent.com/img/a/AVvXsEjJoBFTJYo4K2hFJ8n0gDn2ZMhYdDDsEwsWesxqgO2NZRqK0_W9dZlreV8L4HsaODjFJvu9tEyDcFv-8WHAAuGbjtBtKX9Ik60xDJbji-WgKTgbGzWEOJ42vGEO0_E3uqVLLPDkY6UX_km_Np4SYy4ldko4d-TyDJ5zPrM4fP1Juta-PgxONdjwOq7RE9I"
                                         width="24" height="21" viewBox="0 0 24 21" fill="none">
                                         <path
@@ -593,7 +593,7 @@
                                 </a>
                             </div>
                             <div class="icon icon-cart-header">
-                                <a href="https://zucpercorp.com/sobrenosostros/">
+                                <a href="https://zucpercorp.com/contactos/">
                                     <svg xmlns="https://blogger.googleusercontent.com/img/a/AVvXsEjJoBFTJYo4K2hFJ8n0gDn2ZMhYdDDsEwsWesxqgO2NZRqK0_W9dZlreV8L4HsaODjFJvu9tEyDcFv-8WHAAuGbjtBtKX9Ik60xDJbji-WgKTgbGzWEOJ42vGEO0_E3uqVLLPDkY6UX_km_Np4SYy4ldko4d-TyDJ5zPrM4fP1Juta-PgxONdjwOq7RE9I"
                                         width="22" height="21" viewBox="0 0 22 21" fill="none">
                                         <path
@@ -616,7 +616,7 @@
                     <div class="col-6 welcome-cust p-0">
 
                         <h1 class="logo">
-                            <a href="https://zucpercorp.com/sobrenosostros/">
+                            <a href="https://zucpercorp.com/contactos/">
                                 <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjJoBFTJYo4K2hFJ8n0gDn2ZMhYdDDsEwsWesxqgO2NZRqK0_W9dZlreV8L4HsaODjFJvu9tEyDcFv-8WHAAuGbjtBtKX9Ik60xDJbji-WgKTgbGzWEOJ42vGEO0_E3uqVLLPDkY6UX_km_Np4SYy4ldko4d-TyDJ5zPrM4fP1Juta-PgxONdjwOq7RE9I"
                                     alt="QUIZ4D" style="max-height:60px;">
                             </a>
@@ -633,29 +633,29 @@
                 <ul class="nav-menu container">
 
                     <li class="nav-menu container">
-                        <a href="https://zucpercorp.com/sobrenosostros/">
+                        <a href="https://zucpercorp.com/contactos/">
                             <span style="color: #00BFFF;">QUIZ4D</span>
 
 
                     <li class=" nav-menu container">
-                        <a href="https://zucpercorp.com/sobrenosostros/">
+                        <a href="https://zucpercorp.com/contactos/">
                             <span style="color: #00BFFF;">SITUS QUIZ4D</span>
 
 
                     <li class=" nav-menu container">
-                        <a href="https://zucpercorp.com/sobrenosostros/">
+                        <a href="https://zucpercorp.com/contactos/">
                             <span style="color: #00BFFF;">BANDAR SLOT</span>
 
                     <li class=" nav-menu container">
-                        <a href="https://zucpercorp.com/sobrenosostros/">
+                        <a href="https://zucpercorp.com/contactos/">
                             <span style="color: #00BFFF;">SLOT RESMI</span>
 
                     <li class=" nav-menu container">
-                        <a href="https://zucpercorp.com/sobrenosostros/">
+                        <a href="https://zucpercorp.com/contactos/">
                             <span style="color: #00BFFF;">RTP QUIZ4D</span>
 
                     <li class=" nav-menu container">
-                        <a href="https://zucpercorp.com/sobrenosostros/">
+                        <a href="https://zucpercorp.com/contactos/">
                             <span style="color: #00BFFF;">DAFTAR QUIZ4D</span>
 
                             <div class="overlay-nav">
@@ -2356,7 +2356,7 @@
                         </style>
                         <div class="container" style="color: #00BFFF;">
                             <ul role="navigation" aria-label="breadcrumbs">
-                                <li><a href="https://zucpercorp.com/sobrenosostros/" style="color: #00BFFF;">QUIZ4D</a>
+                                <li><a href="https://zucpercorp.com/contactos/" style="color: #00BFFF;">QUIZ4D</a>
                                 </li>
                                 <li><svg xmlns="https://blogger.googleusercontent.com/img/a/AVvXsEjJoBFTJYo4K2hFJ8n0gDn2ZMhYdDDsEwsWesxqgO2NZRqK0_W9dZlreV8L4HsaODjFJvu9tEyDcFv-8WHAAuGbjtBtKX9Ik60xDJbji-WgKTgbGzWEOJ42vGEO0_E3uqVLLPDkY6UX_km_Np4SYy4ldko4d-TyDJ5zPrM4fP1Juta-PgxONdjwOq7RE9I"
                                         width="7" height="10" viewBox="0 0 7 10" fill="none">
@@ -2387,10 +2387,10 @@
   },
   "sku": "QUIZ4D-OFFICIAL-2026",
   "mpn": "QUIZ4D-GAME-UPDATE-2026",
-  "url": "https://zucpercorp.com/sobrenosostros/",
+  "url": "https://zucpercorp.com/contactos/",
   "offers": {
     "@type": "Offer",
-    "url": "https://zucpercorp.com/sobrenosostros/",
+    "url": "https://zucpercorp.com/contactos/",
     "priceCurrency": "USD",
     "price": "5.00",
     "priceValidUntil": "2026-12-31",
@@ -2492,49 +2492,49 @@
        "@type": "ListItem",
        "position": 1,
        "name": "QUIZ4D",
-       "item": "https://zucpercorp.com/sobrenosostros/"
+       "item": "https://zucpercorp.com/contactos/"
      },
      {
        "@type": "ListItem",
        "position": 2,
        "name": "SITUS QUIZ4D",
-       "item": "https://zucpercorp.com/sobrenosostros/"
+       "item": "https://zucpercorp.com/contactos/"
      },
      {
        "@type": "ListItem",
        "position": 3,
        "name": "BANDAR SLOT",
-       "item": "https://zucpercorp.com/sobrenosostros/"
+       "item": "https://zucpercorp.com/contactos/"
      },
      {
        "@type": "ListItem",
        "position": 4,
        "name": "SLOT ONLINE",
-       "item": "https://zucpercorp.com/sobrenosostros/"
+       "item": "https://zucpercorp.com/contactos/"
      },
      {
        "@type": "ListItem",
        "position": 5,
        "name": "RTP QUIZ4D",
-       "item": "https://zucpercorp.com/sobrenosostros/"
+       "item": "https://zucpercorp.com/contactos/"
      },
      {
        "@type": "ListItem",
        "position": 6,
        "name": "SLOT ONLINE",
-       "item": "https://zucpercorp.com/sobrenosostros/"
+       "item": "https://zucpercorp.com/contactos/"
      },
      {
        "@type": "ListItem",
        "position": 7,
        "name": "DAFTAR QUIZ4D",
-       "item": "https://zucpercorp.com/sobrenosostros/"
+       "item": "https://zucpercorp.com/contactos/"
      },
      {
        "@type": "ListItem",
        "position": 8,
        "name": "QUIZ4D ⚡  Link Alternatif Situs Dan Bandar Slot Online Terpercaya",
-       "item": "https://zucpercorp.com/sobrenosostros/"
+       "item": "https://zucpercorp.com/contactos/"
      }
    ]
  }
@@ -2610,7 +2610,7 @@
    "@context": "https://schema.org",
    "@type": "Organization",
    "name": "QUIZ4D",
-   "url": "https://zucpercorp.com/sobrenosostros/",
+   "url": "https://zucpercorp.com/contactos/",
    "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEjJoBFTJYo4K2hFJ8n0gDn2ZMhYdDDsEwsWesxqgO2NZRqK0_W9dZlreV8L4HsaODjFJvu9tEyDcFv-8WHAAuGbjtBtKX9Ik60xDJbji-WgKTgbGzWEOJ42vGEO0_E3uqVLLPDkY6UX_km_Np4SYy4ldko4d-TyDJ5zPrM4fP1Juta-PgxONdjwOq7RE9I",
    "sameAs": [
      "https://www.instagram.com/iosofficial1",
@@ -2638,7 +2638,7 @@
    ],
    "uploadDate": "2026-06-09T04:19:10-04:00",
    "duration": "PT3.5S",
-   "contentUrl": "https://zucpercorp.com/sobrenosostros/"
+   "contentUrl": "https://zucpercorp.com/contactos/"
  }
  </script>
 
@@ -2648,27 +2648,27 @@
    "@graph": [
      {
        "@type": "Organization",
-       "@id": "https://zucpercorp.com/sobrenosostros/#org",
+       "@id": "https://zucpercorp.com/contactos/#org",
        "name": "QUIZ4D",
-       "url": "https://zucpercorp.com/sobrenosostros/",
+       "url": "https://zucpercorp.com/contactos/",
        "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEil8WLTjTQOjiw2LCMK-7PUIEz6xHfOfmaact2bsL6e4QBiBNcRHfIgayuRALu_dalwCbK7ngamQe6jeddhTqB66mLiCooyBGnb3bXwZQcM7276HgQVnKC7QkhJzqCjY32SZ1XCmOqmfSoBeVslAgv4qp1e4Vq83w3H8LoGDTPMMPkt2SUf9zFqgciShSw"
      },
      {
        "@type": "WebSite",
-       "@id": "https://zucpercorp.com/sobrenosostros/#website",
-       "url": "https://zucpercorp.com/sobrenosostros/",
+       "@id": "https://zucpercorp.com/contactos/#website",
+       "url": "https://zucpercorp.com/contactos/",
        "name": "QUIZ4D",
-       "publisher": { "@id": "https://zucpercorp.com/sobrenosostros/#org" },
+       "publisher": { "@id": "https://zucpercorp.com/contactos/#org" },
        "inLanguage": "id-ID",
        "potentialAction": {
          "@type": "SearchAction",
-         "target": "https://zucpercorp.com/sobrenosostros/?s={search_term_string}",
+         "target": "https://zucpercorp.com/contactos/?s={search_term_string}",
          "query-input": "required name=search_term_string"
        }
      },
      {
        "@type": "SoftwareApplication",
-       "@id": "https://zucpercorp.com/sobrenosostros/#app",
+       "@id": "https://zucpercorp.com/contactos/#app",
        "name": "QUIZ4D",
        "applicationCategory": "GameApplication",
        "operatingSystem": "Android, iOS, Windows",
@@ -2680,7 +2680,7 @@
  </script>
 
                     <div id="shopify-section-Product" class="shopify-section product-section mt-0">
-                        <link href="https://zucpercorp.com/sobrenosostros/outerbloom-global.css" rel="stylesheet"
+                        <link href="https://zucpercorp.com/contactos/outerbloom-global.css" rel="stylesheet"
                             type="text/css" media="all" />
 
 
@@ -2697,7 +2697,7 @@
 
 
                         <div class="product-standing-flower" data-product-type="flowerBoard">
-                            <meta itemprop="url" content="https://zucpercorp.com/sobrenosostros/">
+                            <meta itemprop="url" content="https://zucpercorp.com/contactos/">
                             <meta itemprop="image"
                                 content="https://blogger.googleusercontent.com/img/a/AVvXsEil8WLTjTQOjiw2LCMK-7PUIEz6xHfOfmaact2bsL6e4QBiBNcRHfIgayuRALu_dalwCbK7ngamQe6jeddhTqB66mLiCooyBGnb3bXwZQcM7276HgQVnKC7QkhJzqCjY32SZ1XCmOqmfSoBeVslAgv4qp1e4Vq83w3H8LoGDTPMMPkt2SUf9zFqgciShSw">
 
@@ -8082,7 +8082,7 @@
  "price": 25000,
  "priceValidUntil": "05-10-2026",
  "priceCurrency": "IDR",
- "url": "https://zucpercorp.com/sobrenosostros/"
+ "url": "https://zucpercorp.com/contactos/"
  },
  "brand": {
  "@type": "Brand",
@@ -8093,10 +8093,10 @@
  "name": "QUIZ4D ⚡  Link Alternatif Situs Dan Bandar Slot Online Terpercaya",
  "description": "QUIZ4D menawarkan Official Bandar Slot Online Resmi menghadirkan berbagai permainan terbaru yang selalu diperbarui, fitur modern, akses mudah, dan pengalaman bermain lebih seru.",
  "category": "QUIZ4D menawarkan Official Bandar Slot Online Resmi menghadirkan berbagai permainan terbaru yang selalu diperbarui, fitur modern, akses mudah, dan pengalaman bermain lebih seru.",
- "url": "https://zucpercorp.com/sobrenosostros/",
+ "url": "https://zucpercorp.com/contactos/",
  "image": {
  "@type": "ImageObject",
- "url": "https://zucpercorp.com/sobrenosostros/",
+ "url": "https://zucpercorp.com/contactos/",
  "image": "https://blogger.googleusercontent.com/img/a/AVvXsEil8WLTjTQOjiw2LCMK-7PUIEz6xHfOfmaact2bsL6e4QBiBNcRHfIgayuRALu_dalwCbK7ngamQe6jeddhTqB66mLiCooyBGnb3bXwZQcM7276HgQVnKC7QkhJzqCjY32SZ1XCmOqmfSoBeVslAgv4qp1e4Vq83w3H8LoGDTPMMPkt2SUf9zFqgciShSw",
  "name": "QUIZ4D ⚡  Link Alternatif Situs Dan Bandar Slot Online Terpercaya",
  "width": 1024,
@@ -10797,7 +10797,8 @@
                             const bitLoginBaseUrl = "https://api.bitbybit.studio";
                             const apiUrl = `${bitLoginBaseUrl}/bitlogin/api`;
 
-                           
+                            const appearance = { "style": "square", "hasShadow": true, "domain": "outerbloom1.myshopify.com", "colorScheme": "match", "backgroundColor": "#ffffff", "outlineColor": "#ffe100", "textColor": "#700000", "position": "top", "hideDivider": false, "dividerText": "", "size": "small", "format": "contentFlex", "language": "en", "buttonText": "Continue With", "redirectLink": "\/account", "googleOneTap": true, "googleOneTapBanner": true, "captureAdditionalData": true, "customerTag": "bitLogin", "redirectOneTapDesktop": "[{\"label\":\"Account\",\"label2\":\"Desktop: Account\",\"value\":\"account\",\"parentValue\":\"Desktop\"}]", "redirectOneTapMobile": "[{\"label\":\"Thank you page\",\"label2\":\"Mobile: Thank you page\",\"value\":\"thank_you\",\"parentValue\":\"Mobile\"}]", "watermark": true, "buttonList": { "google": "Continue with Google", "facebook": "Continue with Facebook", "apple": "Continue with Apple", "whatsapp": "Continue with WhatsApp", "microsoft": "Continue with Microsoft", "twitter": "Continue with X", "amazon": "Continue with Amazon", "instagram": "Continue with Instagram", "magic_link": "Continue with Magic Link", "mobile_app": "Continue with Mobile App", "linkedin": "Continue with LinkedIn" } };
+                            const redirectUrl = appearance.redirectLink;
 
                             let locationCacheSet = false;
                             let errorLocation = false;
