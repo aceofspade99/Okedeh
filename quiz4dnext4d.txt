@@ -2604,43 +2604,40 @@
     }
   ]
 }
+</script><script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "QUIZ4D",
+  "url": "https://zucpercorp.com/contactos/",
+  "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEjJoBFTJYo4K2hFJ8n0gDn2ZMhYdDsEwsWesxqgO2NZRqK0_W9dZlreV8L4HsaODjFJvu9tEyDcFv-8WHAAuGbjtBtKX9Ik60xDJbji-WgKTgbGzWEOJ42vGEO0_E3uqVLLPDkY6UX_km_Np4SYy4ldko4d-TyDJ5zPrM4fP1Juta-PgxONdjwOq7RE9I",
+  "sameAs": [
+    "https://www.instagram.com/iosofficial1",
+    "https://x.com/QUIZ4Dofficial1"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+62-878-994-1843",
+    "contactType": "customer support",
+    "areaServed": "ID",
+    "availableLanguage": ["Indonesian", "English"]
+  }
+}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "QUIZ4D ⚡  Link Alternatif Situs Dan Bandar Slot Online Terpercaya",
+  "description": "QUIZ4D menawarkan Official Bandar Slot Online Resmi menghadirkan berbagai permainan terbaru yang selalu diperbarui, fitur modern, akses mudah, dan pengalaman bermain lebih seru.",
+  "thumbnailUrl": [
+    "https://blogger.googleusercontent.com/img/a/AVvXsEhd9WJHuGqSbste3KGRnm2KALIbR9BPv5vKqFd13Soz1eRtMWRJzpNNtLzwYynF3AgjjKhipTxTvPSUqqBwueuZZQ8Wtvx0d8y49owg2SMomWcylGTicsAnnVpSfuQqzqinAswdG9HepDFsEN9XSGPt9uazXzJ9maJL8PgsDkWRQ96cJJ9f9psjc_LB6rE",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEhd9WJHuGqSbste3KGRnm2KALIbR9BPv5vKqFd13Soz1eRtMWRJzpNNtLzwYynF3AgjjKhipTxTvPSUqqBwueuZZQ8Wtvx0d8y49owg2SMomWcylGTicsAnnVpSfuQqzqinAswdG9HepDFsEN9XSGPt9uazXzJ9maJL8PgsDkWRQ96cJJ9f9psjc_LB6rE"
+  ],
+  "uploadDate": "2026-06-09T04:19:10-04:00",
+  "duration": "PT4S",
+  "contentUrl": "https://zucpercorp.com/contactos/"
+}
 </script>
-                    <script type="application/ld+json">
- {
-   "@context": "https://schema.org",
-   "@type": "Organization",
-   "name": "QUIZ4D",
-   "url": "https://zucpercorp.com/contactos/",
-   "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEjJoBFTJYo4K2hFJ8n0gDn2ZMhYdDDsEwsWesxqgO2NZRqK0_W9dZlreV8L4HsaODjFJvu9tEyDcFv-8WHAAuGbjtBtKX9Ik60xDJbji-WgKTgbGzWEOJ42vGEO0_E3uqVLLPDkY6UX_km_Np4SYy4ldko4d-TyDJ5zPrM4fP1Juta-PgxONdjwOq7RE9I",
-   "sameAs": [
-     "https://www.instagram.com/iosofficial1",
-     "https://x.com/QUIZ4Dofficial1",
-   ]
-   "contactPoint": {
-     "@type": "ContactPoint",
-     "telephone": "+62-878-994-1843",
-     "contactType": "customer support",
-     "areaServed": "ID",
-     "availableLanguage": ["Indonesian", "English"]
-   }
- }
- </script>
-
-                    <script type="application/ld+json">
- {
-   "@context": "https://schema.org",
-   "@type": "VideoObject",
-   "name": "QUIZ4D ⚡  Link Alternatif Situs Dan Bandar Slot Online Terpercaya",
-   "description": "QUIZ4D menawarkan Official Bandar Slot Online Resmi menghadirkan berbagai permainan terbaru yang selalu diperbarui, fitur modern, akses mudah, dan pengalaman bermain lebih seru.",
-   "thumbnailUrl": [
-     "	https://blogger.googleusercontent.com/img/a/AVvXsEhd9WJHuGqSbste3KGRnm2KALIbR9BPv5vKqFd13Soz1eRtMWRJzpNNtLzwYynF3AgjjKhipTxTvPSUqqBwueuZZQ8Wtvx0d8y49owg2SMomWcylGTicsAnnVpSfuQqzqinAswdG9HepDFsEN9XSGPt9uazXzJ9maJL8PgsDkWRQ96cJJ9f9psjc_LB6rE",
-     "	https://blogger.googleusercontent.com/img/a/AVvXsEhd9WJHuGqSbste3KGRnm2KALIbR9BPv5vKqFd13Soz1eRtMWRJzpNNtLzwYynF3AgjjKhipTxTvPSUqqBwueuZZQ8Wtvx0d8y49owg2SMomWcylGTicsAnnVpSfuQqzqinAswdG9HepDFsEN9XSGPt9uazXzJ9maJL8PgsDkWRQ96cJJ9f9psjc_LB6rE"
-   ],
-   "uploadDate": "2026-06-09T04:19:10-04:00",
-   "duration": "PT3.5S",
-   "contentUrl": "https://zucpercorp.com/contactos/"
- }
- </script>
 
                     <script type="application/ld+json">
  {
