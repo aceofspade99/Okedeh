@@ -2615,7 +2615,7 @@
    "sameAs": [
      "https://www.instagram.com/iosofficial1",
      "https://x.com/QUIZ4Dofficial1",
-   ],
+   ]
    "contactPoint": {
      "@type": "ContactPoint",
      "telephone": "+62-878-994-1843",
